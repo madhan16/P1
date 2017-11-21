@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
-#define MAX_TEXT_LENGHT 280
+#define MAX_TEXT_LENGTH 280
 #define MAX_SIZE_WORD 45
 #define MAX_AMOUNT_WORDS 20
 
 int SplitToWords(char *inputText, char outputArray[][MAX_SIZE_WORD]);
 
 int main() {
-   char str[MAX_TEXT_LENGHT];
+   char str[MAX_TEXT_LENGTH];
    char splitStrings[MAX_AMOUNT_WORDS][MAX_SIZE_WORD]; // 20 ord, 45 bogstaver
    int count;
  
