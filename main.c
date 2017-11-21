@@ -13,8 +13,8 @@ int main(void)
 {
     kort saet[55];
     kort *kortPtr[55];
- 
-    int j, i, k;
+    //det her er en ændring
+    int jn, in, kn;
 
     for(j = 0;j<55;j++) 
         kortPtr[j] = &saet[j];
