@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <time.g>
 typedef struct kort {
     const char *Vaerdi;
     const char *Kuloer;
