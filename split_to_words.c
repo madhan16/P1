@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
-#define MAX_TEXT_LENGHT 280
+#define MAX_TEXT_LENGTH 280
 #define MAX_SIZE_WORD 45
 #define MAX_AMOUNT_WORDS 20
 
@@ -10,7 +10,7 @@ void Splitter(char outputArray[][MAX_SIZE_WORD], int *count, int *lenghtword);
 void TransferCharacter(char outputArray[][MAX_SIZE_WORD], int *count, int *lenghtword, char inputChar);
 
 int main() {
-   char str[MAX_TEXT_LENGHT];
+   char str[MAX_TEXT_LENGTH];
    char splitStrings[MAX_AMOUNT_WORDS][MAX_SIZE_WORD]; // 20 ord, 45 bogstaver
    int count;
  
@@ -22,7 +22,8 @@ int main() {
    printf("\nOriginal String is: %s", str);
    printf("\nYour string is seperated into:\n");
 
-   for(int i=0; i < count; i++)
+
+   for(int i = 0; i < count; i++)
       printf("%s\n", splitStrings[i]);
    
    return 0;
