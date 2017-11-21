@@ -27,20 +27,20 @@ int main() {
 }
 
 int SplitToWords(char *inputText, char outputArray[][MAX_SIZE_WORD]) {
-   int i, j=0, count=0;
+   int i, j = 0, count = 0;
 
-   for(i=0; i<=(strlen(inputText)); i++) {    
-      if (isalnum(inputText[i])) 
+   for(i = 0; i <= (strlen(inputText)); i++) {    
+      if(isalnum(inputText[i])) 
          outputArray[count][j++] = inputText[i];
-      else if (inputText[i]==' '|| inputText[i]=='\0') {
+      else if (inputText[i] == ' ' || inputText[i] == '\0') {
          outputArray[count][j] = '\0';
          count++;
-         j=0;
+         j = 0;
          }
       else {
          outputArray[count][j] = '\0';
          count++;
-         j=0;
+         j = 0;
          outputArray[count][j] = inputText[i];
          j++;
       }
