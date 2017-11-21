@@ -20,7 +20,7 @@ int main() {
    printf("\nOriginal String is: %s", str);
    printf("\nYour string is seperated into:\n");
    printf("Value of count: %d\n", count);
-   for(int i=0; i < count; i++)
+   for(int i = 0; i < count; i++)
       printf("%s\n", splitStrings[i]);
    
    return 0;
