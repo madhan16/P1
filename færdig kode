@@ -82,4 +82,10 @@ void shuffle(kort* s, int n)
         s[j] = s[i];
         s[i] = tmp;
     }
+    int solve_world_problem {
+        int i;
+        for(i=0;i<h;i++){
+            hej
+        }
+    }
 }
