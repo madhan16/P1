@@ -1,15 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.g>
+#include <time.h>
 typedef struct kort {
     const char *Vaerdi;
     const char *Kuloer;
-}kort;
+} kort;
  
 int sammenlign_to_kort(const void *p1, const void *p2);
 void shuffle(kort *s, int n);
  
-int main(void)
+int main(void) 
 {
     kort saet[55];
     kort *kortPtr[55];
