@@ -1,3 +1,5 @@
+/*converts a long string into elements in struct, word by word*/
+
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
