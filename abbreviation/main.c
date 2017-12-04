@@ -19,7 +19,7 @@ int count_words_in_string(char *str);
 
 int main(void) {
     int i;
-    FILE *ifp = fopen("shortened.txt", "r");
+    FILE *ifp = fopen("abb_words.txt", "r");
     int lines_in_file;
     abb_tbl *abb_arr; 
     
