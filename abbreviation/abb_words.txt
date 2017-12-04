@@ -1,0 +1,117 @@
+you:                           U
+and:                           &
+information:                   info
+limousine:                     limo
+maximum:                       max
+minimum:                       min
+as soon as posible:            ASAP
+tomorrow:                      2moro
+it is:                         it’s
+do not:                        don’t
+cannot:                        can’t
+you will:                      you’ll
+januar:                        jan.
+february:                      feb.
+marts:                         mar.
+april:                         apr.
+august:                        aug.
+september:                     sept.
+october:                       oct.
+november:                      nov.
+december:                      dec.
+we are:                        we’re
+are not:                       aren’t
+is not:                        isn’t
+I am:                          i'm
+who is:                        who’s
+who has:                       who’s
+they are:                      they’re
+let us:                        let’s
+would have:                    whould’ve
+also known as:                 AKA
+oh my god:                     omg
+laughing out loud:             LOL
+right now:                     RN
+wait:                          w8
+estimated time of arrival:     ETA
+Alabama:	                   AL
+Alaska:	                       AK
+Arizona:                       AZ
+Arkansas:	                   AR
+California:	                   CA
+Colorado:                      CO
+Connecticut:	               CT
+Delaware:	                   DE
+Florida:	                   FL
+Georgia:	                   GA
+Hawaii:	                       HI
+Idaho:	                       ID
+Illinois:	                   IL
+Indiana:	                   IN
+Iowa:	                       IA
+Kansas:	                       KS
+Kentucky:	                   KY
+Louisiana:	                   LA
+Maine:	                       ME
+Maryland:                      MD
+Massachusetts:	               MA
+Michigan:                      MI
+Minnesota:                     MN
+Mississippi:                   MS
+Missouri:                      MO
+Montana:                       MT
+Nebraska:                      NE
+Nevada:	                       NV
+New Hampshire:                 NH
+New Jersey:                    NJ
+New Mexico:                    NM
+New York:                      NY
+North Carolina:                NC
+North Dakota:                  ND
+Ohio:                          OH
+Oklahoma:                      OK
+Oregon:                        OR
+Pennsylvania:                  PA
+Rhode Island:                  RI
+South Carolina:                SC
+South Dakota:                  SD
+Tennessee:                     TN
+Texas:                         TX
+Utah:                          UT
+Vermont:                       VT
+Virginia:                      VA
+Washington:	                   WA
+West Virginia:                 WV
+Wisconsin:                     WI
+Wyoming:                       WY
+ammunition:                    amo
+introduction:                  info
+laboratory:                    lab
+Christmas:                     Xmas
+gallon:                        gal
+gallons:                       gals
+pound:                         lb
+pounds:                        lb
+boulevard:                     blvd
+avenue:                        ave
+street:                        st
+be right back:                 brb
+late:                          l8
+doctor:                        Dr
+Professor:                     prof
+adjective:                     adj.
+adjectival:                    adj.
+adverb:                        adv.
+adverbial:                     adv.
+document:                      Doc
+documents:                     Doc
+edition:                       ed.
+especially:                    esp
+family:                        Fam
+language:                      lang
+noun:                          n.
+New South Wales:               N.S.W
+objective:                     obj.
+original:                      orig.
+person:                        pers.
+persons:                       pers.
