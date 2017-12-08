@@ -216,7 +216,7 @@ abb_tbl *abbreviation_setup(int *lines) {
         exit(EXIT_FAILURE);
     }
     *lines = count_lines_in_file(ifp);
-    abb_list = (abb_tbl*)malloc((int)lines * sizeof(abb_tbl));
+    abb_list = (abb_tbl*)malloc(*lines * sizeof(abb_tbl));
     
     fill_array_from_file(ifp, abb_list, lines);
     fclose(ifp);
