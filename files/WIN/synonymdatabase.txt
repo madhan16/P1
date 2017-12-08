@@ -1,0 +1,1258 @@
+dab	pat [v]: tap; daub; smear; blot; peck	bit [n]: touch; trace; snippet; dash; pinch																													
+dabble	trifle [v]: jest; toy; wet; splash																														
+dabbler	amateur [n]: dilettante; novice; beginner; loafer																														
+dad	father [n]: daddy; governor; old man; pa; papa; pappy; pop																														
+daddy	dad [n]: father; governor; old man; pa; papa; pappy; pop																														
+daft	insane [a]: wild; crazy; cracked; touched; crazed; demented; deranged																														
+dagger	cutting tool [n]: blade; butcher; knife; cutting edge; scalpel; machete																														
+daily	frequency [o]: every day; frequently; always; regularly; all the time																														
+dainty	delectable [a]: choice; delicious; tasty; juicy; luscious; palatable; savoury	delicate [a]: ethereal; beautiful; fragile; charming; petite; frail; elegant	fastidious [a]: refined; particular; ladylike; scrupulous; tasteful	squeamish [a]: nice; finical	delicacy [n]: sweetmeat; titbit																										
+dais	throne [n]: bench; chair																														
+dale	vale [n]: valley; hollow																														
+dally	loiter [v]: philander; linger; dawdle; idle; delay	play [v]: fool; disport; caress; toy; fondle; tease; sport																													
+dam	animal's mother [n]: bitch; progenitor; female parent; cow	embankment [n]: dike; barrier; wall; gate	hold back [v]: barricade; block; confine; obstruct; hold; close																												
+damage	event [n]: loss; detriment; wreckage; disadvantage; waste; impairment; spoil; breakage	thing [n]: injury; ravage; harm; bruise; ruin; hurt; bane; scandal	activity [v]: impair; lacerate; sabotage; harm; wreck; mutilate; ruin; hurt	activity [v]: degrade; pervert; debase; vitiate; cheapen; taint	speech [v]: malign; slander; disparage; calumniate	activity [v]: injure; beat; kick; flog; ravage; bruise																									
+damaged	shop-worn [a]: faded; used	spoiled [a]: marred; injured; harmed	spoiled [v]: flawed; injured; impaired; marred																												
+damages	reimbursement [n]: reparation; indemnity; settlement; compensation; indemnification; restitution																														
+damaging	detrimental [a]: harmful; injurious; bad; deleterious; pernicious																														
+dame	widow [n]: matron; dowager; lady; woman; matriarch																														
+damn	speech [v]: swear at; revile; excoriate; imprecate; curse; abuse	action [v]: consign to hell; accurse; curse; doom; proscribe; banish	action [v]: denounce; attack; condemn; reject																												
+damn with faint praise	find fault with [v]: rebuff; reject																														
+damnable	outrageous [a]: offensive; wicked; detestable; execrate; depraved																														
+damnation	condemnation [n]: damning; ban; anathema; excommunication; proscription																														
+damned	swear word [a]: blasted; bloody	condemned to hell [a]: condemned; cursed; accursed; unfortunate; unhappy; infernal; reprobate																													
+damning	incriminating [a]: serious; ruinous																														
+damp	thing [n]: moisture; dampness; dankness; fog; humidity; steam; vapour; wet	property [a]: wet; raw; dank; sodden; humid; soggy; moist	event [n]: check; chill; dejection; depression; discouragement	action [v]: moisten; dampen; wet	activity [v]: slow; abate; allay; check; inhibit; moderate; restrain	activity [v]: stifle; extinguish; suffocate																									
+dampen	discourage [v]: inhibit; dismay; restrain; dispirit; depress; humble; bridle	moisten [v]: sprinkle; wet; water; rinse																													
+damper	barrier [n]: stop; arrest; obstacle; obstruction; check; impediment; hindrance																														
+dampness	moisture [n]: damp; dankness; fog; humidity; steam; vapour; wetness																														
+damsel	lady [n]: maid; maiden; woman; girl; nymph																														
+dance	music [n]: ball; prom; promenade; ballet	movement [n]: jig; hop; skip; shuffle; prance; swing; caper	activity [v]: prance; foot; trip; hoof; jig; step	activity [v]: hop; skip; jump; leap; bob; cavort; sway																											
+dander	wrath [n]: temper; anger; animosity																														
+dandy	swell [n]: blade; buck; fop; coxcomb																														
+danger	probability [n]: possibility; exigency	event [n]: hazard; chance; evil; insecurity; exposure; pitfall; jeopardy; liability																													
+dangerous	menacing [a]: critical; unsafe; serious; impending; ugly; nasty; terrible	risky [a]: chancy; ticklish; hairy; hazardous																													
+dangerously	seriously [o]: severely																														
+dangle	hang [v]: hook; suspend; attach																														
+dangling	suspended [a]: hanging; swinging; overhanging																														
+dank	wet [a]: raw; damp; sodden; humid; soggy; moist																														
+dapper	dashing [a]: jaunty; smart; chic; romantic; gallant																														
+dapple	spot [v]: speck; fleck; dot; streak																														
+dappled	multi-coloured [a]: prismatic; kaleidoscopic; mottled; motley; varicoloured; variegated																														
+dare	challenge [v]: brave; meet; confront; defy; oppose; scorn; resist	action [v]: risk; stake; hazard; speculate	activity [v]: endanger; make bold; venture																												
+daring	bold [a]: defiant; adventurous; hardy; audacious; stalwart; brave; doughty	impudent [a]: forward; obtrusive	audacity [n]: boldness; bravery; courage; heroism; intrepidity																												
+dark	property [a]: unlit; dirty; black; cimmerian; dun; dim; dusk	characteristic [a]: dismal; pessimistic; cheerless; drab; sober; discouraging; dingy; sombre	characteristic [a]: frowning; sullen	person [a]: untaught; ignorant; uneducated; unenlightened; unlettered; in the dark	property [a]: mystical; abstruse; cabbalistic; dim; enigmatic; incomprehensible; mysterious	property [a]: secret; confidential; concealed; cryptic; hidden; mysterious	speech [a]: silent; reticent	character trait [a]: evil; bad; immoral; devilish; corrupt; flagitious; foul; hellish																							
+darken	dim [v]: cloud; dull; obscure																														
+darkening	extinguishing [n]: putting out; extinction																														
+darkness	ignorance [n]: coarseness; vulgarity	blackness [n]: dimness; gloom; dark; dusk; night; nightfall; twilight	evil [n]: wickedness; iniquity; sin; corruption; depravity	secrecy [n]: privacy; concealment; isolation; seclusion																											
+darling	beloved [n]: sweetheart; dear; favourite; lover; friend; love	dear [a]: beloved; dearest; cherished; favourite	term of endearment [n]: lover; sweetheart; precious; dearest; sugar																												
+darn	repair [v]: mend; restore; fix; renew; reconstruct; patch																														
+dart	shoot [v]: flit; bolt; speed; dash; plunge; fly; launch	arrow [n]: projectile; missile; barb	hasten [v]: course; speed; rush																												
+dash	quality [n]: flourish; show; elan; splendour; spirit; vigour	thing [n]: drop; bit; little; hint; scattering; pinch; grain; smack	movement [n]: spurt; plunge; sortie; rush; race	thing [n]: line; score	action [v]: deject; dampen; dismay; dispirit; chill; cloud	activity [v]: hit; break; splash; bludgeon; splatter; shatter; strike; thrust	activity [v]: mix; adulterate; deteriorate; mingle	movement [v]: rush; bolt; race; dart; speed; fly; hurry	action [v]: throw; hurl; fling; cast																						
+dashing	fearless [a]: bold; lively; brave; daring; spirited; adventurous	dapper [a]: jaunty; smart; chic; romantic; gallant	splashing [a]: striking; breaking; crushing; shattering																												
+dastardly	cowardly [a]: craven; pusillanimous; recreant; faint-hearted																														
+data	fact [n]: material; information; figures																														
+data base	anthology [n]: collection; catalogue; aggregation; accumulation; compilation	computer [n]: file; information																													
+date	duration [n]: epoch; period; era; day; term; course; spell	event [n]: appointment; tryst; engagement; assignation; rendezvous; interview; call; visit	relationship [v]: see; escort	action [v]: register; appoint; determine; measure; mark																											
+date back	antedate [v]: misdate																														
+dated	old-fashioned [a]: antique; antiquated; superannuated; obsolescent; obsolete; old-time																														
+daub	smudge [v]: besmear; dab; smear; plaster; bedaub																														
+daunt	frustrate [v]: discourage; dishearten; dispirit; thwart	frighten [v]: shake; cow; appall; dismay; intimidate; overawe; subdue																													
+dauntless	courageous [a]: bold; daring; adventurous; brave; audacious; fearless; intrepid																														
+dawdle	fool [v]: dally; idle; jest; joke; loiter; play; tarry																														
+dawdler	bad debtor [n]: derelict; delinquent; felon; criminal; loafer																														
+dawdling	wait [n]: hesitation; lag; delay; delaying; loitering; procrastination; stay																														
+dawn	beginning [n]: start; source; commencement; fountainhead; origin	daybreak [n]: light; daylight; dawning; opening; morning; sunrise	begin [v]: appear; star; break; open																												
+dawning	initial [a/n]: primary; first; basic; elementary; introductory; rudimentary; beginning																														
+day	duration [n]: epoch; period; era; date; term; course; spell																														
+daybreak	dawn [n]: light; daylight; dawning; opening; morning; sunrise																														
+daydream	fantasy [n]: fancy; imagination; dream; nightmare																														
+daydreamer	dreamer [n]: romanticist																														
+daylight	dawn [n]: daybreak; light; illumination; radiance																														
+daze	confuse [v]: stun; amaze; stupefy; perplex; dazzle; puzzle; confound	stupor [n]: bewilderment; muddle; confusion; astonishment; distraction																													
+dazed	amazed [a]: vacant; astonished; muddled; perplexed; bewildered; blank; confused																														
+dazzle	glare [v]: gleam; shine																														
+dazzling	radiant [a]: heavenly; divine; wonderful; beautiful; brilliant; resplendent; angelic																														
+deacon	church officer [n]: cleric; elder; minister																														
+dead	property [a]: deceased; late; expired; asleep; defunct; departed	characteristic [a]: numb; apathetic; deadened; callous; anaesthetised; cold; cool; frigid	characteristic [a]: barren; inorganic; arid; infertile; inert; sterile	property [a]: inert; flat; sluggish; dull; stagnant; low; torpid; inactive	state [a]: out; extinguished; terminated	property [a]: absolute; final; complete; unconditional; total; utter	property [a]: exact; direct; precise; straight; sure; unerring	state [a]: ended; extinguished; terminated; extinct	state [a]: spent; wearied; worn; exhausted																						
+dead end	blind [n]: closed; obstructed; blocked; shut off																														
+dead heat	tie [n]: draw; stalemate; stand-off																														
+deaden	muffle [v]: mute; cushion; dim; tone down	numb [v]: benumb; impair; blunt; repress; desensitise; desensitize; slow; dull																													
+deadliness	fatality [n]: virulence; lethality; inevitability; mortality																														
+deadlock	stand-off [n]: draw; dead heat; stalemate; tie																														
+deadlocked	unresolved [a]: pending; tentative; indeterminate; uncertain; hanging																														
+deadly	murderous [a]: noisome; bloodthirsty; noxious; implacable; pernicious; virulent; sanguinary	lethal [a]: malignant; virulent; fatal; deathly; pestilent; mortal	boring [a]: tedious; tiresome																												
+deaf	character trait [a]: obstinate; stubborn; unaware; blind	lacking sense of hearing [a]																													
+deafening	extremely loud [a]: thunderous; overpowering; shrieking																														
+deal	amount [n]: plethora; degree; abundance; extent; quantity	trade [n]: contract; understanding; arrangement; pledge; bargain; pact	play (cards) [n]: distribution; dealing; share	behaviour [v]: act; confront	trade [v]: do business; bargain; traffic	allocation [v]: allot; deliver; hand out; disseminate; ration; apportion; assign; dispense																									
+deal out	apportion [v]: allot; parcel out; mete out; give out; dispense; distribute																														
+deal with	set to work [v]: tackle; plunge into; attack; take up; affect																														
+dealer	play [n]: banker; player	trade [n]: merchant; bursar; vendor; businessman; trader																													
+dealing	business [n]: trading; communion; commerce; marketing; dealings; exchange; interchange																														
+dealings	transactions [n]: business; handling; sale; trade																														
+dean	ecclesiastic official [n]: minister	dignitary [n]: legislator; authority; leader; innovator	university official [n]: administrator																												
+dear	costly [a]: rich; prized; valuable; exorbitant; expensive; high; uneconomical	beloved [a]: intimate; cherished; sweet; darling; esteemed; loved; precious	familiar [a]: close; intimate	loved one [n]: sweetheart; love																											
+dearest	loved [a]: beloved; cherished; adored; precious; revered; worshiped																														
+dearth	scarcity [n]: lack; deficiency; insufficiency; want; meagreness; inadequacy; scantiness																														
+death	event [n]: demise; doom; rest; decease; dying; curtains; fate; expiration	stop [n]: destruction; cessation; end; finale																													
+deathless	eternal [a]: undying; everlasting; immortal; enduring; constant																														
+deathlike	wan [a]: pallid; sickly; anemic; bloodless; cadaverous; haggard; pale																														
+deathly	lethal [a]: malignant; virulent; fatal; deadly; pestilent; mortal																														
+debacle	downfall [n]: reverse; failure; beating; ruin; overthrow; disappointment; defeat																														
+debar	hinder [v]: suspend; restrict; interdict; deny; outlaw; prevent; prohibit	exclude [v]: evict; shut out; suspend																													
+debase	humiliate [v]: disgrace; abase; humble; degrade; demean; depress; deteriorate	adulterate [v]: profane; cheapen; pervert; shame; devaluate; befoul																													
+debased	debauched [a]: corrupted; degraded; base; depraved; perverted; vitiated																														
+debasement	loss [n]: detriment; wreckage; disadvantage; waste; impairment; spoil; breakage																														
+debasing	degrading [a]: spiritless; subservient; abject; disheartening; humiliating																														
+debatable	open [a]: controversial; disputable; questionable; undecided; uncertain; undetermined; unsettled																														
+debate	matter [n]: deliberation; consideration	speech [n]: argument; contest; contention; match; controversy; discussion; disputation; dispute	speech [v]: argue; vex; agitate; confute; contend; refute; discuss; controvert	activity [v]: deliberate; moot; argue; reason; consider	activity [v]: ponder; deliberate; weigh; discuss																										
+debauch	seduce [v]: defile; corrupt; deflower; violate; rape; pervert; prostitute																														
+debauched	immoral [a]: corrupt; abandoned; libertine; base; lost; debased; lubricious																														
+debauchee	sensualist [n]: rake; carouser; rascal																														
+debauchery	desire [n]: lasciviousness; lust; lechery	revelry [n]: dissipation; indulgence; carousal; intemperance; dissolution																													
+debilitate	exhaust [v]: cripple; weary; sap; enervate; fatigue; prostrate; wear out																														
+debility	fragility [n]: delicacy; frailty; tenderness; subtlety																														
+debit	finance [n]: debt; liability; arrears; balance; arrearage; account; remainder; pledge																														
+debonair	nonchalant [a]: suave; urbane; detached; sophisticated; indifferent; charming; unconcerned	jaunty [a]: cheery; buoyant; pleasant; carefree; happy																													
+debrief	reveal [v]: divulge; disclose; tip-off; spill; brief; notify																														
+debris	rubbish [n]: trash; garbage; refuse; waste; litter; fragments																														
+debt	finance [n]: liability; debit; score; arrears; due; deficit; arrearage; duty	banking [n]: securities; bonds; stocks; notes																													
+debunk	expose falsehood [v]: expose; demystify; denounce; ridicule; discredit; deflate																														
+debut	coming out [n]: entree; presentation; admission																														
+decadence	decline [n]: ebb; decrease; failure; consumption; ruin; degeneration; decay																														
+decamp	flee [v]: abscond; break; escape; fly; run away																														
+decapitate	cut off one's head [v]: behead; guillotine; execute; truncate																														
+decay	rot [n]: waste; decomposition; adulteration; break down; putrefaction; breakup; corrupt	decline [n]: ebb; decrease; failure; consumption; ruin; degeneration; decadence	dwindle [v]: die; decline; degenerate; fade; deteriorate; fall	decompose [v]: spoil; disintegrate; blight; putrefy; moulder; rot; wither																											
+decayed	rotten [a]: putrid; fetid; rank; foul; putrescent																														
+decaying	declining [a]: disappearing; disintegrating; dying; ebbing; fading; vanishing																														
+decease	expire [n]: die; go; cash in; depart																														
+deceased	dead [a]: late; expired; asleep; defunct; departed																														
+deceit	trick [n]: artifice; sham; chicane; chicanery; device; stratagem	fraud [n]: cheating; cunning; concealment; dissimulation; craftiness; deceiving; deception	duplicity [n]: falseness; perfidy; treachery																												
+deceitful	deceptive [a]: plausible; counterfeit; rotten; sharp; fallacious; spurious; fraudulent	dishonest [a]: deceiving; hypocritical; designing; insidious; disingenuous; machiavellian; empty																													
+deceive	cheat [v]: betray; trick; hoodwink; dupe; beguile; delude; bamboozle																														
+deceived	cheated [a]: betrayed; tricked; duped; hoodwinked; burned																														
+deceiver	impostor [n]: charlatan; cheat; humbug; swindler; pretender; confidence man; quack																														
+deceiving	fraud [n]: cheating; cunning; concealment; dissimulation; craftiness; deceit; deception																														
+decency	goodness [n]: honesty; rectitude; rightness; integrity; morality; probity; righteousness																														
+decent	character trait [a]: seemly; honest; chaste; conformant; pure; respectable; maidenly; decorous	property [a]: fitting; appropriate; seemly; apt; standard; becoming; fit; proper	characteristic [a]: ethical; equitable; upright; worthy; just	property [a]: average; fair; satisfactory; mediocre; middling; good																											
+decently	morally [o]: honourably; justly; properly; scrupulously; conscientiously																														
+deception	hoax [n]: artifice; chicane; cheat; chicanery; illusion	deceiving [n]: trickery; mendacity; craftiness																													
+deceptive	lying [a]: tricky; dishonest	false [a]: artful; deceitful; hypocritical; beguiling; deceiving; plausible; delusive	illusory [a]: illusive; varnished																												
+decide	action [v]: determine; conclude; resolve; settle																														
+decided	determined [a]: destined; settled; decisive; fated; resolute; intent; resolved	certain [a]: positive; absolute; clear; assured; categorical; clear-cut; definite																													
+deciding	important [a]: grave; acute; climacteric; great; crucial; critical; determining																														
+decipher	solve [v]: clear up; figure out; unfold; unravel; unearth; resolve																														
+decision	firmness [n]: determination; resoluteness; resolution; resolve	conclusion [n]: judgment; determination; resolve; resolution; will; settlement; finding																													
+decisive	demonstrative [a]: specific; convincing																														
+deck	adorn [v]: grace; ornament; trick; array; attire; bedeck	floor [n]: hatch; level; surface																													
+declaim	speak [v]: mouth; orate; harangue; rant; rave; soap-box																														
+declamation	tirade [n]: spouting; ranting; repetition; wordiness; hot air	speech [n]: discourse; lecture; oration; address																													
+declamatory	pompous [a]: bombastic; verbose; stuffy; windy; egotistic	eloquent [a]: oratorical; rhetorical; fluent; formal																													
+declaration	formal statement [n]: statement; affirmation; confirmation; manifesto; proclamation; profession; attestation	assertion [n]: allegation; avowal; disclosure; affirmation; notification; presentation	declaring [n]: announcement; notification; proclamation; expression; communication; utterance																												
+declare	announce [v]: swear; expound; proclaim; pronounce	maintain [v]: express; affirm; allege; assert; advocate; mention; asseverate	disclose [v]: confess; advertise; manifest; avow; publish; notify																												
+declaring	saying [a]: noting; remarking; asserting; reporting; stating																														
+declination	deviation [n]: variance; departure																														
+decline	decrease [n]: decay; dissolution; degradation; degeneration; ebb; deterioration; failure	slope [n]: descent; pitch; declivity; dip; hill; incline	refuse [v]: repel; avoid; desist; disapprove; deny; dismiss	descend [v]: dip; sag; droop; set; incline; settle	abase [v]: condescend; debase; lower oneself; stoop	weaken [v]: die; cheapen; decay; dwindle; worsen; degenerate; fade																									
+declining	dying [a]: disappearing; disintegrating; decaying; ebbing; fading; vanishing																														
+declivity	slope [n]: declination; slide; dip; decline; drop; descent; fall																														
+decoction	distillate [n]: essence; extract; distillation; solution; infusion																														
+decode	decipher [v]: work out; do; solve																														
+decollate	decapitate [v]: behead; guillotine; execute; kill																														
+decompose	decay [v]: crumble; mould; break up; putrefy; rot	separate [v]: analyse; disintegrate; distil; fractionate																													
+decomposition	decay [n]: rot; putrefaction; mould; corruption																														
+decontaminate	purify [v]: refine; clean; disinfect; process; purge; filter; strain																														
+decor	decoration [n]: adornment; embellishment; ornamentation																														
+decorate	dress [v]: adorn; ornament; trim	honour [v]: present medal; invest																													
+decorated	adorned [a]: ornamented; embellished; bedecked; garnished; trimmed; coloured																														
+decoration	item used to decorate [n]: ribbon; tooling; tinsel; braid; festoon; colour; spangle	adornment [n]: ornamentation; embellishment; beautification; painting	badge of honour [n]: badge; citation; medal; ribbon; insignia; emblem; award																												
+decoration day	memorial day [n]: holiday																														
+decorative	aesthetic [a]: lovely; poetic; elegant; creative; beautiful; artistic; musical																														
+decorous	seemly [a]: honest; chaste; conformant; pure; respectable; maidenly; decent																														
+decorum	observing customs [n]: ceremony; conventionality; correctness; etiquette; protocol; behaviour; formality																														
+decoy	lure [n]: bait; fake	trap [n]: blind; catch; bonnet; trick; booster; deception	betrayer [n]: judas	trap [v]: lure; bait																											
+decrease	decline [v]: lower; abate; bate; reduce; contract; drain; shrivel	reduction [n]: remission; abatement; shrinkage; slack; contraction; decline	reduce [v]: cut; curtail; check; lower; curb; abridge; hush																												
+decreasing	less and less [n]: shrinking; declining; lessening; diminishing; abating; reducing; dwindling																														
+decree	edict [n]: pronouncement; proclamation; declaration; mandate; judgment; ruling; order	proclaim [v]: announce; declare; pronounce																													
+decrepit	worn [a]: ragged; shabby; dilapidated; deteriorated; decayed; faded; dingy																														
+decrepitude	infirmity [n]: senility; weakness; feebleness																														
+decry	blame [v]: censure; rebuke; castigate; inculpate; chide; berate; upbraid																														
+dedicate	set aside [v]: devote; assign; allot; apportion; donate; give	consecrate [v]: hallow; sanctify; bless; anoint																													
+dedicated	divine [a]: sacred; sanctified; blessed; glorified																														
+dedication	loyalty [n]: commitment; devotion; allegiance; love	consecration [n]: devotion; sanctification; celebration; glorification																													
+deduce	reach a conclusion [v]: conclude; infer; gather; reason; assume; presume; judge																														
+deduct	subtract [v]: take; reduce																														
+deduction	conclusion [n]: result; answer; inference	reduction [n]: abatement; removal; discount; rebate; abstraction; subtraction	inferring [n]: concluding; reasoning																												
+deed	document [n]: agreement; charter; paper; record; instrument; lease; voucher	act [n]: procedure; achievement; accomplishment; conveyance; quality; work; action																													
+deem	estimate [v]: think; assess; consider; count; account; hold; judge																														
+deep	property [a]: serious; grave; grievous	characteristic [a]: difficult; low; buried; abstract; incisive; abysmal; rich; abstruse	property [a]: involved; earnest; absorbed; fast; absorbing; intimate; extreme; great	characteristic [a]: wise; artful; designing; astute; bright; cunning; discerning; intelligent	sound [a]: bass	position [a]: low; below; beneath; subterranean	sea [n]: river; abyss; ocean																								
+deepen	expand [v]: extend; increase; intensify; develop; grow; exacerbate	make deeper [v]: dig; hollow; dig out; lower																													
+deepness	depth [n]: pitch; drop; bottom																														
+deep-rooted	intrinsic [a]: innate; inner; ingrained; inherent; intimate; deep-seated; inmost																														
+deep-seated	intrinsic [a]: innate; inner; ingrained; inherent; deep-rooted; intimate; inmost																														
+deer	animal [n]: hind; doe; buck; fawn; stag																														
+deface	stain [v]: mar; blotch; sully; blot; spot; smudge																														
+defacement	mutilation [n]: damage; vandalism; destruction; injury; contortion; impairment																														
+defamation	obloquy [n]: aspersion; disgrace; blame; infamy; calumny; censure																														
+defamatory	insulting [a]: abusive; derogatory; deprecatory; libellous; slanderous; offensive; injurious																														
+defame	slander [v]: libel; smear; slur; vilify; revile; insult; traduce																														
+defaming	mean action [n]: meanness; shaming; degrading; cheating; deceiving																														
+default	fail [v]: dishonour; repudiate; crash; go bankrupt																														
+defeat	feeling [n]: bafflement; frustration	event [n]: downfall; reverse; failure; beating; ruin; overthrow; disappointment; debacle	conflict [n]: conquest; overthrow; subjugation; destruction; annihilation	conflict [n]: beating; whipping; come down; licking	conflict [v]: conquer; overpower; check; crush; quell; entrap; smash; overcome	action [v]: master; mock; baffle; balk; disconcert; undo; foil	conflict [v]: beat; overpower; trounce; win over; throw; pound; outplay																								
+defeated	lost [a]: forfeited; beaten; vanquished																														
+defect	lack [n]: deficiency; shortage; destitution; scarcity; want	fault [n]: failing; blemish; drawback; taint; blot; spot; vice	desert [v]: abandon; abscond; betray; forsake; rat; renounce																												
+defection	desertion [n]: apostasy; withdrawal; abandonment; falseness; tergiversation																														
+defective	faulty [a]: bad; deficient; damaged; flawed; imperfect; tainted																														
+defector	fugitive [n]: delinquent; deserter; truant; law-breaker; runaway																														
+defence	fortification [n]: trench; bulwark; palisade; dike; stockade; fort	armour [n]: aegis; bastion; resistance; preservation; stand; guard	answer [n]: plea; reply; denial; apology; rejoinder; justification; retort																												
+defenceless	naked [a]: dismantled; exposed; open; unarmed; unguarded; unprotected; weak																														
+defend	action [v]: support; apologise; apologize; assert; exonerate; espouse; back; justify; advocate	activity [v]: protect; fortify; resist; bulwark; garrison; avert; cover; guard																													
+defendant	suspect [n]: accused																														
+defended	guarded [a]: safeguarded; protected; shielded; safe																														
+defender	champion [n]: sponsor; protector; supporter; partisan; ally; backer																														
+defending	arming [a]: fortification; fortifying																														
+defenseless	without protection [a]: open; poor; weak; indefensible																														
+defensible	justifiable [a]: permissible; proper; fit; logical																														
+defer	yield [v]: obey; submit; accede; concede; comply	delay [v]: slacken; adjourn; shelve; hold off; suspend; waive																													
+deference	obedience [n]: submission; docility; compliance; condescension	honour [n]: reverence; veneration; acclaim; homage; esteem; courtesy																													
+deferential	prostrate [a]: submissive; docile; subservient; obedient; passive; resigned; accepting																														
+deferment	pause [n]: extension; adjournment; demurral; postponement; suspension; delay; moratorium																														
+deferred	paid in instalments [a]: charged; partial; indebted; on credit; funded	postponed [a]: delayed; adjourned; protracted; retarded; prolonged; staved off																													
+defiance	revolt [n]: contempt; opposition; rebellion; insubordination; despite; insurgence	challenge [n]: bravado; dare; defy; stump																													
+defiant	insolent [a]: impertinent; audacious; brassy; brazen; shameless; bold; forward																														
+deficiency	failure [n]: deficit; insufficiency; inadequacy																														
+deficient	inadequate [a]: insufficient; incompetent; imperfect; inapt; defective; incomplete																														
+deficit	deficiency [n]: failure; insufficiency; inadequacy																														
+defile	violate [v]: molest; ravish; rape; hurt	corrupt [v]: debase; adulterate; besmirch; pollute																													
+defilement	mistreatment [n]: indignity; violation; abuse; molestation; seduction; betrayal; profanation																														
+define	activity [v]: render precisely; determine; characterise; characterize; ascertain; elucidate; entitle; illustrate; interpret	action [v]: delimit; outline; bound; fix; limit; settle																													
+defined	definite [a]: tangible; positive; circumscribed; unerring; accurate; limited; determined																														
+definite	certain [a]: emphatic; decided; explicit; guaranteed; clear; positive; express	defined [a]: tangible; positive; circumscribed; unerring; accurate; limited; determined	distinct [a]: visible; audible; sharp; tangible; vivid; unmistakable; plain																												
+definitely	completely [o]: utterly; absolutely; thoroughly; entirely; wholly; unconditionally; certainly																														
+definition	delineation [n]: demarcation; determination; outlining; surveying; circumscription	meaning [n]: signification; terminology; denotation; explication; interpretation; analogue																													
+definitive	decisive [a]: conclusive; ultimate; absolute; definite; final; explicit; plain																														
+deflate	discourage [v]: dishearten; dampen; depress; daunt	let the air out [v]: exhaust; empty; flatten; collapse; void																													
+deflect	divert [v]: turn; avert; turn aside; redirect																														
+deflower	debauch [v]: defile; corrupt; seduce; violate; rape; pervert; prostitute																														
+deform	get out of shape [v]: contort; melt; warp; buckle; distort; collapse																														
+deformed	crooked [a]: distorted; askew; contorted; awry; gnarled; disfigured																														
+deformity	depravity [n]: irregularity; corruption	distortion [n]: disfigurement; malformation; ugliness																													
+defraud	do [v]: cheat; swindle; trick																														
+defray	pay for [v]: compensate for; counterbalance; cover; offset; suffice																														
+deft	proficient [a]: adept; skilled; accomplished; master; skilful; expert; practiced																														
+deftly	cleverly [o]: adroitly; agilely																														
+deftness	ability [n]: address; adroitness; art; cleverness; artistry; dexterity																														
+defunct	deceased [a]: late; expired; asleep; dead; departed																														
+defy	oppose [v]: face; resist; withstand	dare [v]: disobey; beard; brave; insult; mock; challenge; despise																													
+degeneracy	abasement [n]: debasement; meanness; inferiority; wickedness; inability																														
+degenerate	worsen [v]: decay; lessen; decrease; fall off	corrupt [a]: depraved; wicked; immoral																													
+degeneration	decline [n]: ebb; decrease; failure; consumption; ruin; decay; decadence																														
+degradation	odium [n]: dishonour; disgrace; shame; obloquy; opprobrium; scandal																														
+degrade	humiliate [v]: humble; abase; debase; deteriorate; lower; vitiate; dishonour	reduce [v]: depress; break; bump; lessen; cashier; bust; demote	corrupt [v]: deprave; degenerate; debauch; deteriorate																												
+degraded	debased [a]: disgraced; humiliated; depraved; wicked																														
+degrading	abject [a]: spiritless; subservient; debasing; disheartening; humiliating																														
+degree	quantity [n]: proportion; rate; ratio; scale	position [n]: grade; notch; rung; stage; step																													
+dehydrate	evaporate [v]: desiccate; parch; dry; concentrate																														
+dehydrated	thirsty [a]: parched; dry; droughty; desiccated																														
+deification	apotheosis [n]: aggrandisement; aggrandizement; exaltation; glorification																														
+deign	grant [v]: allow; bestow; show; concede; give in; give up; yield																														
+dejected	dispirited [a]: blue; down; depressed; discouraged; disheartened																														
+dejection	sadness [n]: unhappiness; depression; despondency; gloom; melancholy; grief; blues																														
+delay	duration [n]: pause; extension; adjournment; demurral; postponement; suspension; deferment; moratorium	event [n]: wait; hesitation; lag; dawdling; delaying; loitering; procrastination; stay	thing [n]: obstacle; problem; obtrusion	action [v]: put off; defer; retard; postpone; table; procrastinate	activity [v]: detain; hesitate; arrest; hamper; bog; incommode; clog	activity [v]: remain; linger; dally; loiter; dawdle; tarry																									
+delayed	backward [a]: behind; late; slow; tardy																														
+delaying	wait [n]: hesitation; lag; dawdling; delay; loitering; procrastination; stay																														
+delectable	dainty [a]: choice; delicious; tasty; juicy; luscious; palatable; savoury																														
+delectation	pleasure [n]: happiness; delight; ecstasy; enjoyment; joy; rapture; transport																														
+delegate	appoint [v]: commission; authorise; authorize; deputise; deputize; depute; entrust; name	representative [n]: emissary; ambassador; proxy; deputy; substitute; envoy	authorise [v]: authorize; entrust; transfer																												
+delegation	entrustment [n]: commission; sending; authorizing; assignment																														
+delete	cancel [v]: undo; omit; efface; expunge; obliterate; erase																														
+deleterious	detrimental [a]: harmful; injurious; damaging; bad; pernicious																														
+deletion	erasure [n]: rubbing out; effacing; scratching out; expunging; obliteration; blotting out; deleting																														
+deliberate	cautious [a]: moderate; careful; prudent; sober; circumspect; leisurely; methodical	intentional [a]: wanton; considered; conscious; advised; designed; premeditated; voluntary	consider [v]: muse; contemplate; judge; pause; meditate; ponder; premeditate	discuss [v]: confer; argue; consult																											
+deliberately	voluntarily [o]: willingly; freely; intentionally; frankly																														
+deliberation	discussion [n]: conference; debate; review	consideration [n]: forethought; reflection; calculation; speculation; pondering; thought																													
+delicacy	culture [n]: modesty; tact	morsel [n]: dainty; luxury; sweet; titbit; treat	fragility [n]: debility; frailty; tenderness; subtlety	daintiness [n]: etherealness; softness																											
+delicate	subtle [a]: mellow; fine; flimsy; slight	dainty [a]: female; tender; choice; luxurious; smooth; precious; elegant	weak [a]: squeamish; fault; dainty; feeble; ticklish; unhealthy; fragile	precarious [a]: critical	exact [a]: accurate; careful; exacting; painstaking; precise; scrupulous	discriminating [a]: careful; demanding; fastidious																									
+delicately	mildly [o]: cautiously; carefully; gently; smoothly; quietly; sensitively																														
+delicious	tasty [a]: dainty; delicate; good; luscious; appetizing; palatable; choice	pleasing [a]: delightful; gratifying																													
+delight	satisfy [v]: enliven; gratify; charm; amuse; entrance; enchant; fascinate	pleasure [n]: happiness; delectation; ecstasy; enjoyment; joy; rapture; transport																													
+delighted	expression of pleasure [a]: certainly; of course; splendid; thank you; excellent; by all means; charmed	very pleased [a]: excited; happy; elated; ecstatic; entranced; exhilarated																													
+delightful	cheery [a]: pleasing; charming; refreshing; lovely	enchanting [a]: glorious; agreeable; adorable; nice; ambrosial; sweet; delectable																													
+delimit	limit [v]: restrict; confine; define; outline; prohibit; demarcate; circumscribe																														
+delineate	draw [v]: sketch; outline; design; depict; portray; represent; paint																														
+delineation	description [n]: representation; rendition; depiction; account; portrayal; picture	drawing [n]: sketch; portrait; picture; outline; map																													
+delinquency	fault [n]: culpability; solecism; wrongdoing; indiscretion; impropriety; misdeed; dereliction																														
+delinquent	unpaid and overdue [a]: unpaid; overdue; owed; due; in arrears; owing	failing in duty [a]: slack; tardy; censurable; culpable; derelict	bad debtor [n]: derelict; dawdler; felon; criminal; loafer	juvenile offender [n]: offender; miscreant; wrongdoer; malefactor; law-breaker; reprobate																											
+delirious	drunk [a]: intoxicated	raving [a]: demented; wandering; crazy; irrational																													
+delirium	aberration [n]: delusion; derangement; hallucination; illusion; insanity																														
+deliver	issue [v]: cast; bring forth; deal; direct; discharge; emit; give forth	transfer [v]: give; cede; remit; pass; give over; refer; give up	pronounce [v]: express; advance; present; announce; read; communicate; give	save [v]: ransom; disentangle; extricate; redeem; release; rescue; emancipate	transport [v]: transfer; convey; cart																										
+deliverance	salvation [n]: pardon; reprieve; liberation; rescue; release; redemption; extrication																														
+delivery	bringing merchandise [n]: consignment; shipment; conveyance	setting free [n]: deliverance; liberation; release; rescue; freeing; pardon	bringing forth a baby [n]: birth; childbirth; confinement; accouchement; labour	speech [n]: rendition; enunciation; eloquence; pronunciation; articulation; elocution; diction	baseball [n]: ball; control; performance; arm; game																										
+delude	mislead [v]: betray; deceive; fool; dupe; beguile																														
+deluge	flood [v]: inundate; drown; engulf	flood [n]: drencher; cataclysm; catastrophe; downpour; inundation; overflow	crowd [v]: swamp	glut [v]: over-supply																											
+delusion	mistake [n]: misconception; blunder; lapse; oversight	trick [n]: idol; deception; error; mirage; fallacy; phantasm; fancy																													
+delusive	false [a]: artful; deceitful; hypocritical; beguiling; deceiving; plausible; deceptive																														
+deluxe	luxurious [a]: fine; elegant; splendid; classy; grand; first class; with all the trimmings																														
+delve	shovel [v]: dig; mine; excavate; channel; grub; burrow; dig out																														
+demagogue	politician [n]: manipulator																														
+demand	speech [n]: request; appeal; bid; plea; inquiry; search; entreaty	thing [n]: order; necessity; claim; call; need; requirement; charge; requisition	activity [v]: require; lust; ask for; oblige; postulate; rule; call for; command	speech [v]: ask; direct; call; inquire; charge; crave; enjoin; necessitate																											
+demanding	querulous [a]: exacting; critical; fussy; hard to please; imperious	difficult [a]: exacting; bothersome; troublesome; exigent																													
+demands	claim [n]: warning; command; proposition; proposal; requirements; mandate; ultimatum																														
+demarcate	limit [v]: restrict; confine; hinder; define; restrain; circumscribe																														
+demarcation	division [n]: distinction; separation; differentiation; split	boundary [n]: separation; margin; terminus; confine																													
+demean	pervert [v]: degrade; debase; corrupt; debauch; deprave; lower; canker																														
+demeanor	attitude [n]: disposition; behaviour; behavior [US]; comportment; conduct; deportment																														
+demeanour	poise [n]: address; bearing; manner; appearance; behaviour																														
+demented	insane [a]: deranged; lunatic; psychotic; crazy; mad; maniacal; unsound																														
+dementia	insanity [n]: madness; craziness; senility; mania																														
+demerit	low mark [n]: fault; punishment																														
+demesne	province [n]: range; scope; domain; jurisdiction; dominion; field																														
+demilitarise	disarm [v]: demilitarize; neutralise; neutralize; subjugate																														
+demilitarize	demilitarise [v]: disarm; neutralise; neutralize; subjugate																														
+demise	death [n]: extinction; dissolution; release; slaughter																														
+demobilise	deprive of weapons [v]: disable; subdue; debilitate; incapacitate; disarm; demobilize																														
+demobilize	deprive of weapons [v]: disable; subdue; debilitate; incapacitate; demobilise; disarm																														
+democratic	constitutional [a]: popular; orderly; just; representative; free	not snobbish [a]: friendly; human; common; thoughtful																													
+demolish	destroy [v]: dissolve; consume; atomise; atomize; mangle; dash; obliterate; unmake																														
+demolition	destruction [n]: devastation; ruin; desolation; wreck; breakdown																														
+demon	rascal [n]: villain; fiend; rogue; brute; beast	evil spirit [n]: devil; fiend; imp; monster; incubus; vampire																													
+demoniac	frenzied [a]: wild; furious; mad; insane; violent; aroused	diabolical [a]: devilish; fiendish; wicked; satanic; impious																													
+demonstrate	explain [v]: describe; display; express; make clear; illustrate; establish	show [v]: teach; confirm; illustrate; prove; present	political protest [v]: protest; manifest; exhibit; display; parade; picket; march																												
+demonstration	presentation of evidence [n]: illustration; explanation; proof; induction; documentation	exhibit [n]: presentation; display; show; showing	peace march [n]: protest; rally; march																												
+demonstrative	decisive [a]: specific; convincing	outgoing [a]: expansive; expressive; illustrative; unconstrained; unreserved; unrestrained	affectionate [a]: warm-hearted; tender																												
+demonstrator	objector [n]: disputant; heretic; nonconformist; rebel; dissenter; radical																														
+demoralise	unnerve [v]: weaken; break; discourage; daunt; enfeeble; dishearten; unman	corrupt [v]: debase; pervert; deprave; sap																													
+demoralised	discouraged [a]: depressed; broken; disheartened; sad	corrupted [a]: depraved; wicked; immoral; sinful																													
+demoralize	unnerve [v]: weaken; break; discourage; daunt; enfeeble; dishearten; unman	corrupt [v]: debase; pervert; deprave; sap																													
+demoralized	discouraged [a]: depressed; broken; disheartened; sad	corrupted [a]: depraved; wicked; immoral; sinful																													
+demote	reduce [v]: depress; break; bump; lessen; cashier; bust; degrade																														
+demur	objection [n]: hesitation; challenge; demurral; refusal	object [v]: disagree; dispute; challenge; refuse; take exception	hesitate [v]: stickle																												
+demure	modest [a]: staid; coy; decorous; sedate; serious; sober	prim [a]: priggish; prudish	coy [a]: blushing																												
+den	recreation room [n]: study; library; living room; retreat	cave [n]: lair; hollow; hole; cavern																													
+denial	contradiction [n]: disavowal; refutation; negation; rejection	refusal [n]: no; dissent; disapproval; rejection																													
+denigrate	disparage [v]: deprecate; decry; ridicule; lower; belittle																														
+denigration	slander [n]: smear; defamation; libel; vilification; calumny; lie																														
+denizen	inhabitant [n]: dweller; native; occupant; resident; citizen																														
+denominate	designate [v]: dignify; classify; enumerate; identify; characterise; characterize; acclaim; indicate																														
+denomination	label [n]: name; association; title; identification	classification [n]: category; class; group	religion [n]: church; faith; sect; belief; creed																												
+denotation	significance [n]: meaning; sense; connotation; import; signification																														
+denote	show [v]: indicate; mark; connote; say; register; record; read																														
+denouement	resolving [n]: solution; answering; outcome; resolution; issue; end result; explanation																														
+denounce	accuse [v]: charge; give away; indict; inform against; arraign	censure [v]: assail; threaten; attack; damn; blame; brand; condemn																													
+dense	character trait [a]: stupid; dull; half-witted; ignorant; imbecilic; moronic	characteristic [a]: compact; thick; solid; lush; impenetrable																													
+density	electrical charge [n]: current	solidity [n]: heaviness; bulk; substantiality; compactness; consistency																													
+dent	hollow [v]: depress; dimple; gouge; notch	indentation [n]: impression; dimple; depression; concavity; dip; pit; trough																													
+denude	reveal [v]: show; expose; undress; strip; disrobe; uncover; lay open																														
+denuded	dispossessed [a]: lost; ruined; forfeited																														
+denunciation	disapproval [n]: rebuke; condemnation; castigation; criticism; reproach; gossiping	indictment [n]: charge; accusation; censure; imputation; blame																													
+deny	speech [v]: reject; abjure; disavow; renounce	challenge [v]: dispute; traverse; contradict; disagree; contravene; controvert; disprove; cross	action [v]: disown; disclaim; disallow; refuse; keep back; repudiate; withhold																												
+depart	direction [v]: diverge; swerve; deviate; turn aside; vary	movement [v]: go; part; absent; pass; retreat; leave; quit	activity [v]: die; perish; pass away; expire; pass on																												
+departed	left [a]: forsaken; gone; withdrawn; moved; disappeared	dead [a]: defunct; deceased; expired																													
+department	subdivision [n]: division; bureau; office; section; ward; constituency	sphere of duty [n]: jurisdiction; administration; dominion; station; office; business																													
+department store	retail outlet [n]																														
+departure	deviation [n]: variance; declination	exit [n]: egress; start; going; stampede; separation; migration																													
+depend	cling [v]: adhere; hang; rely; rest																														
+depend on	be contingent on [v]	put faith in [v]: have faith in; believe in; trust; rely on; confide in; count on																													
+depend upon	affect [v]: relate to; pertain to; concern; implicate; apply to; include; belong to																														
+dependable	reliable [a]: faithful; true; trustworthy; trusty																														
+dependence	contingency [n]: sequence; connection; interdependence; relationship	subordination [n]: yoke	reliance [n]: trust; belief; credence; faith																												
+dependency	colonial state [n]: territory; settlement; protectorate; colony																														
+dependent	inferior [a]: secondary; lesser	contingent [a]: conditional; ancillary; subservient; relative	helpless [a]: poor; indigent; minor; immature; clinging	ward [n]: orphan; minor; client; delinquent																											
+depict	picture [v]: delineate; describe; draw; imagine; paint; represent																														
+depiction	behaving [n]: dramatizing; performing; pantomime; acting; dramatic performance																														
+deplane	disembark [v]: get off; descend; alight; dismount																														
+deplete	drain [v]: exhaust; empty; weary; sap; tax																														
+depleted	exhausted [a]: used up; consumed; bereft of; almost sold out; devoid of; drained; emptied; short of; wasted; denuded of; destitute of; reduced; running out; out of																														
+depletion	reduction [n]: exhaustion; deficiency; consumption; emptiness																														
+deplorable	unfortunate [a]: lamentable; woeful; grievous; distressing; dire; calamitous; sad																														
+deplore	mourn [v]: grieve; bemoan; bewail; lament; weep																														
+deploy	assemble [v]: arrange; line up; marshal; organise; organize; order; array; muster																														
+depopulate	abandon [v]: desert; forsake; desolate																														
+deport	banish [v]: cast out; exile; expatriate; ostracise; ostracize; expel; ban; drive out																														
+deportment	behaviour [n]: action; manners; response; comportment; performance; demeanour; actions																														
+depose	unseat [v]: oust; dislodge; overthrow; fire; dismiss; can; dethrone																														
+deposit	coating [n]: lode; vein	sediment [n]: grounds; drift; alluvium; deposition; mud; sand; silt	place [v]: rest; lay; drop; set; lay down; locate; put	drop [v]: precipitate; throw down; hail; rain; sleet; snow	banking [v]: lodge; invest; hoard; amass; save; keep; secure																										
+deposition	discharge [n]: displacement; removal; degradation	declaration [n]: attestation; allegation; affirmation; announcement																													
+depository	repository [n]: bunker; cache; depot																														
+depot	storehouse [n]: depository; annex; warehouse; arsenal; magazine; repository																														
+deprave	corrupt [v]: degrade; degenerate; debauch; deteriorate																														
+depraved	evil [a]: nefarious; vile; wretched; low; base; bad; vicious																														
+depravity	evil [n]: vice; badness; crime; malfeasance; baseness; malignancy; turpitude																														
+deprecate	deplore [v]: censure; condemn; object; expostulate; disparage; regret																														
+deprecatory	insulting [a]: abusive; derogatory; injurious; libellous; slanderous; offensive; defamatory																														
+depreciate	belittle [v]: decry; disparage; discredit; ridicule; denounce; denigrate; traduce	devaluate [v]: cheapen; lessen; decline; devalue; downgrade; lower; mark down																													
+depreciation	detraction [n]: aspersion; disparagement; debasement; lie; degradation																														
+depreciative	derogatory [a]: derogative; disparaging; opprobrious; debasing; vituperative																														
+depredation	pillage [n]: plunder; ravage; plundering; rapine; robbery; spoliation; theft																														
+depress	deject [v]: grieve; chill; weary; press; dampen; weigh down; discourage	lower [v]: sink; dull; squash; drop; settle; dip; reduce	cheapen [v]: devalue	humble [v]: abase; reduce; abash; mortify; debase; mock; degrade																											
+depressed	undervalued [a]: unemployed; impoverished	dejected [a]: downhearted; blue; heavy; low; despondent; sore; downcast																													
+depressing	agonizing [a]: painful; distressing; disturbing; excruciating; tormenting; saddening																														
+depression	recession [n]: decline; slump; unemployment; stagnation	hollow [n]: basin; dent; hole; concavity; dimple; cavity; dip	sorrow [n]: despair; despondency; gloom; dejection; melancholy; misery; trouble																												
+deprivation	loss [n]: forfeiture; damage; hurt; forfeit; detriment; cost; pain																														
+deprive	strip [v]: bankrupt; dispossess; withhold; divest; dismantle; bare; denude																														
+depth	characteristic [n]: profundity; deepness; intensity; wisdom; profoundness; extent	property [n]: deepness; pitch; drop; bottom	nature [n]: valley; abyss; gulf; pit; shaft; well; crater; chasm																												
+depute	appoint [v]: commission; authorise; authorize; deputise; deputize; delegate; entrust; name																														
+deputize	entrust [v]: endow; empower; invest; charge; promote; delegate; deputise; commission																														
+deputy	administrative officer [n]: chief; constable; marshal; sheriff; police officer; stand in																														
+derange	cause craziness [v]: unbalance; craze; disturb; madden																														
+deranged	insane [a]: lunatic; demented; psychotic; crazy; mad; maniacal; unsound																														
+derangement	delirium [n]: delusion; aberration; hallucination; illusion; insanity																														
+derelict	negligent [a]: neglectful; delinquent; remiss; careless; lax	abandoned [a]: neglected; deserted; destitute; forsaken	social outcast [n]: tramp; bum; pariah; renegade; hobo; vagrant	delinquent [n]: dawdler; loafer																											
+dereliction	desertion [n]: abandonment; renunciation	failure [n]: delinquency; evasion; fault; nonperformance; neglect; negligence																													
+deride	jeer [v]: scoff; gibe; jest; quip																														
+derision	scorn [n]: mockery; scoff; sneer																														
+derisive	scornful [a]: contemptuous; insulting; sarcastic; rude; taunting																														
+derivation	origin [n]: beginning; inception; source; cause; root; root-stock; whence																														
+derive	action [v]: obtain; acquire; procure; receive	process [v]: conclude; educe; determine; evolve																													
+derived	used [a]: second-hand; old; worn																														
+dermatitis	rash [n]: efflorescence; eruption; breakout; skin irritation																														
+derogate	disparage [v]: discredit; insult; detract; slander; take away; humiliate																														
+derogatory	opprobrious [a]: derogative; disparaging; depreciative; debasing; vituperative																														
+derrick	lift [n]: crane; hoist																														
+descant	comment [v]: remark; criticise; criticize; discourse; discuss	discourse [n]: comment; discussion; remark; criticism; review; critique																													
+descend	decrease [v]: decline; deteriorate; drop; degenerate; slip	move downward [v]: sink; plunge; dip; alight; go down; settle; come down on	condescend [v]: humble oneself; stoop; concede; patronise; patronize																												
+descend on	approach [v]: gain on; close in; come near	attack [v]: beset; bomb; invade; raid																													
+descendant	scion [n]: successor; heir; offspring; child; posterity																														
+descendants	product [n]: offspring; brood; fruit; progeny; children; consequence; issue																														
+descending	falling [a]: descent; degradation; plunge; downfall; collapse; sinking																														
+descent	slope [n]: declination; slide; dip; decline; drop; declivity; fall	falling [n]: descending; degradation; plunge; downfall; collapse; sinking	origin [n]: derivation; pedigree; extraction; stem; stock; lineage; genealogy	attack [n]: assault; advance; foray; incursion; raid																											
+describe	outline [v]: inform; summarise; summarize; recapitulate																														
+description	report [n]: narration; portrait; story; recital; version; portrayal	classification [n]: order; genus																													
+descriptive	exact [a]: meticulous; careful; painstaking; circumstantial; critical; particular; detailed																														
+desecrate	defile [v]: debase; despoil; befoul; profane; scorn; misuse; blaspheme																														
+desecration	offence [n]: corruption; crime; misuse; injustice; misapplication; abuse																														
+desensitise	dull [v]: soften; blunt; desensitize; deaden; diminish; numb; paralyse																														
+desensitize	dull [v]: soften; desensitise; blunt; deaden; diminish; numb; paralyse																														
+desert	nature [n]: wasteland; solitude; waste; sand; wilderness	characteristic [a]: barren; naked; desolate; forsaken; uninhabited; wild	thing [n]: reward; merit; due; compensation	matter [n]: retribution; penalty; chastisement	activity [v]: abandon; fail; defect; forsake; give up; run away; leave																										
+deserted	desolate [a]: gaunt; alone; forsaken; stark; lone; lonely																														
+deserter	coward [n]: craven; dastard; apostate; traitor; recreant; renegade																														
+desertion	abandonment [n]: escape; flight; evasion; disaffection; disavowal; renunciation																														
+deserve	merit [v]: bear; warrant; be worthy of; invite																														
+deserved	lawful [a]: legal; legitimate; appropriate; apt; due; rightful; just																														
+deserving	worthy [a]: good; honourable; immaculate; unblemished; unsullied; fair																														
+desiccate	preserve [v]: dehydrate; evaporate	dry [v]: parch; dehydrate; drain																													
+desiccated	dry [a]: parched; arid; droughty; desert; dried; dusty																														
+desideratum	purpose [n]: objective; aim; requirement; goal																														
+design	thing [n]: outline; ornament; painting; blueprint; pattern; depiction; draft; stamp	thing [n]: plan; arrangement; project; lay out; proposal; map; proposition; scheme	view [n]: reason; notion; aim; thought; end; intent; intention	effect [n]: meaning; drift; purport	activity [v]: contrive; hatch; model; devise; think; plan; project	activity [v]: mean; intend; propose; purpose	activity [v]: sketch; delineate; outline; draw																								
+designate	allocate [v]: earmark	name [v]: appoint; indicate; finger; make; nominate; tap	commission [v]: delegate; constitute																												
+designation	name [n]: appellation; classification; label; class; identification	selection [n]: indication; appointment; specification																													
+designed	made [a]: composed; written; created; combined																														
+designedly	on purpose [o]: intentionally; purposely; deliberately																														
+designer	artisan [n]: artist; adept; craftsman; craftswoman; worker; inventor; contriver; artificer																														
+designing	alert [a]: wide awake; diligent	sly [a]: arch; artful; astute; crafty; cunning; deceitful																													
+desirability	worth [a]: importance; merit; calibre; account; value; benefit; eminence																														
+desirable	advantageous [a]: beneficial; useful; acceptable; welcome; helpful; expedient; profitable	erotically appealing [a]: seductive; charming; alluring; fascinating																													
+desire	hunger [n]: hope; appetite; motive; longing; craving; urge; will	aspiration [n]: mind; hope; request; want; wish	lust [n]: greed; fervour; passion; carnality; pleasure; rage	devotion [n]: rapture; admiration	covet [v]: long; choose; pant; crave; fancy; long for	request [v]: ask; seek; solicit																									
+desired	wanted [a]: popular; coveted; in demand; needed																														
+desiring	enthusiastic [a]: impassioned; yearning; longing; needing																														
+desirous	ambitious [a]: hopeful; yearning; eager; energetic; hankering; hungry; inspired																														
+desist	cease [v]: end; stop; finish; quit; surrender; withdraw; relinquish																														
+desk	thing [n]: lectern; pulpit	office [n]: bureau; jurisdiction																													
+desolate	destroyed [a]: barren; devastated; ravaged; scorched	deserted [a]: gaunt; alone; forsaken; stark; desert; lone; lonely; waste	forlorn [a]: cheerless; downcast; disconsolate; melancholy; inconsolable; lost; dolorous	dismal [a]: dreary; wild	abandon [v]: desert; forsake; depopulate	destroy [v]: strip; despoil; devastate; lay waste; ravage; ruin; sack	sadden [v]: depress																								
+desolation	gloom [n]: despair; grief; misery; wretchedness	barrenness [n]: bareness; bleakness; desert; emptiness; devastation; extinction; annihilation																													
+despair	sorrow [n]: depression; despondency; gloom; dejection; melancholy; misery; trouble																														
+despairing	pessimistic [a]: cynical; morbid; dark; morose; foreboding; sullen; gloomy																														
+desperado	outlaw [n]: bandit; criminal; miscreant; ruffian																														
+desperate	grave [a]: dangerous; hopeless; serious	frantic [a]: headlong; rash; reckless	hopeless [a]: desolate; despondent; forlorn; downcast; wretched; despairing	extreme [a]: bold; excessive; acute; foolhardy; great; heroic; drastic																											
+desperation	recklessness [n]: carelessness; trouble; frenzy	hopelessness [n]: despondency; depression; heartache; sorrow; torture; grief																													
+despicable	worthless [a]: abject; bad; contemptible; miserable; low; mean; wretched																														
+despise	disdain [v]: detest; scorn; hate; condemn																														
+despite	aside [o]: notwithstanding; however; albeit																														
+despoil	plunder [v]: ransack; forage; devastate; fleece; lay waste; pillage; rape																														
+despoilment	plunder [n]: ravaging; piracy; depredation; theft																														
+despondency	sadness [n]: unhappiness; depression; melancholy; gloom; dejection; grief; blues																														
+despondent	sad [a]: depressed; melancholy; dispirited; disconsolate; downhearted; glum; plaintive																														
+despot	autocrat [n]: dictator; tyrant; oppressor; totalitarian																														
+despotic	tyrannical [a]: cruel; oppressive; severe; brutal; repressive; odious																														
+despotism	persecution [n]: cruelty; hardness; oppression; domination; injustice; coercion; dictatorship																														
+destination	aim [n]: mission; purpose; butt; objective; end; object; target																														
+destine	intend [v]: design; propose; reserve; dedicate	fate [v]: predetermine; foreordain; decide; doom																													
+destined	fated [a]: near; predetermined; predestined; forthcoming; impending; foreordained	directed towards [a]: determined; designated																													
+destiny	inevitability [n]: predetermination; conclusion; decree; certainty; luck	future [n]: necessity; portion; destination; end; doom; fate; fortune																													
+destitute	miserable [a]: poor; penniless																														
+destitution	want [n]: poverty; indigence; penury; privation																														
+destroy	end [v]: exterminate; annihilate; butcher; murder; slaughter; overthrow; eradicate	demolish [v]: dissolve; consume; atomise; atomize; mangle; dash; obliterate; unmake	nullify [v]: disable; invalidate																												
+destroyed	ruined [a]: crushed; ravaged; decrepit; smashed; beyond repair																														
+destruction	death [n]: fate; annihilation; havoc; massacre; ravage; murder; sack	ruin [n]: overthrow; vandalism; desolation; smash; blight; devastation; waste	plague [n]: holocaust; shipwreck																												
+destructive	ruinous [a]: evil; baleful; cancerous; noisome; deadly; shattering	harmful [a]: injurious; hurtful; troublesome																													
+desultory	disconnected [a]: aimless; erratic; random; variable; miscellaneous																														
+detach	split [v]: divide; separate; sever; disjoin; disconnect; undo; disengage																														
+detached	apathetic [a]: aloof; indifferent; unconcerned; distant; uninvolved	cut off [a]: removed; separated; divided; severed																													
+detachment	indifference [n]: apathy; aloofness; unconcern; coldness	armed forces [n]: squad; patrol; unit; troops; organisation; organization																													
+detail	armed forces [n]: detachment; squad; force; team; unit; organisation; organization	thing [n]: part; item; aspect; article; particular; singularity; trait	activity [v]: itemise; itemize; make clear; particularise; particularize; reveal; enumerate; catalogue; recite	allocation [v]: assign; appoint; designate; detach; allocate																											
+detailed	elaborate [a]: elegant; minute; fancy; luxurious; ornate; embellished																														
+details	insides [n]: constituents; filling; matter; contents; sum																														
+detain	confine [v]: constrain; arrest; intern; restrain	delay [v]: hold up; arrest; inhibit; check; keep; retard; slow	retain [v]: keep back; hold; withhold																												
+detect	discover [v]: scent; sniff; spot; track; find																														
+detection	discovery [n]: showing; espial; unfolding; find; disclosure; strike; unearthing																														
+detective	operative [n]: agent; investigator																														
+detention	arrest [n]: apprehension; confinement; capture; constraint; imprisonment; seizure																														
+deter	delay [v]: block; retard; stay; detain; stop; check; inhibit																														
+detergent	antiseptic [n]: disinfectant; sterilizing; antitoxin; preventative; medicine																														
+deteriorate	wear [v]: worsen; abrade; age; cut down; fatigue; impair																														
+deterioration	wear [n]: dilapidation; erosion; wearing away; rubbing off																														
+determinant	element [n]: component; constituent; part; portion; ingredient; factor																														
+determination	visualization [n]: visualisation; perception; measurement; judgment	resolve [n]: persistence; boldness; conviction; resoluteness; tenacity; resolution																													
+determine	ascertain [v]: judge; learn; ordain; certify; prove; check; see	decide [v]: conclude; resolve; settle	set [v]: condition; devise; state; decide; plot; take; establish	induce [v]: control; impel; govern; incline; lead	intend [v]: resolve; mean																										
+determined	stubborn [a]: firm; obstinate; dogged	resolute [a]: positive; resolved; inflexible; set; strenuous; rigid; sturdy	settled [a]: decided; agreed; concluded; resolved; closed																												
+determining	important [a]: grave; acute; climacteric; great; crucial; deciding; critical																														
+deterrence	restriction [n]: obstruction; deprivation; hindrance; arrest; control; frailty; limitation																														
+deterrent	stay [n]: check; stop; obstruction; arrest; halt; hindrance; interruption																														
+detest	disdain [v]: scorn; despise; hate; condemn																														
+detestable	insulting [a]: abusive; abhorrent; offensive; nasty; hateful; monstrous; impertinent																														
+detestation	dislike [n]: antipathy; aversion; disgust; dissatisfaction; repugnance																														
+dethrone	unseat [v]: depose; dislodge; overthrow; fire; dismiss; can; oust																														
+detonate	shoot [v]: discharge; blast; fire; set off																														
+detonation	explosion [n]: burst; blast; discharge; outbreak; outburst; eruption																														
+detour	direction [n]: deviation; divergence; branch; by-pass; by-way																														
+detract	depreciate [v]: decrease; divert; lower; lessen; slander; discredit																														
+detraction	insult [n]: affront; aspersion; abuse; censure; condemnation; defamation																														
+detractor	derogator [n]: critic; censor																														
+detriment	loss [n]: damage; wreckage; disadvantage; waste; impairment; spoil; breakage																														
+detrimental	bad [a]: harmful; injurious; damaging; deleterious; pernicious																														
+devaluate	adulterate [v]: profane; cheapen; pervert; shame; debase; befoul																														
+devalue	reduce [v]: decrease; diminish; lessen; depreciate; lower; shave																														
+devastate	despoil [v]: waste; pillage; plunder; ravage; ruin; lay waste; desolate																														
+devastated	feeling [a]: depressed; shattered; broken hearted; sad; discouraged; troubled																														
+devastating	immoderate [a]: exhausting; consuming; harmful; wasteful																														
+devastation	waste [n]: ruin; decay; spoliation; decline; loss; diminution; dissipation																														
+develop	grow [v]: acquire; mature; form; evolve; advance; ripen	improve [v]: spread; enlarge; stretch; expand; promote; advance; exploit	tell [v]: unfold; disclose; exhibit; unravel; uncover; explain; unwind	elaborate [v]: fill out; amplify; explicate																											
+developed	grown [a]: cultivated; raised; made																														
+developing	becoming different [a]: changing; growing; shrinking																														
+development	growth [n]: developing; disclosure; unfolding; maturation; enlargement; maturing; opening	progress [n]: outgrowth; elaboration; gain; evolution; expansion; rise	community [n]: project																												
+deviate	turn aside [v]: avert	vary [v]: sheer; depart; turn; digress; warp; diverge; err																													
+deviating	deviate [a]: aberrant; devious; divergent; errant; erring; straying																														
+deviation	departure [n]: aberration; change; alteration; divergence; diversion	turning [n]: branch; fork																													
+device	project [n]: plan; way; design; expedient; scheme	thing [n]: gadget; tool; apparatus; contrivance; mechanism; contraption; appliance; gear	thing [n]: ruse; artifice; dodge; evasion; machination; manoeuvre; subterfuge; shift	thing [n]: badge; type; sign; crest; design; emblem; figure	language [n]: motto; axiom; legend; slogan																										
+devices	inclination [n]: bent; desire; will																														
+devil	person [n]: villain; renegade; dastard	religion [n]: satan; beelzebub; fiend; lucifer; serpent																													
+devilish	cruel [a]: diabolical; fiendish; satanic																														
+devious	circuitous [a]: roundabout; winding; tortuous; oblique	perverse [a]: sly; crafty; dishonest; underhanded; foxy; insidious; crooked	blundering [a]: erring; mistaken; in error; deviating																												
+devise	leave [v]: bequeath; bequest	invent [v]: leave; forge; arrange; meditate; concoct; plot; contrive																													
+devoid	empty [a]: barren; destitute; vacant; void; abandoned; unfilled; unoccupied																														
+devote	apply [v]: persevere; dedicate; work at; prescribe; allot; appropriate; assign																														
+devoted	loving [a]: affectionate; attentive; fond; attached	dutiful [a]: faithful; constant; devout; loyal																													
+devotee	addict [n]: fan; buff; follower; lover																														
+devotion	dedication [n]: consecration	affection [n]: party; attachment	eagerness [n]: enthusiasm; ardour; fealty; fidelity; love; loyalty; zeal	piety [n]: grace; devoutness; homage; faith; religion; godliness; sanctity																											
+devotional	religious [a]: sacred; divine; hallowed; reverential; holy; ritual; solemn																														
+devour	gorge [v]: gulp; bolt																														
+devouring	gluttonous [a]: greedy; ravenous; voracious; starved; carnivorous; insatiable; omnivorous																														
+devout	serious [a]: dedicated; earnest; devoted; hearty; honest; sincere	pious [a]: godly; orthodox; devoted; pietistic; holy; religious																													
+devoutness	piety [n]: grace; devotion; homage; faith; religion; godliness; sanctity																														
+dexterity	ability [n]: deftness; adroitness; art; cleverness; artistry; address																														
+dexterous	adroit [a]: deft; clean; adept																														
+diabolic	devilish [a]: fiendish; malevolent; impious; demonic; wicked																														
+diabolical	devilish [a]: cruel; fiendish; satanic																														
+diagnostic	set of symptoms [n]: concurrence of symptoms; complex; syndrome; evidence; manifestation; disease; affliction																														
+diagonal	crosswise [a]: transverse; cross	bias [a]: bevel; oblique; inclining; askew; biased; slanted																													
+diagram	drawing [n]: outline; chart; blueprint; plan; draft; map; representation																														
+dial	activity [v]: rotate; turn; twist; wheel; gyrate	thing [n]: disc; front; face; compass; control; circle; indicator	activity [v]: phone; call up; call; ring; ring up																												
+dialect	accent [n]: slang; idiom; vernacular; argot; jargon; cant; localism	subgroup [n]: branch	language [n]: talk; speech; tongue																												
+dialectal	colloquial language [a]: colloquial; local; vernacular																														
+dialectic	thought [n]: argumentation; persuasion; deduction	argumentative [a]: rationalistic; persuasive; controversial																													
+dialogue	speech [n]: talk; discourse; chat; conversation																														
+diameter	distance [n]: stretch; extent; span; reach; range; measure; length																														
+diametrical	facing [a]: abreast; fronting; contrasting; against; retrograde; opposing; opposite																														
+diamond	glass cutter [n]: cutting tool; cutter	precious stone [n]: brilliant; crystal	form [n]: quadrilateral; solid	baseball diamond [n]: playing field; pasture																											
+diaphanous	clear [a]: translucent; vitreous; pellucid; transparent; crystalline; cellophane																														
+diarrhea	dysentery [n]: flux; scour																														
+diary	thing [n]: journal; chronicle; record; memoirs																														
+diatribe	tirade [n]: harangue; malediction																														
+dice	cut up [v]: chop; divide; slice; mince; cube; mangle; hash																														
+dicker	bargain [n/v]: haggle; buy and sell; barter; treat; negotiate; trade; merchandise																														
+dickey	neck band [n]: ruff; frill; collar																														
+dictate	compose [v]: speak; deliver; interview; formulate; record	impose [v]: decree; instruct; direct; lay down; regiment; ordain; prescribe																													
+dictator	despot [n]: autocrat; tyrant; oppressor; mogul																														
+dictatorial	autocratic [a]: despotic; tyrannical; authoritarian; arbitrary; absolute	arrogant [a]: haughty; overbearing; pompous; egotistic																													
+dictatorship	persecution [n]: cruelty; hardness; despotism; domination; injustice; coercion; oppression																														
+diction	language [n]: phraseology; speech; lingo; expression; slang; jargon; style																														
+dictionary	source [n]: guidebook; informant; reference; encyclopedia; thesaurus; footnote; evidence																														
+dictum	proverb [n]: adage; precept; motto; maxim; slogan	pronouncement [n]: dictate; affirmation; assertion; declaration; announcement																													
+didactic	pointed [a]: pithy; sententious; terse; succinct; laconic; concise; obvious																														
+die	thing [n]: stamp; cube; block	activity [v]: expire; decease; go; cash in; depart	activity [v]: disappear; part; cease; stop; pass; recede; end; vanish	activity [v]: wither; dissolve; decay; wane; decline; lapse; fade; fail																											
+die-hard	champion of the status quo [n]: reactionary; conservative; traditionalist; conventionalist	immovability [n]: reactionary; conservative; extremist; praetorian																													
+diesel	motor fuel [n]: petroleum; propellant; petrol																														
+diet	limiting intake of food [n]: regimen; fast; nourishment	nourishment [n]: fare; victuals; food; menu; board; nutrition	go on a diet [v]: slim																												
+differ	conflict [v]: disagree; dispute; fight; contradict; object; oppose; dissent; digress	comparison [v]: be unlike; contrast; modify; vary; take exception; qualify																													
+difference	distinction [n]: dash; discrimination; idiosyncrasy; tone	variance [n]: division; contrariety; feud; contrast; misunderstanding; disagreement; opposition																													
+different	miscellaneous [a]: odd; divers; disparate; manifold; dissimilar; distant; various	unlike [a]: distinct; altered; opposite; changed; special; contrary; divergent	novel [o]: strange; startling; unconventional																												
+differentiate	contrast [v]: discriminate; distinguish; separate; set off	change [v]: alter; modify; adapt																													
+differentiation	division [n]: distinction; separation; demarcation; split																														
+differently	otherwise [o]: oppositely; alternatively																														
+difficult	complex [a]: involved; intricate; abstract; obscure; abstruse; perplexing; puzzling	hard [a]: laborious; arduous; strenuous	troublesome [a]: froward; austere; heavy; forbidding; incompatible; reserved; painful	fastidious [a]: particular	perverse [a]: impolite; boorish																										
+difficulty	problem [n]: trial; pitfall; trouble	worry [n]: knot; dilemma; mess; emergency; misunderstanding; exigency; snarl	reluctance [n]: obstinacy; stubbornness; unwillingness	objection [n]: demur; obstacle	obstacle [n]: obstruction; complication; adversity; maze; barricade																										
+diffident	retiring [a]: timid; shy; bashful; backward; hesitant; wavering; loath																														
+diffuse	rambling [a]: wordy; verbose; dull; prolix	dispersed [a]: diluted; widely separated; scattered; sparse	spread [v]: expand; scatter; distribute; infuse; permeate; pervade																												
+diffusion	spread [n]: expansion; extension; radiation																														
+dig	activity [v]: unearth; dig out; excavate; discover; scoop; exhume; shovel; spade	activity [v]: shovel; delve; mine; excavate; channel; grub; burrow; dig out	feeling [v]: enjoy; love; like	action [v]: understand; comprehend; follow; recognise; recognize																											
+dig in	ingrain [v]: embed; entrench; fix; infix; lodge; root																														
+dig out	make deeper [v]: dig; hollow; deepen; lower																														
+dig up	exhume [v]: disinter; excavate; unearth; expose; desecrate																														
+digest	consider [v]: assimilate; analyse; contemplate; ponder; reflect upon; ruminate over; study	summary [n]: abridgment; condensation; abstract; brief; conspectus; epitome; synopsis	classify [v]: arrange; codify; systematise; systematize; think over	eat [v]: consume; absorb																											
+digestible	good to eat [a]: edible; eatable																														
+digestion	assimilation [n]: absorption; osmosis; inhalation; transformation																														
+digit	number [n]: symbol; numeral; bit; byte	finger or toe [n]: finger; thumb; extremity; appendage																													
+digitise	read with a scanner [v]: feed in; input; append; record; scan; digitize; enter; perform data entry																														
+digitize	read with a scanner [v]: feed in; input; append; record; digitise; scan; enter; perform data entry																														
+dignified	solemn [a]: formal; ceremonial; ceremonious; ritual; serious; sedate; staid																														
+dignify	elevate [v]: exalt; erect; support; ennoble; foster; promote; raise																														
+dignitary	notable [n]: star; luminary; personage; celebrity; notability																														
+dignity	importance [n]: honour; rank; status; position; prestige; significance	dignified behaviour [n]: nobility; honour; self-respect; distinction; culture																													
+digress	deviate [v]: wander; stray; err; shift; veer; swerve																														
+digression	monologue [n]: aside; departure; diversion; whisper; side show																														
+dike	embankment [n]: dam; barrier; wall; gate																														
+dilapidated	deteriorated [a]: run-down; neglected; decayed; unkempt																														
+dilapidation	deterioration [n]: wear; erosion; wearing away; rubbing off																														
+dilate	enlarge [v]: diffuse; continue; extend; reach; expand; fill out																														
+dilation	expansion [n]: enlargement; increase; extension																														
+dilatory	tardy [a]: delayed; belated; slow; late; behind																														
+dilemma	fix [n]: jam; pickle; plight; predicament; spot																														
+dilettante	amateur [n]: dabbler; novice; trifler; connoisseur																														
+diligence	persistence [n]: application; industry; attention; assiduity; effort; devotion; study																														
+diligent	tireless [a]: laborious; unfailing; indefatigable; notable; unrelenting; industrious; patient	industrious [a]: hardworking; assiduous; attentive; busy; constant; occupied; persistent																													
+dilute	thin [v]: cut; light; mix; weaken	watery [a]: diluted; thin; weak																													
+diluted	dispersed [a]: diffuse; widely separated; scattered; sparse																														
+dim	indefinite [a]: blurred; confused; indistinct; unclear; vague; umbrageous	faint [a]: gloomy; blurred; murky; cloudy; pale; dark; recondite	dull [a]: feeble; faded; blurred; lack-lustre; dense; foggy; slow	disparaging [a]: adverse	stupid [a]: dim-witted; blunt	overcast [a]: cloudy; grey	darken [v]: cloud; dull; obscure	fade [v]: blur; dull; fog																							
+dimension	proportions [n]: range; confines; size; scope																														
+dimensions	measurements [n]: size; extent; height; length; proportions; width																														
+diminish	abate [v]: decrease; lessen; dwindle; ease; lighten; shrink; fade																														
+diminished	discontinued [a]: abandoned; forsaken; released; expelled; dropped																														
+diminishing	decreasing [a]: shrinking; declining; lessening; less and less; abating; reducing; dwindling																														
+diminution	lessening [n]: alleviation; decrease; abatement; mitigation; slackening																														
+diminutive	little [a]: petty; bantam; lilliputian; microscopic	nickname [n]																													
+dimness	blackness [n]: darkness; gloom; dark; dusk; night; nightfall; twilight																														
+dimple	indentation [n]: impression; dent; depression; concavity; dip; pit; trough																														
+din	noise [n]: uproar; racket; clamour; hubbub; hullabaloo; tumult; hue and cry																														
+dine	eat [v]: feast; stuff; cram; gorge; feed; graze																														
+diner	lodger [n]: boarder; patron																														
+ding-dong	tinkle [n]: ting; jingle; ring; click; clink																														
+dinghy	boat [n]: tender; skiff; motorboat; lifeboat																														
+dingy	dirty [a]: clouded; dark; dull; sullied																														
+dining room	place to eat [n]: diner; cafÈ																														
+dinner	cooking [n]: meal; supper; repast; feast; banquet; refection																														
+dint	dent [n]: notch; scrape; scratch; indentation; nick; jag																														
+diocese	see [n]: parish; bishopric																														
+dip	swim [n]: plunge; bath; dive	immersion [n]: plunge; soaking	drop [n]: sag; slip; decline	immerse [v]: submerge; baptise; baptize; dive; slosh; douse; duck; steep	drop [v]: set; decline; slope; subside; recede; incline; slip	scoop [v]: ladle; spoon; lade; bale																									
+diplomacy	tact [n]: discretion; artfulness; finesse; skill; poise																														
+diplomat	shrewd person [n]: orator; public speaker	ambassadorial representative [n]: agent; ambassador; envoy; attachÈ																													
+diplomatic	tactful [a]: artful; suave; politic; gracious; calculating; smooth; capable																														
+dipper	ladle [n]: spoon; shovel; trowel; spade; scoop																														
+dipsomaniac	alcoholic [n]: drunkard; drunk; boozer; sot; addict																														
+dire	dreadful [a]: grim; appalling; frightful; ghastly; grisly; gruesome; hideous																														
+direct	characteristic [a]: immediate; evident; prompt; personal; simple; unbroken	quality [a]: straight; true; uninterrupted; undeviating	property [a]: open; main; categorical; naked; downright; officious; earnest; plump	counsel [v]: guide; enjoin; advise; head; conduct; influence; control; oversee	wish [v]: instruct; require; bid; command; inform; will; order	aim [v]: level; sight; turn; point																									
+directed	aimed [a]: pointed; explicit; marked; personal																														
+direction	management [n]: supervision; administration; regulation; control; command; superintendence	point of the compass [n]: bearing; objective; area; road; route; spot; way	order [n]: charge; injunction; regulation; instruction; guidance; bent; bias																												
+directive	pointer [n]: indicator; needle; arrow; gauge; sign																														
+directly	straight [o]: dead; direct; due; right	at once [a]: immediately; instantly; quickly; instantaneously																													
+director	moving-picture director [n]: producer; leader	executive officer [n]: manager; supervisor; administrator; leader																													
+directory	catalogue [n]: inventory; gazette; bulletin; brief; register; schedule																														
+dirge	lament [n]: elegy; monody																														
+dirt	publishing [n]: smut; filth; scum; pornography	thing [n]: soil; loam; earth; mud; clay; dust; grime; stain																													
+dirty	characteristic [a]: soiled; soiling; defiled; unsanitary; black; filthy; polluted; foul; contaminated	behaviour [a]: base; ribald; disagreeable; contemptible; despicable; grovelling; low; mean	characteristic [a]: lewd; lubricious; amoral; smutty; sordid; immoral; pornographic; indecent	state [a]: rainy; disagreeable; foul; nasty; sloppy; squally; stormy	property [a]: dingy; clouded; dark; dull; sullied	activity [v]: soil; pollute; stain; defile; sully; foul; tarnish; smear																									
+disability	incapacity [n]: disqualification; feebleness; impotence; unfitness; inability; incapability; incompetence																														
+disable	eliminate [v]: disqualify; incapacitate	cripple [v]: maim; disarm; lame; destroy; enfeeble; impair																													
+disabled	incapacitated [a]: exhausted; broken down; stifled; mutilated; lame; destroyed; mangled																														
+disabuse	clarify [v]: purge; inform																														
+disadvantage	damage [n]: mischief; detriment; disservice; hurt; injury; loss; deprivation	drawback [n]: obstacle; hindrance; handicap; inconvenience																													
+disadvantageous	untimely [a]: awkward; inopportune; inconvenient; difficult; annoying; troublesome; bothersome																														
+disaffect	estrange [v]: antagonise; antagonize; alienate; offend; repel																														
+disaffected	antagonistic [a]: estranged; disloyal; unfriendly; discontented; indifferent; disillusioned																														
+disaffection	alienation [n]: division; rupture; difference; breach; disagreement; dispute; dissension																														
+disagree	be hard on one's stomach [v]: nauseate; hurt; injure	differ [v]: oppose; dissent; object; fight; contradict																													
+disagreeable	irritating [a]: bothersome; distasteful; irksome; offensive; repulsive; unpleasant; disturbing	unpleasant [a]: obnoxious; offensive; irritable; difficult; cranky; rude; ill-tempered																													
+disagreeing	conflicting [a]: contrasting; resisting; facing; clashing; confronting; opposing																														
+disagreement	discrepancy [n]: inconsistency; difference; dissimilarity; disparity	discord [n]: ill will; strife; opposition; dissension; contention; conflict; animosity	argument [n]: confrontation; fight; quarrel; dispute; altercation; feud																												
+disallow	annul [v]: abate; nullify; remove; repress; suppress; suspend; omit																														
+disappear	fade [v]: dissolve; disperse; pass away; evaporate; vanish																														
+disappearing	declining [a]: dying; disintegrating; decaying; ebbing; fading; vanishing																														
+disappoint	fail [v]: deceive; displease																														
+disappointed	discontented [a]: disgruntled; annoyed; displeased; irritated; disturbed; irritable																														
+disappointing	unsatisfactory [a]: ineffective; insufficient; unexpected; uninteresting; inferior; discouraging																														
+disappointment	set-back [n]: chagrin; displeasure; frustration; distress; mortification	failure [n]: defeat; calamity; downfall; frustration; mistake; fiasco																													
+disapprobation	disapproval [n]: condemnation; admonition; reflection; censure; remonstrance; criticism; animadversion																														
+disapproval	objection [n]: disagreement; criticism; denunciation; protest	censure [n]: dissatisfaction; displeasure; objection; rejection; discontent; condemnation																													
+disapprove	object [v]: resist; oppose; debate; dispute; argue; contradict; protest; dislike																														
+disapproving	annoyed [a]: offended; cool; disenchanted																														
+disarm	demilitarize [v]: demilitarise; neutralise; neutralize; subjugate	deprive of weapons [v]: disable; subdue; debilitate; incapacitate; demobilise; demobilize	persuade [v]: win over; seduce; coax; urge; convince; charm																												
+disarrange	lose [v]: dislocate; mislay; misplace; move; displace																														
+disarrangement	clutter [n]: confusion; derangement; disorder; disarray; irregularity; disorganisation; disorganization																														
+disarray	jumble [v]: disorder; blur; snarl; entangle; mess up; obfuscate; confuse																														
+disassemble	dismantle [v]: tear down; knock down; strike; dismount; dismember																														
+disaster	evil [n]: calamity; harm; mischief; misery; misfortune; pain; sorrow; catastrophe																														
+disastrous	unfortunate [a]: evil; ill; miserable; terrible; awful																														
+disavow	reject [v]: abjure; deny; renounce																														
+disavowal	contradiction [n]: denial; refutation; negation; rejection																														
+disband	disperse [v]: dissolve; disappear; vanish																														
+disbelief	distrust [n]: hazard; doubt; problem; faltering; quandary; hesitancy; hesitation																														
+disbelieve	doubt [v]: distrust; suspect; mistrust																														
+disbeliever	sceptic [n]: doubter; critic; agnostic; questioner																														
+disburden	unpack [v]: empty; discharge; issue; relieve; unburden; unload																														
+disburse	compensate [v]: refund; guerdon; indemnify; requite; recompense; pay; reimburse																														
+disbursement	expenditure [n]: expense; allocation; payment																														
+discard	reject [v]: eliminate; jettison; throw away; exclude																														
+discarded	rejected [a]: cast off; abandoned; forsaken; done with; dismissed																														
+discern	determine [v]: penetrate; differentiate; discriminate; find out; distinguish; judge	notice [v]: know; note; apprehend; make out; penetrate; behold; sense																													
+discernible	visible [a]: observable; understandable; macroscopic; perceivable; noticeable																														
+discerning	rational [a]: discriminating; discreet; prudent; collected; circumspect; perspicacious; enlightened																														
+discernment	discrimination [n]: taste; cultivation; distinction; perception; judgment; refinement; sense																														
+discharge	emission [n]: flow; ejection; remission; evacuation; expulsion; removal	shooting [n]: detonation; firing	fulfilment [n]: satisfaction; execution; observance; performance	unpack [v]: empty; disburden; issue; relieve; unburden; unload	get rid of [v]: teem; eject; send; void; emit; flow	shoot [v]: detonate; blast; fire; set off	release [v]: absolve; let go; acquit; clear; exonerate; free; liberate	fulfil [v]: exercise; execute; accomplish; meet; take; observe; perform	let go [v]: break; cashier; replace; dismiss; relieve; expel; fire	settle [v]: redeem; disburse; satisfy; dissolve; honour; liquidate																					
+discharged	fulfilled [a]: accomplished; performed; achieved; done	dismissed [a]: liberated; emancipated; released; fired	fired [a]: set off; shot																												
+disciple	apostle [n]: witness	follower [n]: partisan; learner; adherent; believer; pupil; scholar; student																													
+discipline	punishment [n]: castigation; chastisement; correction	training [n]: cultivation; drill; development; exercise; instruction; practice	control [n]: limitation; government; order; regulation; subjection; subjugation	rules [n]: code	instruct [v]: form; prepare; drill; control; harden; educate; exercise	punish [v]: subdue; penalise; penalize; castigate; limit; chastise; correct																									
+disciplined	trite [a]: hackneyed; humdrum; conventional																														
+disclaim	disown [v]: deny; disallow; refuse; keep back; repudiate; withhold																														
+disclose	uncover [v]: open; bring to light; unveil; expose; lay open; muck-rake	make known [v]: exhibit; communicate; confess; impart; divulge; mention; publish																													
+disclosure	confession [n]: admission; acknowledgment; exposÈ; declaration; telling; revelation	revealing [n]: divulgence; revelation; confession; enlightenment; exposure																													
+discolor	stain [v]: streak; rust; sully; colour; color [US]; fade; bleach; dirty; tarnish; smear																														
+discoloration	blemish [n]: blot; stain; blotch; bleaching; splotch; streaking; tarnishing																														
+discolour	tarnish [v]: dull																														
+discomfit	embarrass [v]: confuse; abash; confound; disconcert; perplex	thwart [v]: foil; frustrate; prevent																													
+discomfiture	embarrassment [n]: humiliation; chagrin; unease; confusion	defeat [n]: frustration; disappointment; beating; conquest																													
+discomfort	annoy [v]: trouble; inconvenience; disturb; burden; molest	annoyance [n]: trouble; displeasure; uneasiness; nuisance; embarrassment																													
+discommode	inconvenience [v]: bother; disoblige																														
+discompose	perturb [v]: upset; ruffle; embarrass; bother; vex																														
+discomposure	disturbance [n]: agitation; confusion; discomfiture; annoyance; embarrassment; uneasiness																														
+disconcert	jar [v]: embarrass; shock; distress; trouble; upset; disturb; shake up																														
+disconcerted	confused [a]: bewildered; doubtful; confounded; nonplussed; mystified; baffled; dumfounded																														
+disconnect	split [v]: divide; detach; sever; disjoin; separate; undo; disengage																														
+disconnected	separated [a]: detached; loose	incoherent [a]: disjointed; incongruous; muddled; disordered; irregular																													
+disconnection	separation [n]: division; parting; interruption; cessation; cleavage; disruption; intrusion																														
+disconsolate	gloomy [a]: cheerless; dreary; dark; dismal	sad [a]: heavy; distressed; dejected; hopeless; desolate; forlorn; heartbroken																													
+discontent	displeasure [n]: depression; envy; dissatisfaction; restlessness; uneasiness	dissatisfied [a]: discontented																													
+discontented	unhappy [a]: discontent; displeased; dissatisfied; malcontent																														
+discontinuance	disuse [n]: abolition; discarding; abrogation; interruption																														
+discontinue	pause [v]: interrupt; break; suspend	cease [v]: finish; desist; close; quit; stop																													
+discontinued	dropped [a]: abandoned; forsaken; released; expelled; diminished																														
+discontinuity	respite [n]: stay; recess; intermission; break; hiatus; interruption; suspension																														
+discord	antagonism [n]: conflict; strife; friction; dissension; contrariety; opposition; antithesis																														
+discordant	conflicting [a]: antagonistic; clashing; contrary; antipathetic																														
+discount	abate [v]: allow; bate; deduct; rebate; remit; subtract																														
+discourage	obstruct [v]: dull; deter; forbid; dissuade; inhibit; hinder; prevent	dishearten [v]: perplex; abash; chill; repel; awe; demoralise; demoralize; unnerve	warn [v]: disincline; dissuade; alarm																												
+discouraged	very hurt [a]: depressed; shattered; devastated; sad; broken hearted; troubled																														
+discouragement	deterrent [n]: hindrance; damper; constraint; impediment; obstacle; obstruction	despair [n]: dejection; melancholy; depression; hopelessness																													
+discouraging	depressing [a]: bleak; chill; dreary																														
+discourse	talk [n]: dialogue; chat	memoir [n]: disquisition; dissertation; monograph; thesis; tractate; treatise	descant [v]: dilate; discuss; expatiate; sermonise; sermonize	converse [v]: treat; lecture; talk																											
+discourteous	curt [a]: abrupt; short; blunt; brusque; uncivil; gruff; plain-spoken																														
+discourtesy	disrespect [n]: impudence; rudeness; irreverence; profanity; impertinence																														
+discover	invent [v]: position; locate; bring to light; contrive; hit upon; originate	ascertain [v]: hit; learn; descry; observe; detect; perceive; determine	detect [v]: scent; sniff; spot; track																												
+discovered	found [a]: met; detected; rescued																														
+discovery	findings [n]: results; formula; find; invention; breakthrough	detection [n]: showing; espial; unfolding; find; disclosure; strike; unearthing																													
+discredit	jeopardise [v]: jeopardize; imperil; endanger; compromise; hazard; yield; risk																														
+discreet	wise [a]: judicious; politic; expedient; prudent																														
+discrepancy	disagreement [n]: inconsistency; difference; dissimilarity; disparity																														
+discrete	single [a]: only; particular; different; distinct; dissimilar; diverse																														
+discretion	option [n]: choice; selection; course; alternative																														
+discretionary	arbitrary [a]: optional																														
+discriminate	distinguish [v]: know; sift; differentiate; separate; notice; set apart	judge [a]: critical; distinguishing	favour [v]: segregate; incline																												
+discriminating	cultured [a]: cultivated; artistic; inventive; refined; polished; aesthetic																														
+discrimination	distinction [n]: dash; difference; idiosyncrasy; tone																														
+discuss	deliberate [v]: confer; argue; consult; debate																														
+discussion	controversy [n]: debate; argument; contention; row; quarrel; altercation; rumpus																														
+disdain	scorn [v]: snub; disregard; condemn; ignore; slight; despise; reject	contempt [n]: slight; ridicule; arrogance; sneer; contumely; haughtiness																													
+disdainful	haughty [a]: arrogant; cavalier; supercilious; lofty																														
+disease	ill [n]: ailment; affliction; disorder; injury; hurt; misery; pain																														
+diseased	ill [a]: weak; bad; sick; ailing; bum																														
+disembark	alight [v]: get off; descend; deplane; dismount																														
+disembodied	bodiless [a]: incorporeal; immaterial																														
+disembowel	hollow out [v]: excise; dig; cut; excavate; eviscerate																														
+disengage	loose [v]: release; unfasten; loosen; free; undo; set free; liberate																														
+disengaged	uninvolved [a]: non-combatant; nonpartisan; inactive; neutral; inert																														
+disentangle	extricate [v]: clear; free; disencumber; disengage; remove obstructions; vacate; cut away																														
+disfavor	displeasure [n]: dissatisfaction; disapproval; disapprobation; dislike; aversion; disrespect; dishonour; dishonor [US]; disrepute; disgrace; disregard; enmity																														
+disfavour	lower [v]: foul; defile; debase; depress; shame; defame; smirch																														
+disfigure	ruin [v]: damage; demolish; destroy; spoil; wreck; harm; impair																														
+disfigured	deformed [a]: distorted; askew; contorted; awry; gnarled; crooked																														
+disfigurement	distortion [n]: deformity; malformation; ugliness																														
+disgorge	eject [v]: throw up; spew; regurgitate; vomit; erupt; spit out																														
+disgrace	odium [n]: dishonour; degradation; shame; obloquy; opprobrium; scandal	stigma [n]: slur; blot; baseness; humiliation; contempt; disapprobation; reproach	lower [v]: foul; defile; debase; depress; shame; defame; smirch																												
+disgraceful	infamous [a]: opprobrious; defaming; dishonourable; disreputable; scandalous; hateful																														
+disgruntled	discontented [a]: disappointed; annoyed; displeased; irritated; disturbed; irritable																														
+disguise	camouflage [v]: masquerade; conceal; cloak; falsify; pretend; dissemble; doctor	costume [n]: mask; make up; deception; false front; dress; guise																													
+disguised	sheltered [a]: protected; hidden; topped; surfaced; covered																														
+disgust	dislike [n]: antipathy; aversion; detestation; dissatisfaction; repugnance	loathing [n]: gorge; sickness; abhorrence; surfeit; disrelish; distaste; hatred	nauseate [v]: make one sick; sicken	detest [v]: satiate; abominate; abhor; scandalise; scandalize; shock; displease; offend																											
+disgusted	overwrought [a]: fed up; appalled; offended; revolted; sickened; shocked																														
+disgusting	foul [a]: fetid; gross; loathsome; noisome; offensive; putrid; repellent																														
+dish	thing [n]: basin; bowl; saucer; urn; vessel																														
+disharmony	dissonance [n]: discord; chaos; cacophony; noise; harshness																														
+dishearten	discourage [v]: perplex; abash; chill; repel; awe; demoralise; demoralize; unnerve																														
+disheartened	discouraged [a]: depressed; broken; demoralised; sad																														
+disheartening	degrading [a]: spiritless; subservient; debasing; abject; humiliating																														
+disheveled	rumpled [a]: untidy; disordered; unkempt; disarrayed; tousled; dirty; dingy																														
+dishevelled	unkempt [a]: wild; disorderly																														
+dishonest	lying [a]: deceitful; double-dealing; devious; cunning; crafty; mendacious; unreliable																														
+dishonesty	corruption [n]: bribery; extortion; venality																														
+dishonor	disgrace [n]: ignominy; shame; abasement; desecration; disrepute	indignity [n]: insult; blame; affront; reproach; humiliation																													
+dishonorable	disgraceful [a]: foul; disreputable; base; ignominious; crooked; infamous; false; low; fraudulent; opprobrious; ignoble; underhanded; shameful; shameless																														
+dishonour	disgrace [n]: ignominy; shame; abasement; desecration; disrepute	indignity [n]: insult; blame; affront; reproach; humiliation																													
+dishonourable	disreputable [a]: base; disgraceful; infamous; notorious; scandalous; shameful																														
+disillusioned	antagonistic [a]: estranged; disloyal; unfriendly; discontented; indifferent; disaffected																														
+disinclination	aversion [n]: dissatisfaction; antagonism; disfavour; antipathy; dislike; disgust; disrelish																														
+disinclined	averse [a]: hostile; unwilling; reluctant; loath; opposed; inimical; indisposed																														
+disinfect	purify [v]: refine; decontaminate; clean; process; purge; filter; strain																														
+disinfectant	bacteria killing drug [n]: antitoxin; medicine; antibiotic																														
+disingenuous	deceitful [a]: villainous; false; treasonable; disloyal; malicious; faithless; hypocritical																														
+disinherit	deprive [v]: dispossess; divest; rob; lose; oust																														
+disintegrate	dissipate [v]: spread; dispel; diffuse; disperse; disseminate; scatter																														
+disintegration	breakdown [n]: downfall; collapse; destruction; crash; failure; fall; smash																														
+disinter	exhume [v]: dig up; excavate; unearth; expose; desecrate																														
+disinterested	impartial [a]: detached; unbiased; nonchalant; dispassionate; neutral; impersonal																														
+disjoin	separate [v]: detach; disconnect; disunite; divide; disjoint																														
+disjoint	dismember [v]: cut up; carve; sever; sunder; disjoin; cut apart; separate; divide																														
+disjointed	incoherent [a]: rambling; muddled; disordered; irregular; disconnected; chaotic	disconnected [a]: separated; divided; unattached; severed; cut																													
+disk	shape [n]: ring; round; circle; hoop; circuit; circumference; perimeter; periphery																														
+dislike	aversion [n]: dissatisfaction; antagonism; disfavour; antipathy; disinclination; disgust; disrelish	odium [n]: offence	hate [v]: detest; disfavour; condemn; disrelish																												
+dislocate	disjoint [v]: separate; disconnect; disunite; divide; disengage	displace [v]: disorder; upset; break; confuse; disturb; jumble; disarray																													
+dislodge	transfer [v]: carry; discharge; remove; excavate; displace; replace; transport																														
+disloyal	faithless [a]: deceitful; false; fickle; inconstant; perfidious; treacherous																														
+disloyalty	unfaithfulness [n]: falsity; betrayal; infidelity; disaffection; apostasy																														
+dismal	sorrowful [a]: sad; depressed; dispirited; miserable; disconsolate; unhappy; unfortunate	gloomy [a]: dreary; depressing; doleful; black; desolate; discouraging; hopeless																													
+dismantle	abandon [v]: shelve; set aside; discard; give up; disuse; idle																														
+dismay	frighten [v]: dispirit; alarm; appall; shake; daunt; disconcert	fright [n]: alarm; dread; consternation; anxiety; fear; horror; panic																													
+dismayed	horrified [a]: appalled; confounded; astonished; aghast; alarmed; dumbfounded; overwhelmed																														
+dismember	divide [v]: cut up; section; split up; cleave; sever; quarter																														
+dismemberment	anatomisation [n]: anatomization; dissection; vivisection; operation																														
+dismiss	reject [v]: expel; eject; discard; banish; decline; repel; disband	fire [v]: depose; discard; lay off; unseat; discharge; drop																													
+dismissal	discharge [n]: deposition; expulsion; removal; displacement	liberation [n]: release; freeing; dissolution																													
+dismissed	discharged [a]: sent away; sent home; ousted; suspended; removed; adjourned; free																														
+dismount	get off [v]: descend; get down; deplane; alight; disembark	take down [v]: dismantle; dismember																													
+disobedience	insubordination [n]: defiance; disregard; insurgence																														
+disobedient	naughty [a]: bad; mischievous																														
+disobey	disregard [v]: pass; skip; ignore; neglect; overlook																														
+disoblige	inconvenience [v]: annoy; disturb; upset; discommode	insult [v]: offend; affront; incense; displease																													
+disorder	disturbance [n]: hubbub; brawl; battle; stir; bustle; discord; anarchism	clutter [n]: confusion; derangement; disarrangement; disarray; irregularity; disorganisation; disorganization	ailment [n]: affection; complaint; derangement; disease; illness; indisposition; malady	confuse [v]: perturb; confound; clutter; disjoint; ruffle; scatter; dislocate																											
+disordered	confused [a]: mixed; jumbled																														
+disorderly	boisterous [a]: rowdy; unruly; drunk; undisciplined; intemperate; riotous; unrestrained	lacking order [a]: confused; indiscriminate; tumultuous; scattered; jumbled; irregular																													
+disorganisation	clutter [n]: confusion; derangement; disarrangement; disarray; irregularity; disorder; disorganization																														
+disorganise	break up [v]: break down; disperse; scatter; disorder; jumble; upset																														
+disorganised	upset [a]: confused; disordered; agitated; distressed; disturbed; disorganized																														
+disorganization	clutter [n]: confusion; derangement; disarrangement; disarray; irregularity; disorganisation; disorder																														
+disorganize	break up [v]: break down; disperse; scatter; disorder; jumble; upset																														
+disorganized	upset [a]: confused; disordered; agitated; distressed; disorganised; disturbed																														
+disown	deny [v]: disclaim; disallow; refuse; keep back; repudiate; withhold																														
+disparage	malign [v]: slander; damage; calumniate																														
+disparagement	censure [n]: blame; slander; abuse; ridicule; aspersion	detraction [n]: aspersion; depreciation; debasement; lie; degradation																													
+disparaging	dim [a]: adverse; depreciating; critical; scornful																														
+disparate	miscellaneous [a]: odd; divers; different; manifold; dissimilar; distant; various																														
+disparity	difference [n]: comparison; contrast; opposition; divergence; dissimilarity; disagreement																														
+dispassionate	calm [a]: composed; detached; serene; imperturbable; unemotional; impassive; restrained	fair [a]: impartial; neutral; judicial; disinterested; just																													
+dispatch	news bulletin [n]: bulletin; item; article; publication; press release	haste [n]: alacrity; speed; swiftness; celerity	send [v]: ship; transmit; issue; forward; route; express	kill [v]: finish off; destroy; murder	finish [v]: achieve; conclude; perform; accomplish																										
+dispel	disperse [v]: destroy; remove																														
+dispensable	condonable [a]: pardonable; venial	nonessential [a]: unessential; unnecessary																													
+dispensary	hospital [n]: sick bay; clinic																														
+dispensation	management [n]: administration; regulation; supervision; direction	distribution [n]: allocation; allotment; disbursement; endowment																													
+dispense	direct [v]: administer; undertake; enforce	apportion [v]: scatter; allot; assign; allocate; deal; distribute; dole																													
+dispersal	dispersion [n]: dissipation; diffusion; dissemination; distribution; scattering; disintegration																														
+disperse	distribute [v]: broadcast; sprinkle; diffuse; disseminate; scatter; sow; spread	scatter [v]: resolve; spatter; dissipate; spray; separate; dispel	disband [v]: dissolve; disappear; vanish																												
+dispersed	diffuse [a]: diluted; widely separated; scattered; sparse																														
+dispersion	destruction [n]: defeat; demolition; overthrow; rout; ruin																														
+dispirited	down [a]: blue; dejected; depressed; discouraged; disheartened																														
+displace	replace [v]: supersede; cashier; dislodge; supplant; depose; transpose; unseat	lose [v]: dislocate; mislay; misplace; move; disarrange																													
+displacement	discharge [n]: deposition; removal; degradation																														
+display	ostentation [n]: exposure; flaunting; flash; flourish; pomp; splendour	exhibition [n]: exposition; circus; array; pageant; manifestation; fanfare; scene	exhibit [v]: demonstrate; publicise; publicize; evince; manifest; show	expose [v]: unveil; betray; bare; reveal; disclose; uncover; unmask	unfold [v]: unfurl; spread; unroll; spread out	show off [v]: spread; flaunt; flourish; parade; show; trot out																									
+displease	irritate [v]: annoy; anger; chafe; outrage; offend; nettle; vex																														
+displeased	unhappy [a]: angry; vexed; irritated; annoyed; disappointed																														
+displeasing	unfavourable [a]: adverse; bad; unfortunate; wretched; unlucky; regretful; unhappy																														
+displeasure	anger [n]: outrage; umbrage; offence; indignation; ire; resentment; unpleasantness																														
+disposal	disposition [n]: action; provision; conclusion; determination	discarding [n]: dispatch; disposition; transference; dumping; transfer; jettison; sale																													
+dispose	arrange [v]: adjust; furnish; order; establish; marshal; conduct; space																														
+dispose of	discard [v]: throw away; relinquish; get rid of; eliminate; sell	kill [v]: murder; eliminate; destroy; slaughter; eradicate																													
+disposed	inclined [a]: prone; apt; likely; tending; given; liable; probable																														
+disposition	predilection [n]: habit; leaning; bent; liking; bias; mind; inclination	nature [n]: make; personality; character; complexion; mettle; make up; humour	grouping [n]: method; arrangement; location; order; placement	settlement [n]: dispensation; distribution; finale; outcome; result	management [n]: mercy; appointment; will; control; direction; regulation	endowment [n]: bestowal																									
+dispossess	deprive [v]: bankrupt; strip; withhold; divest; dismantle; bare; denude																														
+dispossessed	loser [a/n]: denuded; ruined; forfeited																														
+disproportion	disparity [n]: difference; insufficiency; inadequacy																														
+disproportionate	uneven [a]: irregular; jagged; rough; unequal; unsymmetrical; asymmetric																														
+disprove	invalidate [v]: refute; dispute; deny; contradict; belie; counter; discredit																														
+disputable	debatable [a]: controversial; open; questionable; undecided; uncertain; undetermined; unsettled																														
+disputant	enemy [n]: rivalry; adversary; opposition; antagonist; opponent; competition; foe																														
+disputation	argument [n]: contest; contention; match; controversy; discussion; debate; dispute																														
+disputatious	contentious [a]: argumentative; quarrelsome; captious; controversial																														
+dispute	debate [v]: moot; agitate; oppugn; argue; discuss	argument [n]: passage; altercation; question; variance; argumentation; bickering; contention	quarrel [v]: contend; bicker; brawl; contest; spar; spat; squabble	deny [v]: gainsay; contradict; controvert; impugn; oppose																											
+disputed	of doubtful authenticity [a]: apocryphal; doubtful; false; fraudulent; fake; fictitious																														
+disqualification	incompetence [n]: ineptitude; unfitness; inability; incapacity																														
+disqualify	invalidate [v]: preclude; bar	disable [v]: weaken; incapacitate; impair; paralyse																													
+disquiet	perturb [v]: disturb; agitate; fluster; trouble; alarm; confuse; upset																														
+disquieting	disturbing [a]: distressing; troubling; alarming																														
+disquisition	study [n]: dissertation; commentary; thesis; explanation																														
+disregard	disrespect [n]: disdain; scorn; indifference; slight	neglect [n]: omission; inattention; oversight	disobey [v]: pass; skip; ignore; neglect; overlook	insult [v]: slur; slight																											
+disregarding	except [o]: aside from; excepting; save; let alone; excluding; without; but																														
+disreputable	base [a]: dishonourable; disgraceful; infamous; notorious; scandalous; shameful																														
+disrepute	stigma [n]: slur; blot; baseness; humiliation; contempt; disapprobation; reproach																														
+disrespect	disregard [n]: disdain; scorn; indifference; slight																														
+disrespectful	familiar [a]: presuming; presumptive; unreserved																														
+disrobe	remove [v]: undress; strip; uncover; unclothe; decorticate; displace; peel																														
+disrupt	interrupt [v]: abbreviate; curtail; break; stop; suspend; end																														
+disruption	severance [n]: separation; interference; division	disturbance [n]: agitation; disorder; confusion; intrusion; debacle																													
+dissatisfaction	aversion [n]: dislike; antagonism; disfavour; antipathy; disinclination; disgust; disrelish																														
+dissatisfied	weary [a]: impatient; unhappy																														
+dissect	examine [v]: scrutinise; scrutinize; study; analyse; inspect; investigate	cut up [v]: dismember; quarter; anatomise; anatomize; operate; divide																													
+dissection	anatomization [n]: anatomisation; dismemberment; vivisection; operation	studying [n]: study; examination; analysis; inspection; inquest																													
+dissemble	disguise [v]: conceal; camouflage; mask; cover; hide; shroud; cloak	pretend [v]: forge; feign; fake; sham; simulate; deceive																													
+dissembler	impostor [n]: deceiver; fake; quack; pretender; charlatan																														
+disseminate	broadcast [v]: distribute; spread; scatter; boast; brag																														
+dissemination	publication [n]: circulation; air; disclosure; publicity																														
+dissension	discord [n]: ill will; strife; opposition; disagreement; contention; conflict; animosity																														
+dissent	disagree [v]: oppose; differ; contradict; rebel; refuse	disagreement [n]: conflict; difference; dissension; nonconformity; discord; heresy; protest																													
+dissenter	objector [n]: disputant; heretic; nonconformist; rebel; demonstrator; radical	dissident [n]: protestor; sceptic; apostate																													
+dissertation	address [n]: lecture; recitation; speech; oration; discourse; sermon; harangue																														
+disservice	harm [n]: wound; injury; damage; bruise; ill-treatment; hurt; persecution																														
+dissidence	disunion [n]: dissension; discord; disagreement; alienation																														
+dissident	pacifist [n]: conscientious objector; peacemaker; dove																														
+dissimilar	miscellaneous [a]: odd; divers; disparate; manifold; different; distant; various																														
+dissimilarity	difference [n]: comparison; disparity; opposition; divergence; contrast; disagreement																														
+dissimulation	fraud [n]: cheating; cunning; concealment; deceit; craftiness; deceiving; deception																														
+dissipate	waste [v]: lavish; squander; use up; fritter away; misuse	disintegrate [v]: spread; dispel; diffuse; disperse; disseminate; scatter	disappear [v]: spend; melt away; disintegrate; scatter; vanish	debauch [v]: riot; racket																											
+dissipated	wasted [a]: squandered; consumed; used up; spent; destroyed; depleted; empty	scattered [a]: dispersed	corrupt [a]: dissolute; wicked; intemperate; self-indulgent																												
+dissipation	debauchery [n]: dissolution; intemperance; indulgence; evil	dispersion [n]: dispersal; diffusion; dissemination; distribution; scattering; disintegration																													
+dissociate	disband [v]: disperse; scatter; disrupt; break up; quit	separate [v]: divide; disunite; disconnect; detach; disjoin; scatter																													
+dissociation	separateness [n]: detachment; separation; distinctness; dissimilarity; division; isolation																														
+dissolute	corrupt [a]: amoral; depraved; abandoned; immoral; incorrigible																														
+dissolution	termination [n]: adjournment; end; ending; dismissal; death	disintegration [n]: decomposition; decay; destruction; resolution	death [n]: extinction; demise; release; slaughter																												
+dissolve	adjourn [v]: discontinue; break up; postpone; dismiss; disperse; disunite; free	melt [v]: fuse; liquefy; soften; thaw; run	destroy [v]: break down; crumble; die; disintegrate; dispel; end; expire	invalidate [v]: annul; repeal	vanish [v]: melt away; fade																										
+dissonance	cacophony [n]: discord; chaos; disharmony; noise; harshness																														
+dissonant	inharmonious [a]: cacophonous; discordant; strident; unmelodious	irregular [a]: inconsistent; anomalous; incompatible																													
+dissuade	warn [v]: disincline; discourage; alarm																														
+distance	length [n]: reach; stretch; span; range; compass	outskirts [n]: hinterland; background; outpost; horizon; objective																													
+distant	separated [a]: at a distance; apart; scattered; sparse; further; diffuse	far away [a]: far off; removed; afar; abroad; backwoods; below the horizon; unapproachable	aloof [a]: cool; indifferent; reserved; detached; cold; unconcerned; unenthusiastic																												
+distaste	loathing [n]: gorge; sickness; abhorrence; surfeit; disrelish; disgust; hatred																														
+distasteful	loathsome [a]: sour; objectionable; disgusting; nauseating; sickening; unpalatable; unsavoury	displeasing [a]: disagreeable; offensive; repugnant; repulsive; unpleasant																													
+distend	protrude [v]: swell; stick out; bulge; puff out; bloat; balloon; jut																														
+distended	bulky [a]: massive; hefty; fat; swollen; big; heavy; capacious																														
+distention	swell [n]: inflation; swelling																														
+distil	extract [v]: press out; derive; withdraw																														
+distill	vaporize and condense [v]: evaporate; draw out; volatilize; precipitate; steam; extract; give forth in drops; infuse; purify; press; concentrate																														
+distillation	essence [n]: argument; condensation; core; abstract; heart; idea; substance																														
+distinct	single [a]: only; particular; different; discrete; dissimilar; diverse	clear [a]: express; fair; definite; lively; plain; lucid	audible [a]: clear; plain; sharp																												
+distinction	excellence [n]: credit; account; glory; celebrity; lustre; eminence; prestige	difference [n]: peculiarity; feature; separation; marking; differentiation; sharpness; discrimination																													
+distinctive	particular [a]: characteristic; especial; exceptional																														
+distinctly	clearly [o]: precisely; plainly; surely																														
+distinctness	clarity [n]: clearness; lucidity; sharpness; explicitness	separateness [n]: detachment; separation; dissociation; dissimilarity; division; isolation																													
+distinguish	classify [v]: stamp; categorise; categorize; specify; identify; differentiate; collate; discriminate	name [v]: demarcate; characterise; characterize; identify; mark; label; tag	discern [v]: notice; note; detect; see; discover; know; perceive	make important [v]: celebrate																											
+distinguishable	perceptible [a]: apparent; discernible; open; visible; manifest																														
+distinguished	famous [a]: glorious; celebrated; venerable; great; eminent; well-known; high	remarkable [a]: conspicuous; obvious; shining; extraordinary; marked	refined [a]																												
+distinguishing	typical [a]: representative; specific; characteristic; distinctive; idiosyncratic; particular; illustrative																														
+distort	crush [v]: warp; deform; twist; wrench; bend	misconstrue [v]: pervert; deceive; mislead; misinterpret; falsify	get out of shape [v]: contort; melt; warp; buckle; deform; collapse																												
+distorted	deformed [a]: crooked; askew; contorted; awry; gnarled; disfigured																														
+distortion	lie [n]: misinterpretation; perversion; deception; misuse; fabrication; misconception	contortion [n]: deformity; malformation; mutilation; twisting																													
+distract	confuse [v]: bewilder; befuddle; perplex; confound; puzzle	divert the attention [v]: detract; lead astray; beguile																													
+distracted	distraught [a]: troubled; frenzied																														
+distraction	diversion [n]: pastime; entertainment; preoccupation; engrossment; game	confusion [n]: perplexity; abstraction; complication																													
+distraught	troubled [a]: distracted; confused; distrait; distressed; harassed; tormented; worried																														
+distress	misfortune [n]: strait; deprivation; destitution; indigence; necessity; need; poverty	grief [n]: torment; worry; adversity; dolour; woe; affliction; agony	bother [v]: harass; afflict; upset; aggrieve; rack; disturb; constrain																												
+distressed	afraid [a]: frightened; fearful; aroused; worried; disturbed; alarmed; unsettled																														
+distressing	crucial [a]: brisk; climacteric; fine; acute; incisive; fierce; pungent																														
+distribute	scatter [v]: publish; disperse; sow; sprinkle; seed; spread	issue [v]: give out; allot; share; disburse; parcel; hand out; apportion	arrange [v]: part; group; portion; categorise; categorize; file; classify; dispose																												
+distribution	occurrence [n]: arrangement; frequency; order; pattern; saturation; relationship; configuration	dispersal [n]: dispersion; allotment; allotting																													
+district	area [n]: neighbourhood; community; precinct; quarter; sector; vicinity	divisional [a]: local; county; community; ward; provincial; immediate; rural																													
+distrust	doubt [v]: disbelieve; mistrust; suspect	suspicion [n]: doubt; misdoubt; misgiving; mistrust																													
+distrustful	careful [a]: cautious; reluctant; suspicious; wary; cagey; heedful; shy																														
+disturb	alarm [v]: trouble; molest; agitate; perplex; perturb; rattle; shake	upset [v]: confuse; displace; disorder; distort; ruffle; interfere																													
+disturbance	uproar [n]: racket; disorder; tempest; ruffle; riot; clamour; shake	disorder [n]: convulsion; agitation; disarrangement; upheaval; commotion; perplexity; confusion	insurrection [n]: revolt; riot	quarrel [n]: brawl; fisticuffs																											
+disturbed	upset [a]: confused; disordered; agitated; distressed; disorganised; disorganized	troubled [a]: anxious; agitated; upset																													
+disturbing	agonizing [a]: depressing; distressing; painful; excruciating; tormenting; saddening																														
+disunion	disconnection [n]: separation; division; detachment; divorce; partition	dissidence [n]: dissension; discord; disagreement; alienation																													
+disunite	alienate [v]: estrange; separate; embroil; entangle; rend asunder	disconnect [v]: separate; divide; dissociate; disjoin																													
+disunity	discord [n]: hostility; argument; antagonism; strife; friction; disharmony; conflict																														
+disuse	neglect [n]: decay; abandonment; unemployment	discontinuance [n]: abolition; discarding; abrogation; interruption	abandon [v]: shelve; set aside; discard; give up; dismantle; idle																												
+disused	outworn [a]: neglected; unused; past; old-fashioned																														
+ditch	trench [n]: channel; canal; moat; gutter; furrow	abandon [v]: desert; get rid of; discard; throw away; eliminate; forsake																													
+ditto	an identical item [n]: the same; likewise; alike; agreement																														
+ditty	catchy tune [n]: jingle; carol; chorus; sales pitch; tune; melody																														
+divan	couch [n]: sofa; lounge; settee; furniture																														
+dive	place [n]: bar; night club; cafÈ; cabaret; coffee shop; beer garden	action [n]: plunge; fall; lunge; jump; leap	action [v]: plummet; plunge; fall; submerge; disappear																												
+diverge	differ [v]: contrast; deviate; dissent; disapprove; disagree; argue; vary	branch off [v]: swerve; bend; radiate; divide; fork; separate																													
+divergence	difference [n]: deviation; aberration; anomaly; mutation; alteration	radiation [n]: deviation; split; division; branch; ramification; offshoot; separation																													
+divergent	unlike [a]: distinct; altered; opposite; changed; special; contrary; different																														
+diverse	various [a]: divergent; manifold; assorted; multiform; distinct; variant	different [a]: disparate; incomparable; disagreeable; dissimilar; separate; unlike																													
+diversify	expand [v]: vary; increase; alter; change																														
+diversion	entertainment [n]: amusement; play; recreation; distraction; sport	changing course [n]: detour; deviation; alteration																													
+diversity	variety [n]: innovation; difference; variance; change; shifting; vicissitude; vicissitudes																														
+divert	distract [v]: draw away; turn aside	deflect [v]: turn; avert; turn aside; redirect	amuse [v]: relax; delight; beguile; distract; entertain; exhilarate; gratify																												
+divertissement	spectacular [n]: extravagant show; fantasy; lavish event; extravaganza; fling																														
+divest	deprive [v]: dispossess; strip	undress [v]: denude; uncover; disrobe; strip; unclothe																													
+divide	allocation [v]: distribute; parcel; apportion; deal; wall; deal out; dole; partition	action [v]: separate; rend; cleave; disconnect; tear; cut off; disjoin; part	action [v]: alienate; disunite; estrange	activity [v]: arrange; articulate; partition; classify; distinguish; distribute; sort																											
+divided	to pieces [a]: in two; asunder; in pieces; apart; split																														
+dividend	gain [n]: earnings; return; lucre; profit; proceeds; returns; revenue																														
+divination	prediction [n]: omen; premonition; foreshadowing; foreboding; portent; presage; sign																														
+divine	clergyman [a]: priest; ecclesiastic; parson; theologian	godly [a]: almighty; godlike; heavenly; spiritual; angelic	predict [v]: forebode; forecast; prophesy; prognosticate	find out [v]: discover; determine; ascertain	suspect [v]: conjecture; guess																										
+diviner	seer [n]: prophet; magician; sorcerer; witch; sorceress																														
+divining	oracular [a]: discovering; finding; anticipating; apprehending																														
+divinity	eternal life [n]: afterlife; immortality; god																														
+division	boundary [n]: rank; demarcation; mark; partition	allotment [n]: portion; detachment; apportionment; cutting; distribution; partition	section [n]: region; portion; compartment; province; fraction; part; dominion	disagreement [n]: movement; alienation; trouble; breach; words; difference; difficulty																											
+divisional	district [a]: local; county; community; ward; provincial; immediate; rural																														
+divorce	release from matrimony [v]: annul; separate; split up; cancel; nullify	separation [n]: partition; dissociation; annulment																													
+divulge	bare [v]: publish; disclose; reveal; confess																														
+dizzy	giddy [a]: bemused; light; hazy; faint; light-headed; vertiginous	crazy [a]: flighty; unstable																													
+do	activity [v]: perform; play; act; render; practice	activity [v]: fulfil; carry out; make; complete; take; conclude; work; end	activity [v]: accomplish; render; conclude; achieve; attain; bring about; carry out; effect	action [v]: exert; put forth	movement [v]: traverse; cover; journey; explore	property [v]: serve; be useful; be sufficient	activity [v]: behave; act; seem; appear; fare; manage; proceed	action [v]: bring about; cause; produce; effect	activity [v]: decipher; work out; decode; solve	activity [v]: defraud; cheat; swindle; trick																					
+do away with	get rid of [v]: exterminate; abolish; exclude; cancel; stamp; eliminate; expel																														
+do in	murder [v]: kill; assassinate; dispatch; annihilate; liquidate; execute; knock off																														
+do wrong	behave poorly [v]: disobey; defy; rebel; misbehave																														
+docile	domesticated [a]: trained; tame; harmless; submissive; mild; gentle																														
+docility	meekness [n]: gentleness; complaisance; pliability; pliancy; obedience; tractability																														
+dock	clip [v]: prune; crop; shorten; trim; cut; shear	boat landing [n]: marina; wharf; quay; harbour; jetty	decrease [v]: diminish; withhold; deduct; lessen																												
+docking	arriving [a]: nearing; progressing; coming; advancing; upcoming																														
+doctor	medicine [n]: physician	person [n]: professor; scholar; expert; specialist; scientist	activity [v]: attend; administer; treat; minister to; nurse																												
+Doctor of Medicine	doctor [n]: physician																														
+doctrinaire	dogmatist [n]: zealot; monomaniac; diehard; bigot; enthusiast																														
+doctrinal	conventional [a]: orthodox; conservative; traditional; conformist; old guard																														
+doctrine	belief [n]: faith; principle; system; opinion; tenet																														
+document	licence [n]: permit; certificate; warrant; grant																														
+documentation	corroboration [n]: evidence; proof; confirmation; support; verification																														
+documents	any printed matter [n]: information; questionnaire; check; circular; enclosure; money; copy																														
+doddering	rickety [a]: crazy; loose; shaky; tottering																														
+dodge	evade [v]: sidestep; avoid; duck; elude; fence; equivocate	trick [n]: strategy; scheme																													
+doe	animal [n]: hind; deer; buck; fawn; stag																														
+dog	activity [v]: pursue; hound; track	animal [n]: canine; cur; bitch; pup; hound; puppy																													
+dogged	obstinate [a]: perverse; obdurate; headstrong; intractable; persistent; pigheaded; stubborn																														
+dogma	creed [n]: notion; tenet; thought; view; doctrine; idea; opinion																														
+dogmatic	dictatorial [a]: bigoted; egotistical; stubborn; opinionated; overbearing; arrogant; tyrannical	unchangeable [a]: inevitable; categorical; immovable; formal; unqualified; eternal; positive																													
+dogmatism	prejudice [n]: narrow-mindedness; intolerance; bigotry; racism; injustice																														
+dogmatist	bigot [n]: zealot; monomaniac; diehard; doctrinaire; enthusiast																														
+doing	deed [n]: exercise; act; accomplishment; feat; manoeuvre; action																														
+doldrums	dullness [n]: indifference; apathy; monotony; ennui; boredom; listlessness																														
+dole	financial assistance [n]: assistance; handout; welfare; aid; backing; subsidy; charity																														
+dole out	dispense [v]: mete; share; distribute; parcel; assign																														
+doleful	sombre [a]: dismal; gloomy; sad; mournful; dark; dreary; oppressive																														
+dollar	federal reserve note [n]: money; bank note; currency; legal tender; coin; dollar bill; silver dollar; Canadian dollar; Australian dollar; folding money; buck; greenback																														
+dolor	grief [n]: sorrow; anguish; heartache; distress; mourning; sadness																														
+dolorous	grief [a]: sorrowing; grieving; painful; distressing; mournful; dismal; doleful																														
+dolour	grief [n]: sorrow; anguish; heartache; distress; mourning; sadness																														
+dolourous	grief [a]: sorrowing; grieving; painful; distressing; mourning; dismal; doleful																														
+dolt	fool [n]: dummy; blockhead; idiot; oaf; moron																														
+doltish	stupid [a]: moronic; dumb																														
+domain	field [n]: margin; area; scope; sphere; range; operation																														
+dome	arch [n]: vault; arcade; ceiling; roof																														
+domestic	native [a]: home; indigenous; inland; internal; municipal	household [a]: family; home	home-made [a]: handcrafted	servant [n]: maid; help; underling																											
+domesticate	tame [v]: train; master; break; subdue																														
+domesticated	tame [a]: trained; docile; harmless; submissive; mild; gentle																														
+domicile	habitation [n]: abode; home; house; household; residence; habitat; quarters																														
+dominance	advantage [n]: prevalence; superiority; supremacy; leverage; precedence																														
+dominant	advantageous [a]: commanding	governing [a]: ascendant; master; common; controlling; first; important; predominant	assertive [a]: commanding; imperious; authoritative; lordly; bossy																												
+dominate	command [v]: overlook; tower above; eclipse																														
+domination	mastery [n]: authority; ascendancy; head; dominion; control; power; command																														
+domineering	assertive [a]: aggressive; determined; dynamic; energetic; enterprising; forward																														
+dominion	government [n]: administration; control; management; jurisdiction; domination	ascendancy [n]: jurisdiction; reign; supremacy; sway; sovereignty; control; regiment	autonomous area [n]: nation; region; territory; district; state																												
+don	assume [v]: pull; put on; strike; take on	clothe [v]: assume; get into; get on; huddle; put on																													
+donate	contribute [v]: add; pitch in; present; give; endow; kick in																														
+donation	contribution [n]: collection; charity; relief; offering; alms; dole																														
+done	fully cooked [a]: cooked; baked; fried; boiled	completed [a]: accomplished; finished; executed; through; over; performed	settled [a]: agreed; signed; approved; compacted; determined																												
+done for	beaten [a]: conquered; defeated; vanquished																														
+done in	tired [a]: bushed; weary; exhausted; worn out																														
+done out of	defrauded [a]: cheated; deceived																														
+done up	wrapped [a]: prepared; executed; packaged; finished																														
+done with	finished with [a]: no longer in need of; finished; no longer needing; dispatched																														
+donkey	person [n]: dolt; ass; booby	animal [n]: ass; dickey; jennet; mule; jackass; burro [US]																													
+doodad	gadget [n]: dingus [US]; doohickey [US]; gizmo; jigger [US]; thingamajig; thingamabob																														
+doodle	sketch [n]: likeness; representation; picture; depiction; work of art; drawing																														
+doom	fate [n]: destiny; kismet; portion; fortune; lot	death [n]: ruin	sentence [n]: condemnation; opinion; decision; judgement	decree [v]: predetermine; destine; foreordain; predestine	condemn [v]: ordain; sentence																										
+doomed	marked [a]: condemned; fated																														
+door	thing [n]: entry; entrance; opening; doorway; gate; inlet; passage; portal																														
+doorknob	handgrip [n]: handhold; crank; holder; hilt; knob; handle																														
+doormat	covering [n]: floor covering; mat; pad; rug																														
+doorway	entry [n]: door; opening; entrance; gate; inlet; passage; portal																														
+dope	information [n]: scoop; account; details; knowledge	drugs [n]: drug; narcotic; stimulant; opiate; cocaine; crack	fool [n]: dolt; dunce; idiot; jerk; simpleton; clod	drug [v]: anaesthetise; stupefy; deaden; narcotise; narcotize; tranquillise; tranquillize	doctor a drink [v]: doctor; treat; include; soak; impregnate																										
+dormant	latent [a]: passive; inert; inoperative; potential; quiescent	asleep [a]: silent; fallow; comatose; slack; inactive; lethargic; quiescent																													
+dormitory	college building [n]: hall; auditorium; meeting house; bedroom																														
+dosage	dose [n]: measure; portion; measurement; treatment; shot; draught; application																														
+dose	venereal disease [n]: disease	dosage [n]: measure; portion; measurement; treatment; shot; draught; application																													
+dot	speck [n]: point; mote																														
+dotage	senility [n]: feebleness; imbecility																														
+dote	love [v]: adore; admire; pet; pamper; dwell on; coddle; indulge																														
+double	quantity [a]: twice as much; duplicated; paired; second; twofold; two; twin	person [n]: stand in; clone; counterpart; duplicate; twin; mate; match	action [v]: make twice as much; duplicate; increase; grow	activity [v]: substitute; stand in; fill in for																											
+double back	backtrack [v]: return; reverse; loop																														
+double meaning	play on words [n]: ambiguity; pun; joke; innuendo																														
+double up	combine [v]: join; share; pair off; unite																														
+double-dealer	cheater [n]: cheat; deceiver; rogue; traitor; hypocrite																														
+double-dealing	dishonesty [n]: hypocrisy; trickery; deceit; mendacity	cheating [a]: deceitful; untrustworthy; dishonest; hypocritical; tricky																													
+doubt	feeling [n]: hesitancy; scepticism; scruple; perplexity; suspense; dilemma; demurral; quandary	feeling [n]: distrust; hazard; disbelief; problem; faltering; quandary; hesitancy; hesitation	question [v]: oppugn; wonder at; distrust; discredit; mistrust; suspect	activity [v]: hesitate; scruple; vacillate; ponder; stagger; waver; query; stick																											
+doubter	unbeliever [n]: questioner; sceptic; agnostic; cynic																														
+doubtful	indecisive [a]: incredulous; dubious; obscure; enigmatic; problematic; puzzled; undetermined	ambiguous [a]: indefinite; indistinct; borderline; moot; equivocal; unclear; clouded	dubious [a]: sneaky; disreputable																												
+doubting	faithless [a]: unbelieving																														
+doubtless	presumably [o]: probably; likely; possibly																														
+dough	batter [n]: mix; paste; preparation																														
+doughty	bold [a]: defiant; adventurous; hardy; audacious; stalwart; brave; daring																														
+doughy	colourless [a]: ashen; bleached; blanched; pale; pallid; wan																														
+dour	austere [a]: severe; stern; bleak; grim; forbidding; hard; harsh																														
+douse	extinguish [v]: snuff out; splash	drench [v]: immerse; splash; soak; flood; wet; submerge; saturate																													
+dove	activist for peace [n]: pacifist; peacemaker; pacificator; pacifier; conciliator	pigeon [n]: squab																													
+dovecote	birdhouse [n]: aviary																														
+dowager	widow [n]: matron; dame; lady; woman; matriarch																														
+dowdy	shabby [a]: tasteless; unfashionable																														
+dowel	pin [n]: peg; plug; nail; spike; rivet; tack																														
+dower	bridal gift [n]: dot; dowry																														
+down	feeling [n]: dispirited; blue; dejected; depressed; discouraged; disheartened	thing [n]: fluffy feathers; fluff; fur; hair; wisp	action [v]: bring down; knock down; fell; conquer; knock out; tackle; hit	activity [v]: overthrow; overpower; vanquish; defeat; put down; subdue; upset; overturn	direction [o]: from higher to lower; descending; forward; headlong	place [o]: below; under; underneath	quality [o]: poor; inferior; lowly; sad; sick; below par																								
+down and out	beaten [a]: ruined; finished; defeated; degraded; abject; base																														
+down in the dumps	feeling depressed or dejected [n]: being depressed; feeling despondent; feeling gloomy; desperation; despairing; sadness																														
+down on	unhappy with [a]: against; opposed to; disillusioned																														
+downcast	depressed [a]: crest-fallen; crushed; dejected; despondent; disconsolate; heavy; downhearted																														
+downfall	rain [n]: cloud-burst; deluge; torrent; shower; precipitation; flood	destruction [n]: drop; collapse; ruin																													
+downgrade	hillside [n]: slope; descent; decline; gradient; inclination; incline	lower [v]: deprecate; depreciate; decrease; demote																													
+downhearted	sad [a]: depressed; despondent; dispirited; disconsolate; melancholy; glum; plaintive																														
+downpour	flood [n]: drencher; cataclysm; catastrophe; deluge; inundation; overflow																														
+downright	completely [a]: absolutely; entirely; utterly	total [a]: indubitable; unquestionable; complete; utter																													
+down-to-earth	practical [a]: sensible; mundane; practicable; rational; common; ordinary																														
+downy	smooth [a]: delicate; fine; velvety; fluffy; feathery; soft; pulpy																														
+dowry	bridal gift [n]: dot; dower																														
+doze	nap [n]: drowse; slumber	drowse [v]: nap; slumber; drop off																													
+drab	colour [a]: brownish yellow; brownish	dull [a]: dismal; dingy; monotonous; dreary; colourless																													
+draft	thing [n]: air valve; damper; check; flap; control	activity [n]: sketch; blueprint; plans; skeleton; design	banking [n]: promissory note; note; letter of credit; bank draft; cheque; coupon	activity [v]: draw up; plan; sketch; outline; formulate; delineate																											
+drag	burden [n]: hindrance; encumbrance; impediment	bother [n]: annoyance	pull [v]: hale; tow; draw; move; haul; transport	linger [v]: lag; loiter; straggle; slow; dawdle; trail	puff [v]: inhale; breathe in	draw [v]: pull; magnetise; magnetize																									
+dragging	boring [a]: tedious; long-winded; verbose; wordy; prolix; long																														
+dragon	fire-breathing monster [n]: monster; serpent; snake																														
+drain	draw [v]: draft; milk; divert; bleed; pump; remove	sewer [n]: cesspool; duct; channel	deplete [v]: exhaust; empty; weary; sap; tax	trickle [v]: ooze	bail out [v]: pour; dump																										
+draining	removal [n]: evacuation; depletion; exhaustion																														
+drake	bird [n]: male duck																														
+drama	entertainment [n]: show; boards; play; footlights; stage; theatre	activity [n]: acting; farce; showmanship; climax; emotion; tension; tragedy																													
+dramatic	thespian [a]: theatrical; melodramatic; eloquent; histrionic	exciting [a]: tense; moving; sensational; emotional																													
+dramatisation	theatrical representation [n]: acting; playing; personification; enactment; dramatization; portrayal; impersonation																														
+dramatise	exaggerate [v]: overstate; caricature; magnify; amplify	present a performance [v]: perform; produce; portray; execute; stage; enact																													
+dramatization	theatrical representation [n]: acting; playing; personification; dramatisation; enactment; portrayal; impersonation																														
+dramatize	exaggerate [v]: overstate; caricature; magnify; amplify	present a performance [v]: perform; produce; portray; execute; stage; enact																													
+drape	clothe loosely [v]: dress; cover; clothe; don; enclose; hang; veil	wrap [a]: hang; bedeck; adorn; array; cloak; envelop; decorate																													
+drapery	curtain [n]: blind; decoration; drape; hanging; portiere; shade																														
+drapes	window covering [n]: drapery; curtains; hanging; portiere																														
+drastic	extreme [a]: bold; excessive; acute; foolhardy; great; heroic; desperate																														
+draught	current of air [n]: breeze; puff; gust; wind; seepage; blowing	drink [n]: swallow; quaff; glass; mouthful; swig; swill; beer																													
+draw	activity [v]: pull; hale; drag; puff; purchase; haul; trail; lead	event [n]: tie; dead heat; stalemate; stand-off	action [v]: attract; invite; entice; lure; magnetise; magnetize; allure; induce	art [v]: picture; design; delineate; draft; paint; depict; etch; sketch	activity [v]: formulate; compose; draw up; form; frame; prepare; write	action [v]: suck; drain; inhale	activity [v]: deduce; steal; take; derive; get; infer; understand	action [v]: produce; bear; bring in	activity [v]: extend; attenuate; draw out; lengthen; pull out; stretch	action [v]: pick; cull; extract; pluck																					
+draw away	separate [v]: distil; withdraw; abstract; fractionate; remove; take away																														
+draw back	recede [v]: retreat; give; retire; yield; cede; give over; give up																														
+draw out	extend [v]: attenuate; draw; lengthen; pull out; stretch																														
+draw up	arrange [v]: dispose; array; marshal; order; place; range; rank																														
+drawback	trick [n]: rub; hitch; deception; hooker; catch; trap; puzzle; disadvantage																														
+drawer	thing [n]: till; compartment; bin; receptacle; tray																														
+drawing	sketch [n]: likeness; representation; picture; depiction; work of art; doodle	artwork [n]: design; etching																													
+drawing room	reception room [n]: living room; sitting room; parlour; salon																														
+dray	cart [n]: hand truck; wagon; van; dolly; barrow; vehicle																														
+dread	fear [n]: horror; apprehension; awe; phobia; terror	terrible [a]: formidable; dire; dreadful; frightful; horrible	reverence [n]: awe; veneration	be afraid [v]: apprehend; fear; misdoubt																											
+dreadful	grim [a]: dire; appalling; frightful; ghastly; grisly; gruesome; hideous																														
+dream	mental condition [n]: self-deception; illusion; fantasy; error; mirage; imagination; vision	illusion [n]: fantasy; reverie; nightmare; hallucination; apparition; daydream	illusion [n]: hope; goal; flight of fancy; fantasy; daydream	activity [v]: fantasize; fantasise flash; fancy	creed [v]: believe; assume; create; credit; understand; presume	activity [v]: conceive; conjure up; visualise; visualize; daydream; imagine; fancy																									
+dream up	create [v]: devise; concoct; contrive; imagine; visualise; visualize; hatch																														
+dreamer	idealist [n]: utopian; visionary	daydreamer [n]: romanticist																													
+dreaming	imagining [n]: conception; musing; meditation																														
+dreamy	unreal [a]: impractical; intangible; mythical	like a dream [a]: fanciful; visionary; whimsical; otherworldly; illusory; introspective; utopian																													
+dreary	sorrowful [a]: cheerless; boring; wintry; dull; monotonous; tedious; tiresome	depressing [a]: forlorn; dingy; cheerless; gaunt; chill; lonely; chilling																													
+dregs	riffraff [n]: scum; trash; rabble; waste; refuse	residue [n]: sediment; lees; slag; grounds; precipitate																													
+drench	soak [v]: saturate; flood; douse; wet; immerse; drown; sop																														
+drenched	very wet [a]: wet; soppy; sopping; soaked; dripping; drizzling																														
+dress	thing [n]: frock; robe; costume; skirt; gown; shift	thing [n]: clothes; apparel; robe; attire; clothing; garb; garments; habiliment; array; panoply	activity [v]: clothe; trick; accoutre; costume; apparel; outfit; array; attire	activity [v]: decorate; adorn; ornament; trim	health [v]: bandage; attend; treat; bind	activity [v]: prepare; fit; ornament; make ready	action [v]: align; straighten																								
+dressed	ready [a]: prepared; ready to go; set; in order; arranged; fixed; equipped																														
+dressing	sauce [n]: relish	seasoned mixture [n]: filling; stuffing	bandage [n]: gauze; compress; pack; treatment; adhesive tape; band-aid; poultice	getting dressed [n]: clothing; decking; adorning	fertiliser [n]: fertilizer; manure																										
+dressy	stylish [a]: fashionable; chic; sharp																														
+dribble	seepage [n]: leakage; loss; flow; drip; escape; leak; trickle																														
+driblet	droplet [n]: globule; drop																														
+dried	dry [a]: parched; desiccated; droughty; desert; arid; dusty																														
+drift	trend [n]: bent; tenor; effort; impulse; tendency	flow [n]: current; stream; tide; wash; flux; motion	ride [v]: float; sail; cruise; wash; tend; gravitate																												
+drifting	aimless [a]: stray; wandering; erratic; haphazard; rambling; wayward; careless																														
+drill	thing [n]: boring tool; bore; gimlet	event [n]: practice; preparation; repetition; exercise; session	military [n]: military training	thing [n]: machine for planting seeds	activity [v]: bore; pierce; sink; penetrate; dig; puncture	activity [v]: practise; rehearse; discipline; teach; train; coach; indoctrinate																									
+drilling	training [n]: discipline; drill; practice; schooling; exercise																														
+drink	activity [v]: swallow; consume; imbibe; gulp; sup; quaff; suck; toss	thing [n]: beverage; libation; draught; bottle; liquid; glass; potion; refreshment	activity [v]: imbibe; swill; tipple; booze; toast; guzzle																												
+drinkable	fresh [a]: potable; clear; pure; clean; sweet; safe																														
+drinker	unreformed alcoholic [n]: alcoholic; drunkard; drunk; lush; boozer; tippler																														
+drip	leak [v]: escape; ooze; drool; flow; come out; transpire																														
+dripping	very wet [a]: wet; soppy; drenched; soaked; sopping; drizzling																														
+drive	transport [n]: ride; spin; trip; outing; tour	effect [n]: effort; moment; impulse; motive; energy; incentive; pressure; vigour	activity [v]: force; prod; incite; goad; impel; strike; propel; punch	activity [v]: overburden; overtax; overwork	activity [v]: make; run; compel; turn; constrain; force; impel; urge	transport [v]: ride; motor; go; spin; turn; travel																									
+drive away	expel [v]: dismiss; banish; exclude; isolate; put away; discharge																														
+drive out	banish [v]: cast out; deport; expatriate; ostracise; ostracize; expel; ban; exile																														
+drivel	jabber [n]: chatter; gibberish; nonsense; twaddle; babble; patter; chit-chat																														
+driver	person [n]: motorist; cab driver; bus driver; licensed operator; operator	person [n]: animal handler																													
+driveway	drive [n]: avenue; entrance; approach																														
+driving	active [a]: lissome; vital; energetic; lively; forcible; enterprising; mercurial																														
+drizzle	mist [n]: shower; spray; fog; effervescence; fizz; spatter; splash																														
+droll	comedian [n]: buffoon; clown; jester; punch; wag; zany	amusing [a]: humorous; jocose; comical; laughable; diverting; ludicrous; funny																													
+drone	animal [n]: bee; idler; insect																														
+drool	want badly [v]: want; desire; covet	water at the mouth [v]: slaver; salivate; slobber; spit																													
+droop	slouch [v]: slump; sag; stoop; hunch; hang; fall heavily; go slack																														
+drooping	feeble [a]: frail; faint; fragile; faltering; languid; weak																														
+drop	reduction [n]: fall; tumble; decrease; slide	thing [n]: droplet; globule; driblet	substance [n]: speck; pinch; splash; dash; dab	reduction [v]: decline; cave in; dwindle; collapse; fall	activity [v]: trickle; drip; fall; dribble; leap; ooze	action [v]: separate; end; break off; desert; divorce																									
+drop down	flop [v]: drop; slump; fall heavily; tumble; stumble; droop																														
+drop off	drowse [v]: nap; slumber; doze																														
+droplet	drop [n]: dot; grain; pellet; particle; bead																														
+dropout	pariah [n]: untouchable; outcast; castaway																														
+dropped	discontinued [a]: abandoned; forsaken; released; expelled; diminished																														
+dross	trash [n]: garbage; rubbish; debris; waste																														
+drought	lack of moisture [n]: dryness; aridity; thirst																														
+drove	throng [n]: gang; company; concourse; crowd; gathering; herd; flock																														
+drown	action [v]: immerse; dip; submerge; plunge; sink; baptise; baptize	activity [v]: flood; inundate; swamp; engulf; overflow; submerge	health [v]: suffocate under water; asphyxiate																												
+drown out	overwhelm [v]: muffle; silence; overpower; hush																														
+drowse	nap [v]: doze; slumber																														
+drowse off	fall asleep [v]: sleep; nap; snooze																														
+drowsiness	lethargy [n]: languor; lassitude; fatigue; tiredness; weariness; faintness																														
+drowsy	indolent [a]: lazy; languid; lethargic; sluggish	sleepy [a]: exhausted; tired																													
+drub	beat [v]: thrash; whip; trim; lick; pummel; clobber																														
+drudge	hard [n]: menial	toil [v]: grind; grub; muck; plod; slave; slog																													
+drudgery	moil [n]: labour; toil																														
+drug	thing [n]: narcotic; opiate; sedative; potion; essence; anodyne	medicine [n]: prescription; medication; remedy; pill; powder	medicine [v]: anaesthetise; deaden; narcotise; narcotize; stupefy; desensitise; desensitize; benumb; dope up																												
+drug addict	person [n]: addict; junkie; dope fiend; crazy; fanatic																														
+drugged	out cold [a]: unconscious; comatose; oblivious; anaesthetised; insensible; unperceiving																														
+drugs	dope [n]: drug; narcotic; stimulant; opiate; cocaine; crack																														
+drum	thing [n]: barrel; tub; cylinder	music [n]: instrument																													
+drum up	generate business [v]: attract; provide; discover; find																														
+drumbeat	sound [n]: ruffle [US]																														
+drumming	tapping [n]: patter; pitter-patter; pounding; pulsation																														
+drunk	person [n]: drunkard; alcoholic; heavy drinker; dipsomaniac; boozer; sponge	state [a]: intoxicated; inebriated; smashed; drunken; stoned; befuddled																													
+drunkard	alcohol addict [n]: alcoholic; heavy drinker; boozer; drunk; dipsomaniac; sot																														
+drunken	shameful [a]: debauched; intemperate; inebriated																														
+dry	property [a]: evaporated	state [a]: arid; stale; seared; parched; barren	property [a]: thirsty; parched; dehydrated; droughty	characteristic [a]: unadorned; naked; bald; plain; unembellished	characteristic [a]: boring; barren; dreary; dull; jejune; tedious; tiresome; uninteresting	behaviour [a]: sarcastic; biting; satirical; humorous; arcane; keen; subtle; pointed	characteristic [a]: abstinent; temperate; ascetic	activity [v]: wipe; evaporate; soak up; wither; swab; drain; bake																							
+dryad	tree nymph [n]: fairy; nymph; sprite; goddess; pixie																														
+drying	parching [a]: searing; withering; burning																														
+dryness	lack of moisture [n]: drought; aridity; thirst																														
+dual	twin [a]: double; second; twofold; duplicate																														
+dub	name [v]: christen; call	strike [v]: poke; push																													
+dubiety	doubt [n]: incertitude; indecision; uncertainty; vacillation																														
+dubious	ambiguous [a]: uncertain; vague; unsure; equivocal; indefinite; obscure; questionable	doubtful [a]: incredulous; suspicious; indecisive; precarious; perplexed; sceptical; undecided	moot [a]: debatable; disputable																												
+duck	action [v]: crouch; dodge; escape; stoop	animal [n]: water fowl; bird; drake	activity [v]: plunge into water; submerge; dip																												
+duct	passageway for liquid [n]: conduit; canal; pipe; sewer; strait; tube; gutter																														
+ductile	pliable [a]: flexible; supple; impressionable; elastic; pliant; plastic; mobile																														
+dud	flop [n]: turkey; loser; clinker; bust; failure; washout; bomb																														
+dude	city slicker [n]: dandy; greenhorn; novice; fop; beau; asphalt cowboy [US]; exquisite [US]																														
+duds	clothes [n]: garments; apparel; gear; attire; garb																														
+due	possession [n]: desert; claim; perquisite; deserving; prerogative; merit	state [a]: unpaid; mature; unsatisfied; payable; owing; outstanding																													
+dues	contribution [n]: tax; obligation; levy; assessment; membership fee; toll; initiation dues; annual dues; collection; lodge dues; pay; duty																														
+dugout	cave [n]: cellar; burrow; hole; den; fox hole; bunker	canoe [n]: kayak; pirogue; outrigger; piragua																													
+dulcet	melodious [a]: musical; tuneful; rhythmical; harmonious; melodic; symphonic; sonorous																														
+dulcimer	stringed instrument [n]: steel guitar; lute; lyre																														
+dull	behaviour [a]: listless; flat; apathetic; slow; heavy; inanimate; placid; languid	characteristic [a]: stupid; faint; blunted; tedious; pedestrian; obtuse; backward; prosaic	property [a]: sombre; fat; inactive; sad; inanimate; slack; inert; lifeless	characteristic [a]: boring; fatuous; foolish; depressing; inapt; drear; dim; uninteresting	characteristic [a]: blunt; unsharpened; pointless	characteristic [a]: colourless; gloomy; sober; sombre; drab; dark; dingy; dim	action [v]: deaden; shackle; dim; benumb; soften; blunt; tarnish	activity [v]: depress; deject; discourage; dishearten; dispirit; sadden																							
+dullard	dunce [n]: blockhead; dolt; idiot; simpleton; block																														
+dullness	stupidity [n]: insensibility; numbness	mediocrity [n]: sameness; tedium; dimness; monotony; insipidity																													
+dumb	stupid [a]: moronic; doltish	mute [a]: tongue-tied; inarticulate; silent; speechless																													
+dumbfound	astound [v]: amaze; astonish; stagger; confound; shock; surprise																														
+dumbfounded	amazed [a]: astonished; puzzled; flabbergasted; surprised; overwhelmed; shocked																														
+dummy	mock-up [n]: counterfeit; duplicate; facsimile; imitation; clone	false [a]: phony; counterfeit; imitation; faked; simulated; mock; fabricated	fool [n]: dolt; blockhead; idiot; oaf; moron																												
+dump	action [v]: eject; unload; throw out; empty; discharge; fling down	thing [n]: rubbish heap																													
+dumping	discarding [n]: dispatch; disposition; transference; disposal; transfer; jettison; sale																														
+dumpling	blimp [n]: tub; fatty; roly-poly	cooking [n]: ball of dough																													
+dumpy	chubby [a]: pudgy; chunky; stout; thick-set; stocky; squat; fat																														
+dun	colour [a]: brownish; drab; brown; sallow; mousy; dull																														
+dunce	fool [n]: blockhead; booby; dolt; idiot; ignoramus																														
+dungeon	prison [n]: cell; hold; deep; keep; tower																														
+dunk	besprinkle [v]: anoint; sprinkle; submerge; immerse; purify; baptise; asperse																														
+duo	two people [n]: pair; mates; couple; twosome; dyad																														
+dupe	fool [v]: catch; con; gull; hoax; hoodwink; kid; spoof	victim [n]: fool; gull; sucker																													
+duplicate	alike [a]: same; identical	twin [a]: double; second; twofold; dual	reproduction [n]: copy; replica; match; transcript; twin; mate; likeness	reproduce [v]: manifold; copy; counterfeit; double; imitate; repeat	remake [v]: redo; rework																										
+duplicated	twice as much [a]: double; paired; second; twofold; two; twin																														
+duplicity	deceit [n]: artifice; deception; artfulness; craftiness; cunning; wile; double-dealing																														
+durability	resistance [n]: invulnerability; immunity; hardness; endurance; impenetrability; immovability																														
+durable	tough [a]: sturdy; hardy																														
+duration	length [n]: period; interval; term; time; continuance; season																														
+duress	imprisonment [n]: captivity; confinement; detention; bondage; jail; arrest; slavery	coercion [n]: pressure; compulsion; discipline; control; restraint; force; obligation																													
+during	duration [o]: while; whilst																														
+dusk	unlit [a]: dirty; black; Cimmerian; dun; dim; dark																														
+dusky	clouded [a]: sombre; gloomy; cloudy; dim; murky; obscure	swarthy [a]: dark																													
+dust	activity [v]: sprinkle; sift; powder; scatter; spread; shake	substance [n]: dirt; ashes; grime; powder	activity [v]: polish; clean; wipe; scrub; mop; sweep																												
+dusting	powdering [n]: dust; sprinkling																														
+dusty	characteristic [a]: moth-eaten; musty; fusty; crumbling; antediluvian; withered; dry																														
+dutiful	responsible [a]: conscientious	obedient [a]: deferential; devoted; regardful; docile; respectful; reverential																													
+duty	profession [n]: work; part; business; place; function; task; office; responsibility	relationship [n]: obligation; trust; onus; liability; charge	feeling [n]: deference; homage; respect; reverence	cost [n]: tax; custom; impost; levy; toll																											
+dwarf	midget [n]: gnome; homunculus; lilliputian; manikin; pygmy	small [a]: diminutive; dwarfed; lilliputian; little; stunted; tiny; undersized	stunt [v]: retard; hinder																												
+dwarfish	little [a]: small; tiny; diminutive; stunted; minute; misshapen																														
+dwell	continue [v]: perpetuate	inhabit [v]: house; occupy; abide; sit; live; reside; stay	emphasise [v]: emphasize; linger																												
+dwell on	sulk [v]: muse; brood; grieve; fret; ponder; ruminate over; pout																														
+dweller	inhabitant [n]: denizen; native; occupant; resident; citizen																														
+dwelling	place [n]: abode; domicile; home; house; residence																														
+dwindle	decay [v]: die; decline; degenerate; fade; deteriorate; fall																														
+dye	impregnate with colour [v]: colour; tint; stain; bleach; whiten	colour [n]: stain; tint; tone; tinge; shade; hue; paint																													
+dying	failing [a]: sickening; expiring	declining [a]: disappearing; disintegrating; decaying; ebbing; fading; vanishing																													
+dynamic	active [a]: energetic; vital; vivid; live; vigourous																														
+dynamism	activity [n]: nerve; verve; animation; hardihood; dash; energy																														
+dynamite	impressive person [n]: power-house; knockout	trinitrotoluene [n]: explosive	blow up [v]: destroy; demolish; explode; raze; bomb																												
+dynamo	hustler [n]: go-getter; live wire; power-house; self-starter	generator of electric power [n]: generator																													
+dysentery	disease [n]: diarrhea																														
