@@ -1,8 +1,11 @@
 #include "../includes/StructsAndConsts.h"
 #include "../includes/synonyms.h"
 
-/*FIND SYNONYMS FOR TWEET*/
-/*STREAMS SYNONYMS FROM FILE AND MATCHES WITH TWEET*/
+/* ======================================================
+                   Find synonyms for tweet
+		 Streams synonyms from file
+   ======================================================*/
+
 void find_synonyms_to_tweet(twitter_words_tbl *wl, int words_in_tweet) {
     synonym_tbl shorter_synonyms[AMT_SYN];
     int i, amt_shorter_synonyms;
