@@ -1,10 +1,8 @@
 #include "../includes/StructsAndConsts.h"
 #include "../includes/tweetsetup.h"
 
-/*TWEET FUNCTIONS*/
-/*TAKES A TWEET STRING FROM MAIN AND SPLITS INTO WORDS IN ARRAY OF
-  STRUCTS CALLED TWITTER_WORDS_TBL*/
 
+/*This function splits the words in the tweet into indvidual structs*/
 int split_to_words(char *str, twitter_words_tbl *wl) {
     int i, j = 0, k = 0;
     /*temperary string to store word*/
@@ -50,7 +48,7 @@ int split_to_words(char *str, twitter_words_tbl *wl) {
     return countWords;
 }
 
-/*checks if val is found in array*/
+/*Checks if the chacter val is found in array*/
 int in_array(char val, char *arr) {
     int i;
     int size = sizeof(arr);
@@ -61,7 +59,7 @@ int in_array(char val, char *arr) {
     return 0;
 }
 
-/*transfers word to word table*/
+/*Transfers word to word struct table*/
 twitter_words_tbl transfer_word_to_list(twitter_words_tbl *wl, char *word) {
     twitter_words_tbl result;
     strcpy(result.word, word);
@@ -71,7 +69,7 @@ twitter_words_tbl transfer_word_to_list(twitter_words_tbl *wl, char *word) {
     return result;
 }
 
-/*checks wheter string starts uppercase*/
+/*checks if string starts uppercase*/
 int word_starts_upper(char *str) {
     char ch = str[0];
     if(ch >= 'A' && ch <= 'Z')
@@ -91,6 +89,16 @@ int is_twitter_tag(char *str) {
     return 0;
 }
 
+/*takes an array of structs and replace first uppercase letter in word with lowercase*/
+void make_all_words_lowercase(twitter_words_tbl *wl, int n_words) {
+    int i;
+    
+    for(i = 0; i < n_words; i++) {
+        if(wl[i].is_capital)
+            wl[i].word[0] = tolower(wl[i].word[0]);
+    }
+}
+
 /*can only print one element of array*/
 void print_word_list(twitter_words_tbl wl) {
     char *is_upper,
@@ -100,14 +108,4 @@ void print_word_list(twitter_words_tbl wl) {
     is_twittertag = (wl.is_twittertag ? "yes" : "no");
 
     printf("Word: %-17s Capital: %-4s Twittertag: %s\n", wl.word, is_upper, is_twittertag);
-}
-
-/*takes an array of structs and replace first uppercase letter in word with lowercase*/
-void make_all_words_lowercase(twitter_words_tbl *wl, int n_words) {
-    int i;
-    
-    for(i = 0; i < n_words; i++) {
-        if(wl[i].is_capital)
-            wl[i].word[0] = tolower(wl[i].word[0]);
-    }
 }
