@@ -2,6 +2,7 @@
 #include "includes/tweetsetup.h"
 #include "includes/abbreviate.h"
 #include "includes/synonyms.h"
+#include "includes/hotspots.h"
 
 /*Our compress tweet function that calls all the other functions*/
 void compress_tweet(twitter_words_tbl *wl, int wl_words, abb_tbl *abb_list, int abb_lines);
@@ -11,7 +12,7 @@ int main(void) {
     abb_tbl *abb_list;
     twitter_words_tbl word_list[MAX_AMT_WORDS_IN_TWEET];
     
-    char tweet[] = "Depression night in September, as soon as possible. Is not as going to we are in this laughing out loud daily Alaska when Professor Doctor family died as expected! Documents?!?!?!?!?";
+    char tweet[] = "Depression night in September, as soon as possible. Is not as going to we are in this laughing out loud daily Alaska when Professor Doctor family died as expected! He threw away some brown and old Documents?!?!?!?!?";
     
     /*Setting up the tweet in structs*/
     count_twitter_words = split_to_words(tweet, word_list);
@@ -44,4 +45,5 @@ void compress_tweet(twitter_words_tbl *wl, int wl_words, abb_tbl *abb_list, int 
     find_synonyms_to_tweet(wl, wl_words);
     
     /*find multiple adjectives or/and adverbs*/
+    find_hotspots_for_tweet();
 }
