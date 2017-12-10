@@ -5,3 +5,6 @@ af gruppe A310, Aalborg Universitet - Software 2017
 Det er påkrævet at have jdk eller jre installeret og systemmiljøvariablen `JAVA_HOME` sat korrekt. Det kan på Windows være påkrævet at bruge forkortelsen `Progra~1` for `Program Files` eller `Progra~2` for `Program Files (x86)`.
 ### Files path
 Hvis MAC, ændre 3 stiger i `includes/StructsAndConsts.h` til `files/MAC` i stedet for `files/WIN`
+
+### Twitie-tagger
+Modellen kan desværre ikke uploades på github, så denne skal downloades over drev
