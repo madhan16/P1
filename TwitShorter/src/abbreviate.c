@@ -15,7 +15,7 @@ abb_tbl *abbreviation_setup(int *lines) {
     FILE *ifp = fopen(ABB_PATH, "r");
     /*check if connection was successfull*/
     if(ifp == NULL) {
-        printf("Could not connect to file\n");
+        printf("Could not connect abbreviation file\n");
         exit(EXIT_FAILURE);
     }
     *lines = count_lines_in_file(ifp);
