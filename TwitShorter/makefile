@@ -3,7 +3,7 @@
 ##when making the file
 
 twitie-tagger/TwitShorter.exe: tweetsetup.o abbreviate.o synonyms.o hotspots.o main.c 
-	gcc tweetsetup.o abbreviate.o synonyms.o hotspots.o main.c -o twitie-tagger/TwitShorter
+	gcc tweetsetup.o abbreviate.o synonyms.o hotspots.o main.c -o twitie-tagger/TwitShorter.exe
 
 tweetsetup.o: src/tweetsetup.c includes/tweetsetup.h includes/StructsAndConsts.h
 	gcc -c src/tweetsetup.c
