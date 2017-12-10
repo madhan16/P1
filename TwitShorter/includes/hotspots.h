@@ -1,4 +1,3 @@
-
 /*Overall function*/
 void find_hotspots_for_tweet (void);
 
