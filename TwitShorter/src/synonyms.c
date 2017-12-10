@@ -1,23 +1,18 @@
 #include "../includes/StructsAndConsts.h"
 #include "../includes/synonyms.h"
 
-/* ======================================================
-                   Find synonyms for tweet
-		 Streams synonyms from file
-   ======================================================*/
-
+/*FIND SYNONYMS FOR TWEET*/
+/*STREAMS SYNONYMS FROM FILE AND MATCHES WITH TWEET*/
 void find_synonyms_to_tweet(twitter_words_tbl *wl, int words_in_tweet) {
     synonym_tbl shorter_synonyms[AMT_SYN];
     int i, amt_shorter_synonyms;
     unsigned long longest_line;
     long start_byte;
     
-    
-    
 	FILE *ifp = fopen(SYNONYM_PATH, "r");
 
 	if (ifp == NULL) {
-		printf("Could not connect to file\n");
+		printf("Could not connect to synonyms file\n");
 		exit(EXIT_FAILURE);
 	}
     /*THERE SEEMS TO BE SOME PROBLEM WITH COMMAS AND DOTS*/
