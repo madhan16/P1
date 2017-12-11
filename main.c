@@ -17,7 +17,7 @@ int main(void) {
     ifp = fopen(TWEET_PATH, "r");
     fgets(tweet, MAX_AMT_SIGNS_IN_TWEET, ifp);
     fclose(ifp);
-        
+     
     /*Setting up the tweet in structs*/
     count_twitter_words = split_to_words(tweet, word_list);
     make_all_words_lowercase(word_list, count_twitter_words);

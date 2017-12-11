@@ -34,7 +34,7 @@ typedef struct abb {
 
 typedef struct synonyms {
     char word[MAX_WORD_LGT];
-    char synonym[MAX_WORD_LGT];
+    char synonym[AMT_SYN][MAX_WORD_LGT];
 } synonym_tbl;
 
 typedef struct tagged_word {
