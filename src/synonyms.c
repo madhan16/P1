@@ -26,7 +26,11 @@ void find_synonyms_to_tweet(twitter_words_tbl *wl, int words_in_tweet) {
         //printf("Word: %s Start_byte: %d\n", wl[i].word, start_byte);
         if (start_byte > -1) {
             amt_shorter_synonyms = get_synonyms_from_fileline(ifp, start_byte, longest_line, &shorter_synonyms[j]);
-            print_shorter_synonyms(shorter_synonyms[j], amt_shorter_synonyms);
+
+            if (amt_shorter_synonyms > 0) {
+                print_shorter_synonyms(shorter_synonyms[j], amt_shorter_synonyms);
+            }
+            
 			j++;
         }
     }
