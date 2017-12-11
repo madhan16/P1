@@ -11,6 +11,7 @@ do not:                        don't
 cannot:                        can't
 you will:                      you'll
 will not:                      won't
+by the way:                    btw
 january:                       Jan.
 february:                      Feb.
 march:                         Mar.
