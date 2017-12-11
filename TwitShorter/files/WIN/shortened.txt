@@ -5,24 +5,24 @@ limousine:                     limo
 maximum:                       max
 minimum:                       min
 as soon as possible:           ASAP
-tomorrow:                      2moro
+tomorrow:                      tmrw
 it is:                         it's
 do not:                        don't
 cannot:                        can't
 you will:                      you'll
-januar:                        jan.
-february:                      feb.
-marts:                         mar.
-april:                         apr.
-august:                        aug.
-september:                     sept.
-october:                       oct.
-november:                      nov.
-december:                      dec.
+january:                       Jan.
+february:                      Feb.
+march:                         Mar.
+april:                         Apr.
+august:                        Aug.
+september:                     Sep.
+october:                       Oct.
+november:                      Nov.
+december:                      Dec.
 we are:                        we're
 are not:                       aren't
 is not:                        isn't
-I am:                          i'm
+i am:                          i'm
 who is:                        who's
 who has:                       who's
 they are:                      they're
@@ -34,23 +34,23 @@ laughing out loud:             LOL
 right now:                     RN
 wait:                          w8
 estimated time of arrival:     ETA
-alabama:	                   AL
+alabama:	                     AL
 alaska:	                       AK
 arizona:                       AZ
-arkansas:	                   AR
+arkansas:	                     AR
 california:	                   CA
 colorado:                      CO
-connecticut:	               CT
-delaware:	                   DE
-florida:	                   FL
-georgia:	                   GA
+connecticut:	                 CT
+delaware:	                     DE
+florida:	                     FL
+georgia:	                     GA
 hawaii:	                       HI
 idaho:	                       ID
-illinois:	                   IL
-indiana:	                   IN
-iowa:	                       IA
+illinois:	                     IL
+indiana:	                     IN
+iowa:	                         IA
 kansas:	                       KS
-kentucky:	                   KY
+kentucky:	                     KY
 louisiana:	                   LA
 maine:	                       ME
 maryland:                      MD
@@ -84,8 +84,8 @@ washington:	                   WA
 west Virginia:                 WV
 wisconsin:                     WI
 wyoming:                       WY
-ammunition:                    amo
-introduction:                  info
+ammunition:                    ammo
+introduction:                  intro
 laboratory:                    lab
 christmas:                     Xmas
 gallon:                        gal
@@ -104,28 +104,31 @@ adjectival:                    adj.
 adverb:                        adv.
 adverbial:                     adv.
 document:                      Doc
-documents:                     Doc
+documents:                     Docs
 edition:                       ed.
 especially:                    esp
 family:                        Fam
 language:                      lang
 noun:                          n.
-new South Wales:               N.S.W
+new South Wales:               NSW
 objective:                     obj.
 original:                      orig.
 person:                        pers.
 persons:                       pers.
-monday:                        mon.
-tuesday:                       tues.
-wednesday:                     wed.
-thursday:                      thurs.
-friday:                        fri.
-saturday:                      sat.
-sunday:                        sun.
+monday:                        Mon.
+tuesday:                       Tues.
+wednesday:                     Wed.
+thursday:                      Thu.
+friday:                        Fri.
+saturday:                      Sat.
+sunday:                        Sun.
 dollar:                        $
 dollars:                       $
-minute:                        min
 second:                        sec
-minutes:                       min
 seconds:                       sec
+minute:                        min
+minutes:                       min
+hour:                          hr
+hours:                         hrs
 year:                          yr
+years:                         yrs
