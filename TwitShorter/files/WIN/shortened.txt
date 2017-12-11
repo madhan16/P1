@@ -134,3 +134,5 @@ hour:                          hr
 hours:                         hrs
 year:                          yr
 years:                         yrs
+girlfriend:                    GF
+boyfriend:                     BF
