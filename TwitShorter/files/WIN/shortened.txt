@@ -136,3 +136,5 @@ year:                          yr
 years:                         yrs
 girlfriend:                    GF
 boyfriend:                     BF
+thank you:                     ty
+thanks:                        thx
