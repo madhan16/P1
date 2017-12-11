@@ -10,6 +10,7 @@ it is:                         it's
 do not:                        don't
 cannot:                        can't
 you will:                      you'll
+will not:                      won't
 january:                       Jan.
 february:                      Feb.
 march:                         Mar.
