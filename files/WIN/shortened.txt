@@ -103,8 +103,8 @@ adjective:                     adj.
 adjectival:                    adj.
 adverb:                        adv.
 adverbial:                     adv.
-document:                      Doc
-documents:                     Doc
+document:                      doc
+documents:                     docs
 edition:                       ed.
 especially:                    esp
 family:                        Fam

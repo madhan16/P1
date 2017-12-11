@@ -627,13 +627,13 @@ diner	lodger [n]: boarder; patron
 ding-dong	tinkle [n]: ting; jingle; ring; click; clink																														
 dinghy	boat [n]: tender; skiff; motorboat; lifeboat																														
 dingy	dirty [a]: clouded; dark; dull; sullied																														
-dining room	place to eat [n]: diner; caf√à																														
+dining room	place to eat [n]: diner; caf»																														
 dinner	cooking [n]: meal; supper; repast; feast; banquet; refection																														
 dint	dent [n]: notch; scrape; scratch; indentation; nick; jag																														
 diocese	see [n]: parish; bishopric																														
 dip	swim [n]: plunge; bath; dive	immersion [n]: plunge; soaking	drop [n]: sag; slip; decline	immerse [v]: submerge; baptise; baptize; dive; slosh; douse; duck; steep	drop [v]: set; decline; slope; subside; recede; incline; slip	scoop [v]: ladle; spoon; lade; bale																									
 diplomacy	tact [n]: discretion; artfulness; finesse; skill; poise																														
-diplomat	shrewd person [n]: orator; public speaker	ambassadorial representative [n]: agent; ambassador; envoy; attach√à																													
+diplomat	shrewd person [n]: orator; public speaker	ambassadorial representative [n]: agent; ambassador; envoy; attach»																													
 diplomatic	tactful [a]: artful; suave; politic; gracious; calculating; smooth; capable																														
 dipper	ladle [n]: spoon; shovel; trowel; spade; scoop																														
 dipsomaniac	alcoholic [n]: drunkard; drunk; boozer; sot; addict																														
@@ -701,7 +701,7 @@ discipline	punishment [n]: castigation; chastisement; correction	training [n]: c
 disciplined	trite [a]: hackneyed; humdrum; conventional																														
 disclaim	disown [v]: deny; disallow; refuse; keep back; repudiate; withhold																														
 disclose	uncover [v]: open; bring to light; unveil; expose; lay open; muck-rake	make known [v]: exhibit; communicate; confess; impart; divulge; mention; publish																													
-disclosure	confession [n]: admission; acknowledgment; expos√à; declaration; telling; revelation	revealing [n]: divulgence; revelation; confession; enlightenment; exposure																													
+disclosure	confession [n]: admission; acknowledgment; expos»; declaration; telling; revelation	revealing [n]: divulgence; revelation; confession; enlightenment; exposure																													
 discolor	stain [v]: streak; rust; sully; colour; color [US]; fade; bleach; dirty; tarnish; smear																														
 discoloration	blemish [n]: blot; stain; blotch; bleaching; splotch; streaking; tarnishing																														
 discolour	tarnish [v]: dull																														
@@ -958,7 +958,7 @@ ditch	trench [n]: channel; canal; moat; gutter; furrow	abandon [v]: desert; get 
 ditto	an identical item [n]: the same; likewise; alike; agreement																														
 ditty	catchy tune [n]: jingle; carol; chorus; sales pitch; tune; melody																														
 divan	couch [n]: sofa; lounge; settee; furniture																														
-dive	place [n]: bar; night club; caf√à; cabaret; coffee shop; beer garden	action [n]: plunge; fall; lunge; jump; leap	action [v]: plummet; plunge; fall; submerge; disappear																												
+dive	place [n]: bar; night club; caf»; cabaret; coffee shop; beer garden	action [n]: plunge; fall; lunge; jump; leap	action [v]: plummet; plunge; fall; submerge; disappear																												
 diverge	differ [v]: contrast; deviate; dissent; disapprove; disagree; argue; vary	branch off [v]: swerve; bend; radiate; divide; fork; separate																													
 divergence	difference [n]: deviation; aberration; anomaly; mutation; alteration	radiation [n]: deviation; split; division; branch; ramification; offshoot; separation																													
 divergent	unlike [a]: distinct; altered; opposite; changed; special; contrary; different																														
