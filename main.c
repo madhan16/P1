@@ -73,7 +73,7 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
             print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, UNTAGGED_WRITE_PATH); /*untagged_tweet.txt*/
             
             /*We do this because if we dont remove the adverbs, adjectives, then the text wont get any shorter from here*/
-            if (removal_choice == 0) 
+            if (removal_choice == 2) 
                 print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, COMPRESSED_WRITE_PATH); /*../compressed.txt*/
             
             find_synonyms_to_tweet(compressed_tweet, amt_words_abb_tweet);
@@ -87,17 +87,25 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
 }
 
 void user_interaction(int *function_choice, int *remove_or_not) {
+    int done = 0;
+   
     printf("Which functions do you want to run:\n"
            "(1) Abbrevation\n"
            "(2) Find shorter synonyms\n"
            "(3) Find many adjectives and adverbs\n"
            "(4) All of the above\n");
-    scanf("%d", function_choice);
+     do {
+        scanf("%d", function_choice);
+        if (*function_choice > 0 && *function_choice < 5)
+            done = 1; 
+        else 
+            printf("Invalid input! Please enter another input.\n");       
+    } while (!done);
     
     if (*function_choice == 3 || *function_choice == 4) {
          printf("Do you want to remove the extra adverbs and adjectives (BETA)\n"
            "(1) Yes\n"
-           "(0) NO\n");
+           "(2) NO\n");
         scanf("%d", remove_or_not);
     }
 }
