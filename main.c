@@ -52,7 +52,11 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
             break;
 
         case syns:
-            find_synonyms_to_tweet(compressed_tweet, amt_words_abb_tweet);
+            /*We search trough our tweet and display the cases where we know shorter synonyms*/
+            find_synonyms_to_tweet(full_tweet, amt_words_full_tweet);
+            
+            /*We do this just in case there is an old compressed file*/
+            print_tweet_to_file(full_tweet, amt_words_full_tweet, COMPRESSED_WRITE_PATH);
             break;
 
         case hotspots: 
@@ -79,7 +83,7 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
 
         default: printf("Something went wrong\n!"); break;
     }
-    printf("Done!\n");
+    printf("\nDone!\n");
 }
 
 void user_interaction(int *function_choice, int *remove_or_not) {
