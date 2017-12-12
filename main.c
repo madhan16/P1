@@ -93,8 +93,9 @@ void user_interaction(int *function_choice, int *remove_or_not) {
            "(3) Find many adjectives and adverbs\n"
            "(4) All of the above\n");
     scanf("%d", function_choice);
+    
     if (*function_choice == 3 || *function_choice == 4) {
-         printf("Do you want to remove the extra adverbs and adjectives\n"
+         printf("Do you want to remove the extra adverbs and adjectives (BETA)\n"
            "(1) Yes\n"
            "(0) NO\n");
         scanf("%d", remove_or_not);

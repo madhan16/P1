@@ -2,3 +2,9 @@
 *.exe
 compressed.txt
 twitie-tagger/untagged_tweet.txt
+twitie-tagger/tweet_tagged.txt
+tweetsetup.o
+synonyms.o
+hotspots.o
+abbreviate.o
+twitie-tagger/TwitShorter.exe
