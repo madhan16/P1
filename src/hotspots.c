@@ -6,7 +6,7 @@
     return 0;
 }*/
 
-void find_hotspots_for_tweet (void) {
+void find_hotspots_for_tweet (int removal_choice) {
     int number_of_words, *count;
     tagged_word_tbl *tagged_tweet;
     tagged_word_tbl *shorter_tweet;
@@ -17,13 +17,15 @@ void find_hotspots_for_tweet (void) {
     /*Then we look for the hotspots*/
     count = find_adj_adv_hotspots(number_of_words, tagged_tweet);
 
-    /*Then we remove the hotspots*/
-    shorter_tweet = clean_hotspots(&number_of_words, tagged_tweet, count);
-    
-    print_compressed_tweet_to_file(shorter_tweet, number_of_words);
-        
-    /*Then we show the hotspots*/
-    //show_hotspots(number_of_words, tagged_tweet, count);
+    /*Then we either remove the hotspots*/
+    if (removal_choice == 1) {
+        shorter_tweet = clean_hotspots(&number_of_words, tagged_tweet, count);
+        print_compressed_tweet_to_file(shorter_tweet, number_of_words);
+    }
+    /*Or we show the hotspots*/
+    else { 
+        show_hotspots(number_of_words, tagged_tweet, count);
+    }
 
     /*Freeing memory again*/
     free(tagged_tweet);
@@ -41,7 +43,7 @@ tagged_word_tbl *setup_tagged_tweet(int *number_of_words) {
     FILE *ifp;
 
     /*Here we first run the twitter-tagger maybe the path needs to be updated in the start of the call*/
-    system("%JAVA_HOME%\\bin\\java -jar twitie_tag.jar models/gate-EN-twitter.model abbreviated_tweet.txt > tweet_tagged.txt");
+    system("%JAVA_HOME%\\bin\\java -jar twitie_tag.jar models/gate-EN-twitter.model untagged_tweet.txt > tweet_tagged.txt");
     printf("\n");
 
     /*Then we open the now tagged tweet and count the number of words in it, this count is done diffrently than
@@ -161,7 +163,6 @@ void show_hotspots(int number_of_words, tagged_word_tbl *tweet, int count[]) {
     printf("You have a lot of adjectives or adverbs in the following parts of your sentence, marked by numbers:\n");
     for (curr_index = 0; curr_index < number_of_words; curr_index++) {
         if (count[curr_index] >= HIGH_TAG_AMOUNT) {
-            printf("Value of count: %d \n", count[curr_index]);
             print_hotspots(curr_index, count[curr_index], tweet);
         }
     }

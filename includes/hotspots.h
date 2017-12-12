@@ -1,5 +1,5 @@
 /*Overall function*/
-void find_hotspots_for_tweet (void);
+void find_hotspots_for_tweet (int removal_choice);
 
 /*Functions for setting up the tagged tweet and getting it into structs*/
 tagged_word_tbl *setup_tagged_tweet(int *number_of_words);

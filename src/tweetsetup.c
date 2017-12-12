@@ -111,8 +111,8 @@ void print_word_list(twitter_words_tbl wl) {
 }
 
 /*prints abbreviated tweet to file for twitter tagger*/
-void print_tweet_to_file(twitter_words_tbl *wlc, int n_words) {
-    FILE *ofp = fopen(ABB_WRITE_PATH, "w");
+void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[]) {
+    FILE *ofp = fopen(write_path, "w");
     int i, space_or_not;
     
     for(i = 0; i < n_words; i++) {
