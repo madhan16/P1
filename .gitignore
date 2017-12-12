@@ -1,4 +1,4 @@
 *.o
 *.exe
-
-
+compressed.txt
+twitie-tagger/untagged_tweet.txt
