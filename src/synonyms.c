@@ -1,5 +1,5 @@
-#include "../includes/StructsAndConsts.h"
 #include "../includes/synonyms.h"
+#include "../includes/StructsAndConsts.h"
 
 /*FIND SYNONYMS FOR TWEET*/
 /*STREAMS SYNONYMS FROM FILE AND MATCHES WITH TWEET*/
@@ -23,16 +23,18 @@ void find_synonyms_to_tweet(twitter_words_tbl* wl, int words_in_tweet)
     synonym_db_line_indecies = index_lines_in_file(ifp, &synonym_db_number_of_lines, &synonym_db_longest_line);
     /*THERE SEEMS TO BE SOME PROBLEM WITH COMMAS AND DOTS*/
     for (i = 0; i < words_in_tweet; i++) {
-        start_byte = find_word_in_file(ifp, wl[i].word, synonym_db_line_indecies, synonym_db_number_of_lines, synonym_db_longest_line);
-        /* printf("Word: %s Start_byte: %d\n", wl[i].word, start_byte); */
-        if (start_byte > -1) {
-            amt_shorter_synonyms = get_synonyms_from_fileline(ifp, start_byte, longest_line, &shorter_synonyms[j]);
+        if (!wl[i].is_twittertag) {
+            start_byte = find_word_in_file(ifp, wl[i].word, synonym_db_line_indecies, synonym_db_number_of_lines, synonym_db_longest_line);
+            /* printf("Word: %s Start_byte: %d\n", wl[i].word, start_byte); */
+            if (start_byte > -1) {
+                amt_shorter_synonyms = get_synonyms_from_fileline(ifp, start_byte, longest_line, &shorter_synonyms[j]);
 
-            if (amt_shorter_synonyms > 0) {
-                print_shorter_synonyms(shorter_synonyms[j], amt_shorter_synonyms);
+                if (amt_shorter_synonyms > 0) {
+                    print_shorter_synonyms(shorter_synonyms[j], amt_shorter_synonyms);
+                }
+
+                j++;
             }
-
-            j++;
         }
     }
     fclose(ifp);
@@ -111,7 +113,8 @@ void read_word_in_line(FILE* ifp, unsigned long line_start_byte, long longest_li
     }
 }
 
-long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, long left, long right, char* search_for) {
+long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, long left, long right, char* search_for)
+{
     while (left < right) {
         long mid = (left + right) / 2;
 
@@ -147,7 +150,8 @@ long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, 
    ======================================================*/
 
 /*takes a file pointer to byteindex and finds shorter synonyms in file*/
-int get_synonyms_from_fileline(FILE* ifp, int byte_index, int max_line_size, synonym_tbl* shorter_synonyms) {
+int get_synonyms_from_fileline(FILE* ifp, int byte_index, int max_line_size, synonym_tbl* shorter_synonyms)
+{
     int done = 0, i = 0, amt_shorter_synonyms, first_synonym_len;
     char synonyms[AMT_SYN][MAX_WORD_LGT];
     char temp_char, cur_word[20];
