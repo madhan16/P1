@@ -14,11 +14,9 @@ int main(void) {
     char full_tweet_str[MAX_AMT_SIGNS_IN_TWEET];
     char temp_str[MAX_AMT_SIGNS_IN_TWEET];
 
-    special_signs_tbl no_space_before = {")!?.,", 5},
+    special_signs_tbl no_space_before = {")!?.,:;/", 8},
                       no_space_after = {"(\n", 2},
                       twitter_tags = {"#@$-\'", 5};
-
-    printf("%s\n", no_space_after.sign);
     FILE *ifp;
     abb_tbl *abb_list;
     twitter_words_tbl word_list[MAX_AMT_WORDS_IN_TWEET];

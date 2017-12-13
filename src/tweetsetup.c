@@ -24,7 +24,6 @@ int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_
         /*if sign is in array*/
         else if(in_array(str[i], no_space_before)) {
             /*complete temperary string found before special sign*/
-            printf("%c", str[i]);
             temp[j] = '\0';
             wl[k++] = transfer_word_to_list(wl, temp);
             j = 0;

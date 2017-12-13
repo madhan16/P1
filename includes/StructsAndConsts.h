@@ -10,6 +10,7 @@
 #define AMT_SYN 100
 #define TAG_SIZE 4
 #define HIGH_TAG_AMOUNT 2
+#define MAX_AMT_SPECIAL_SIGNS 15
 
 /*change to path /WIN/ if windows*/
 /*change to path /MAC/ if mac*/
@@ -44,6 +45,6 @@ typedef struct tagged_word {
 } tagged_word_tbl;
 
 typedef struct special_signs {
-    char sign[10];
+    char sign[MAX_AMT_SPECIAL_SIGNS];
     int size;
 } special_signs_tbl;
