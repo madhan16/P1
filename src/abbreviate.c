@@ -81,7 +81,7 @@ int add_abbreviation_to_tweet(twitter_words_tbl *wl, int wl_words, abb_tbl *abb_
         result_id = analyse_word(wl, wl_words, &i, abb_list, abb_words);
         
         if(result_id == -1)
-            wlc[k++] = transfer_word_to_list(wlc, wl[i].word);
+            wlc[k++] = wl[i];
         else
             wlc[k++] = transfer_word_to_list(wlc, abb_list[result_id].abb);
     }

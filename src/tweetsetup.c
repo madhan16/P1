@@ -98,6 +98,15 @@ void make_all_words_lowercase(twitter_words_tbl *wl, int n_words) {
             wl[i].word[0] = tolower(wl[i].word[0]);
     }
 }
+/*Makse the words that have been transformed to lowercase upper-case agian*/
+void start_with_capital_agian(twitter_words_tbl *wl, int n_words) {
+    int i;
+    for(i = 0; i < n_words; i++) {
+        if(wl[i].is_capital) {
+            wl[i].word[0] = toupper(wl[i].word[0]);
+        }
+    }
+}
 
 /*can only print one element of array*/
 void print_word_list(twitter_words_tbl wl) {
@@ -115,6 +124,8 @@ void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[])
     FILE *ofp = fopen(write_path, "w");
     int i, space_or_not;
     
+    start_with_capital_agian(wlc, n_words);
+
     for(i = 0; i < n_words; i++) {
         /*if not special signs add space after word*/
         space_or_not = add_space_or_not(wlc[i].word, wlc[i + 1].word);
