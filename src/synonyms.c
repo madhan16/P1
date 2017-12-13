@@ -1,5 +1,5 @@
-#include "../includes/synonyms.h"
 #include "../includes/StructsAndConsts.h"
+#include "../includes/synonyms.h"
 
 /*FIND SYNONYMS FOR TWEET*/
 /*STREAMS SYNONYMS FROM FILE AND MATCHES WITH TWEET*/
