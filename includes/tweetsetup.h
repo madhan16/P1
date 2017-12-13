@@ -17,7 +17,7 @@ void start_with_capital_agian(twitter_words_tbl *wl, int n_words);
 
 /*Functions for printing a tweet to a file*/
 void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[]);
-int add_space_or_not(char *str1, char *str2);
+int add_space_or_not(char *curr_word, char *last_word);
 
 /*Function for if we want to print one of the words from the tweet*/
 void print_word_list(twitter_words_tbl wl);

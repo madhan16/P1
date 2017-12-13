@@ -12,7 +12,7 @@ int split_to_words(char *str, twitter_words_tbl *wl) {
     char specialSigns[10] = {'(', '\n'};
     char twitterTags[10] = {'#', '@', '$', '-', '\''};
     int countWords;
-    
+
     for(i = 0; i <= (strlen(str)); i++) {
         if (isalnum(str[i]) || in_array(str[i], twitterTags)) {
             temp[j++] = str[i];
@@ -31,6 +31,7 @@ int split_to_words(char *str, twitter_words_tbl *wl) {
             wl[k++] = transfer_word_to_list(wl, temp);
             j = 0;
             /*add special sign*/
+            printf("%c ", str[i]);
             temp[j++] = str[i];
         }
         else if(in_array(str[i], specialSigns)) {
@@ -51,8 +52,8 @@ int split_to_words(char *str, twitter_words_tbl *wl) {
 /*Checks if the chacter val is found in array*/
 int in_array(char val, char *arr) {
     int i;
-    int size = sizeof(arr);
-    for(i = 0; i < size; i++) {
+    int size = sizeof(arr)/sizeof(char);
+    for(i = 0; i <= size; i++) {
         if(arr[i] == val)
             return 1;
     }
@@ -122,25 +123,29 @@ void print_word_list(twitter_words_tbl wl) {
 /*prints abbreviated tweet to file for twitter tagger*/
 void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[]) {
     FILE *ofp = fopen(write_path, "w");
-    int i, space_or_not;
+    int i, space_or_not = 0;
     
     start_with_capital_agian(wlc, n_words);
 
     for(i = 0; i < n_words; i++) {
         /*if not special signs add space after word*/
-        space_or_not = add_space_or_not(wlc[i].word, wlc[i + 1].word);
+        if (i != 0)
+            space_or_not = add_space_or_not(wlc[i].word, wlc[i-1].word);
         
-        fprintf(ofp, "%s%s", wlc[i].word, space_or_not == 1 ? " " : "");
+        fprintf(ofp, "%s%s", space_or_not == 1 ? " " : "", wlc[i].word);
     }
     
     fclose(ofp);
 }
 
 /*Help function for printing to file*/
-int add_space_or_not(char *str1, char *str2) {
-    char signsWithSpaceAfter[10] = {'!', '?', '.', ',', ')'};
-    
-    if(in_array(*str2, signsWithSpaceAfter))
+int add_space_or_not(char *curr_word, char *last_word) {
+    char signs_without_space_before[10] = {'!', '?', '.', ',', ')'};
+    char signs_without_space_after[10] = {'(', '\n'};
+
+    if(in_array(*curr_word, signs_without_space_before))
+        return 0;
+    else if(in_array(*last_word, signs_without_space_after))
         return 0;
     
     return 1;

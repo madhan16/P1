@@ -25,7 +25,7 @@ int main(void) {
         full_tweet_len = strlen(full_tweet_str);            
         strcpy(full_tweet_str + full_tweet_len, temp_str);
     }
-        
+    
     fclose(ifp);
     
     /*Setting up the tweet in structs*/
