@@ -128,7 +128,7 @@ long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, 
         }
         /* Ignore right half */
         else {
-            right_index = mid - 1;
+            right_index = mid;
         }
     }
 
