@@ -10,8 +10,10 @@ twitter_words_tbl transfer_word_to_list(twitter_words_tbl *wl, char *word);
 int word_starts_upper(char *str);
 int is_twitter_tag(char *str);
 
-/*Function to make the words lower case because our databases are lower case*/
+/*Function to make the words lower case because our databases are lower case
+  and then upper case agian later*/
 void make_all_words_lowercase(twitter_words_tbl *wl, int n_words);
+void start_with_capital_agian(twitter_words_tbl *wl, int n_words);
 
 /*Functions for printing a tweet to a file*/
 void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[]);
