@@ -9,7 +9,7 @@ int split_to_words(char *str, twitter_words_tbl *wl) {
     char temp[30];
     /*special characters to check for*/
     char signsWithSpaceAfter[10] = {'!', '?', '.', ',', ')'};
-    char specialSigns[10] = {'('};
+    char specialSigns[10] = {'(', '\n'};
     char twitterTags[10] = {'#', '@', '$', '-', '\''};
     int countWords;
     

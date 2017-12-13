@@ -10,18 +10,27 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
 void user_interaction(int *function_choice, int *remove_or_not);
 
 int main(void) {
-    int count_twitter_words, abb_tbl_lines;
-    char tweet[MAX_AMT_SIGNS_IN_TWEET];
+    int count_twitter_words, abb_tbl_lines, full_tweet_len;
+    char full_tweet_str[MAX_AMT_SIGNS_IN_TWEET];
+    char temp_str[MAX_AMT_SIGNS_IN_TWEET];
     FILE *ifp;
     abb_tbl *abb_list;
     twitter_words_tbl word_list[MAX_AMT_WORDS_IN_TWEET];
 
     ifp = fopen(TWEET_PATH, "r");
-    fgets(tweet, MAX_AMT_SIGNS_IN_TWEET, ifp);
+    fgets(temp_str, MAX_AMT_SIGNS_IN_TWEET, ifp);
+    strcpy(full_tweet_str, temp_str);
+    
+    while (fgets(temp_str, MAX_AMT_SIGNS_IN_TWEET, ifp)) {
+        full_tweet_len = strlen(full_tweet_str);            
+        strcpy(full_tweet_str + full_tweet_len, temp_str);
+    }
+        
     fclose(ifp);
+    printf("Full tweet: %s\n", full_tweet_str); //DER KOMMER ET EKSTRA MELLEMRUM MED OG \0 i starten er et problem
     
     /*Setting up the tweet in structs*/
-    count_twitter_words = split_to_words(tweet, word_list);
+    count_twitter_words = split_to_words(full_tweet_str, word_list);
     make_all_words_lowercase(word_list, count_twitter_words);
     
     /*Setting up (loading) the abbreviation database*/
