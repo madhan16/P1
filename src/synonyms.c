@@ -113,32 +113,32 @@ void read_word_in_line(FILE* ifp, unsigned long line_start_byte, long longest_li
     }
 }
 
-long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, long left, long right, char* search_for)
+long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, long left_index, long right_index, char* search_for)
 {
-    while (left < right) {
-        long mid = (left + right) / 2;
+    while (left_index < right_index) {
+        long mid = (left_index + right_index) / 2;
 
-        char word_in_file[longest_line];
-        read_word_in_line(ifp, line_positions[mid], longest_line, word_in_file);
-        int cmp = strcmp(search_for, word_in_file);
+        char a_mid[longest_line];
+        read_word_in_line(ifp, line_positions[mid], longest_line, a_mid);
+        int cmp = strcmp(search_for, a_mid);
 
         /* Ignore left half */
         if (cmp > 0) {
-            left = mid + 1;
+            left_index = mid + 1;
         }
         /* Ignore right half */
         else {
-            right = mid - 1;
+            right_index = mid - 1;
         }
     }
 
     /* Check to see if the left index which is now equal to the right index has the word, we are looking for. */
-    char word_in_file[longest_line];
-    read_word_in_line(ifp, line_positions[left], longest_line, word_in_file);
-    int cmp = strcmp(search_for, word_in_file);
+    char a_left[longest_line];
+    read_word_in_line(ifp, line_positions[left_index], longest_line, a_left);
+    int cmp = strcmp(search_for, a_left);
 
     if (cmp == 0) {
-        return left;
+        return left_index;
     }
 
     /* Result not found */
