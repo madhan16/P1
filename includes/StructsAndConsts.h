@@ -10,6 +10,7 @@
 #define AMT_SYN 100
 #define TAG_SIZE 4
 #define HIGH_TAG_AMOUNT 2
+#define MAX_AMT_SPECIAL_SIGNS 15
 
 /*change to path /WIN/ if windows*/
 /*change to path /MAC/ if mac*/
@@ -19,6 +20,7 @@
 #define UNTAGGED_WRITE_PATH "untagged_tweet.txt"
 #define TAGGED_TWEET_PATH "tweet_tagged.txt" 
 #define COMPRESSED_WRITE_PATH "../compressed.txt"
+
 
 typedef struct word {
     char word[MAX_WORD_LGT];
@@ -41,3 +43,8 @@ typedef struct tagged_word {
     char word[MAX_WORD_LGT];
     char tag[TAG_SIZE];
 } tagged_word_tbl;
+
+typedef struct special_signs {
+    char sign[MAX_AMT_SPECIAL_SIGNS];
+    int size;
+} special_signs_tbl;
