@@ -27,7 +27,6 @@ int main(void) {
     }
         
     fclose(ifp);
-    printf("Full tweet: %s\n", full_tweet_str); //DER KOMMER ET EKSTRA MELLEMRUM MED OG \0 i starten er et problem
     
     /*Setting up the tweet in structs*/
     count_twitter_words = split_to_words(full_tweet_str, word_list);
