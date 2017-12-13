@@ -55,11 +55,6 @@ long find_word_in_file(FILE* ifp, char* search_for, unsigned long* synonym_db_li
         /* printf("Found \"%s\" in line %d\n", search_for, line_number); */
         start_byte = synonym_db_line_indecies[line_number];
     }
-
-    else {
-        // printf("Did not find \"%s\"\n", search_for);
-    }
-
     return start_byte;
 }
 
