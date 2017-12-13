@@ -3,7 +3,7 @@
 
 
 /*This function splits the words in the tweet into indvidual structs*/
-int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_before, special_signs_tbl no_space_after, special_signs_tbl twitter_tags) {
+int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_before, special_signs_tbl no_space_after) {
     int i, j = 0, k = 0;
     /*temperary string to store word*/
     char temp[30];
@@ -11,10 +11,7 @@ int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_
     int countWords;
 
     for(i = 0; i <= (strlen(str)); i++) {
-        if (isalnum(str[i]) || in_array(str[i], twitter_tags)) {
-            temp[j++] = str[i];
-        }
-        else if(str[i] == ' ' || str[i] == '\0') {
+        if(str[i] == ' ' || str[i] == '\0') {
             /*complete string*/
             temp[j] = '\0';
             wl[k++] = transfer_word_to_list(wl, temp);
@@ -36,6 +33,10 @@ int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_
             wl[k++] = transfer_word_to_list(wl, temp);
             j = 0;
         }
+        else {
+            temp[j++] = str[i];
+        }
+
     }
     
     temp[j] = '\0';
@@ -78,10 +79,10 @@ int word_starts_upper(char *str) {
 
 int is_twitter_tag(char *str) {
     int i;
-    char twitterTags[10] = {'#', '@', '$', '-', '\''};
+    char *twitter_tags = {"#@$-\'\""};
     
     for(i = 0; i < 3; i++) {
-        if(twitterTags[i] == str[0])
+        if(str[0] == twitter_tags[i])
             return 1;
     }
     return 0;

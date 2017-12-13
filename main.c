@@ -15,8 +15,7 @@ int main(void) {
     char temp_str[MAX_AMT_SIGNS_IN_TWEET];
 
     special_signs_tbl no_space_before = {")!?.,:;/", 8},
-                      no_space_after = {"(\n", 2},
-                      twitter_tags = {"#@$-\'", 5};
+                      no_space_after = {"(\n", 2};
     FILE *ifp;
     abb_tbl *abb_list;
     twitter_words_tbl word_list[MAX_AMT_WORDS_IN_TWEET];
@@ -32,7 +31,7 @@ int main(void) {
     
     fclose(ifp);
     /*Setting up the tweet in structs*/
-    count_twitter_words = split_to_words(full_tweet_str, word_list, no_space_before, no_space_after, twitter_tags);
+    count_twitter_words = split_to_words(full_tweet_str, word_list, no_space_before, no_space_after);
     make_all_words_lowercase(word_list, count_twitter_words);
     
     /*Setting up (loading) the abbreviation database*/

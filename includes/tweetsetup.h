@@ -1,5 +1,5 @@
 /*Main function for setting up the tweet*/
-int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_before, special_signs_tbl no_space_after, special_signs_tbl twitter_tags);
+int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_before, special_signs_tbl no_space_after);
 
 /*Function that checks if the input character (val) is in the array arr*/
 int in_array(char val, special_signs_tbl); 
