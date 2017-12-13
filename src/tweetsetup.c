@@ -3,18 +3,15 @@
 
 
 /*This function splits the words in the tweet into indvidual structs*/
-int split_to_words(char *str, twitter_words_tbl *wl) {
+int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_before, special_signs_tbl no_space_after, special_signs_tbl twitter_tags) {
     int i, j = 0, k = 0;
     /*temperary string to store word*/
     char temp[30];
     /*special characters to check for*/
-    char signsWithSpaceAfter[10] = {'!', '?', '.', ',', ')'};
-    char specialSigns[10] = {'(', '\n'};
-    char twitterTags[10] = {'#', '@', '$', '-', '\''};
     int countWords;
 
     for(i = 0; i <= (strlen(str)); i++) {
-        if (isalnum(str[i]) || in_array(str[i], twitterTags)) {
+        if (isalnum(str[i]) || in_array(str[i], twitter_tags)) {
             temp[j++] = str[i];
         }
         else if(str[i] == ' ' || str[i] == '\0') {
@@ -25,16 +22,16 @@ int split_to_words(char *str, twitter_words_tbl *wl) {
             j = 0;
         }
         /*if sign is in array*/
-        else if(in_array(str[i], signsWithSpaceAfter)) {
+        else if(in_array(str[i], no_space_before)) {
             /*complete temperary string found before special sign*/
+            printf("%c", str[i]);
             temp[j] = '\0';
             wl[k++] = transfer_word_to_list(wl, temp);
             j = 0;
             /*add special sign*/
-            printf("%c ", str[i]);
             temp[j++] = str[i];
         }
-        else if(in_array(str[i], specialSigns)) {
+        else if(in_array(str[i], no_space_after)) {
             temp[j++] = str[i];
             temp[j] = '\0';
             wl[k++] = transfer_word_to_list(wl, temp);
@@ -50,12 +47,13 @@ int split_to_words(char *str, twitter_words_tbl *wl) {
 }
 
 /*Checks if the chacter val is found in array*/
-int in_array(char val, char *arr) {
+int in_array(char val, special_signs_tbl arr) {
     int i;
-    int size = sizeof(arr)/sizeof(char);
-    for(i = 0; i <= size; i++) {
-        if(arr[i] == val)
+    for(i = 0; i < arr.size; i++) {
+        if(arr.sign[i] == val) {
+            //printf("%c", arr.sign[i]);
             return 1;
+        }
     }
     return 0;
 }
@@ -81,7 +79,7 @@ int word_starts_upper(char *str) {
 
 int is_twitter_tag(char *str) {
     int i;
-    char twitterTags[10] = {'#', '@', '$'};
+    char twitterTags[10] = {'#', '@', '$', '-', '\''};
     
     for(i = 0; i < 3; i++) {
         if(twitterTags[i] == str[0])
@@ -121,7 +119,7 @@ void print_word_list(twitter_words_tbl wl) {
 }
 
 /*prints abbreviated tweet to file for twitter tagger*/
-void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[]) {
+void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[], special_signs_tbl no_space_before, special_signs_tbl no_space_after) {
     FILE *ofp = fopen(write_path, "w");
     int i, space_or_not = 0;
     
@@ -130,7 +128,7 @@ void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[])
     for(i = 0; i < n_words; i++) {
         /*if not special signs add space after word*/
         if (i != 0)
-            space_or_not = add_space_or_not(wlc[i].word, wlc[i-1].word);
+            space_or_not = add_space_or_not(wlc[i].word, wlc[i-1].word, no_space_before, no_space_after);
         
         fprintf(ofp, "%s%s", space_or_not == 1 ? " " : "", wlc[i].word);
     }
@@ -139,13 +137,10 @@ void print_tweet_to_file(twitter_words_tbl *wlc, int n_words, char write_path[])
 }
 
 /*Help function for printing to file*/
-int add_space_or_not(char *curr_word, char *last_word) {
-    char signs_without_space_before[10] = {'!', '?', '.', ',', ')'};
-    char signs_without_space_after[10] = {'(', '\n'};
-
-    if(in_array(*curr_word, signs_without_space_before))
+int add_space_or_not(char *curr_word, char *last_word, special_signs_tbl no_space_before, special_signs_tbl no_space_after) {
+    if(in_array(*curr_word, no_space_before))
         return 0;
-    else if(in_array(*last_word, signs_without_space_after))
+    else if(in_array(*last_word, no_space_after))
         return 0;
     
     return 1;

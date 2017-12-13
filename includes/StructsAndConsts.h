@@ -20,6 +20,7 @@
 #define TAGGED_TWEET_PATH "tweet_tagged.txt" 
 #define COMPRESSED_WRITE_PATH "../compressed.txt"
 
+
 typedef struct word {
     char word[MAX_WORD_LGT];
     int  is_capital;
@@ -41,3 +42,8 @@ typedef struct tagged_word {
     char word[MAX_WORD_LGT];
     char tag[TAG_SIZE];
 } tagged_word_tbl;
+
+typedef struct special_signs {
+    char sign[10];
+    int size;
+} special_signs_tbl;

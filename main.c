@@ -6,13 +6,19 @@
 
 enum functions{abbr = 1, syns, hotspots, all};
 /*Our compress tweet function that calls all the other functions*/
-void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb_tbl *abb_list, int abb_lines);
+void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb_tbl *abb_list, int abb_lines, special_signs_tbl no_space_before, special_signs_tbl no_space_after);
 void user_interaction(int *function_choice, int *remove_or_not);
 
 int main(void) {
     int count_twitter_words, abb_tbl_lines, full_tweet_len;
     char full_tweet_str[MAX_AMT_SIGNS_IN_TWEET];
     char temp_str[MAX_AMT_SIGNS_IN_TWEET];
+
+    special_signs_tbl no_space_before = {")!?.,", 5},
+                      no_space_after = {"(\n", 2},
+                      twitter_tags = {"#@$-\'", 5};
+
+    printf("%s\n", no_space_after.sign);
     FILE *ifp;
     abb_tbl *abb_list;
     twitter_words_tbl word_list[MAX_AMT_WORDS_IN_TWEET];
@@ -27,16 +33,15 @@ int main(void) {
     }
     
     fclose(ifp);
-    
     /*Setting up the tweet in structs*/
-    count_twitter_words = split_to_words(full_tweet_str, word_list);
+    count_twitter_words = split_to_words(full_tweet_str, word_list, no_space_before, no_space_after, twitter_tags);
     make_all_words_lowercase(word_list, count_twitter_words);
     
     /*Setting up (loading) the abbreviation database*/
     abb_list = abbreviation_setup(&abb_tbl_lines);
 
     /*Compressing the tweet*/
-    compress_tweet(word_list, count_twitter_words, abb_list, abb_tbl_lines);
+    compress_tweet(word_list, count_twitter_words, abb_list, abb_tbl_lines, no_space_before, no_space_after);
     
     /*Freeing the allocated memory agian*/
     free(abb_list);
@@ -44,7 +49,7 @@ int main(void) {
 }
 
 /*COMPRESS TWEET*/
-void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb_tbl *abb_list, int abb_lines) {
+void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb_tbl *abb_list, int abb_lines, special_signs_tbl no_space_before, special_signs_tbl no_space_after) {
     int amt_words_abb_tweet, func_choice = 0, removal_choice = 0;
     twitter_words_tbl compressed_tweet[MAX_AMT_WORDS_IN_TWEET];
     
@@ -56,7 +61,7 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
             amt_words_abb_tweet = add_abbreviation_to_tweet(full_tweet, amt_words_full_tweet, abb_list, abb_lines, compressed_tweet);
             
             /*Then we write the shorter tweet onto a new txt file*/
-            print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, COMPRESSED_WRITE_PATH); /*../compressed.txt*/        
+            print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, COMPRESSED_WRITE_PATH, no_space_before, no_space_after); /*../compressed.txt*/        
             break;
 
         case syns:
@@ -64,12 +69,12 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
             find_synonyms_to_tweet(full_tweet, amt_words_full_tweet);
             
             /*We do this just in case there is an old compressed file*/
-            print_tweet_to_file(full_tweet, amt_words_full_tweet, COMPRESSED_WRITE_PATH);
+            print_tweet_to_file(full_tweet, amt_words_full_tweet, COMPRESSED_WRITE_PATH, no_space_before, no_space_after);
             break;
 
         case hotspots: 
             /*First we need the tweet to be on txt.form agian for the twitie-tagger to work*/
-            print_tweet_to_file(full_tweet, amt_words_full_tweet, UNTAGGED_WRITE_PATH); /*untagged_tweet.txt*/
+            print_tweet_to_file(full_tweet, amt_words_full_tweet, UNTAGGED_WRITE_PATH, no_space_before, no_space_after); /*untagged_tweet.txt*/
 
             /*Then we can run our program that finds the hotspots and prints it to the file if removal was on*/
             find_hotspots_for_tweet(removal_choice);
@@ -78,11 +83,11 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
         case all: /*In this case we do all of the above*/
             amt_words_abb_tweet = add_abbreviation_to_tweet(full_tweet, amt_words_full_tweet, abb_list, abb_lines, compressed_tweet);
     
-            print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, UNTAGGED_WRITE_PATH); /*untagged_tweet.txt*/
+            print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, UNTAGGED_WRITE_PATH, no_space_before, no_space_after); /*untagged_tweet.txt*/
             
             /*We do this because if we dont remove the adverbs, adjectives, then the text wont get any shorter from here*/
             if (removal_choice == 2) 
-                print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, COMPRESSED_WRITE_PATH); /*../compressed.txt*/
+                print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, COMPRESSED_WRITE_PATH, no_space_before, no_space_after); /*../compressed.txt*/
             
             find_synonyms_to_tweet(compressed_tweet, amt_words_abb_tweet);
 
