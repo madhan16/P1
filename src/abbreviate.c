@@ -78,10 +78,12 @@ int add_abbreviation_to_tweet(twitter_words_tbl *wl, int wl_words, abb_tbl *abb_
     int i, k = 0;
     int result_id = 0;
     for(i = 0; i < wl_words; i++) {
-        result_id = analyse_word(wl, wl_words, i, abb_list, abb_words);
+        result_id = analyse_word(wl, wl_words, &i, abb_list, abb_words);
         
-        if(result_id == -1)
+        if(result_id == -1) {
             wlc[k++] = wl[i];
+        }
+            
         else {
             wlc[k] =  wl[i];
             strcpy(wlc[k].word, abb_list[result_id].abb);
@@ -92,26 +94,28 @@ int add_abbreviation_to_tweet(twitter_words_tbl *wl, int wl_words, abb_tbl *abb_
     return k;
 }
 
-int analyse_word(twitter_words_tbl *wl, int wl_words, int word_index, abb_tbl *abb_list, int abb_words) {
+int analyse_word(twitter_words_tbl *wl, int wl_words, int *word_index, abb_tbl *abb_list, int abb_words) {
     int i, j, str_len;
     char temp_word[MAX_WORD_LGT * 3];
     /*We run our database through*/
     for (i = 0; i < abb_words; i++) {
         /*First we copy our word over into a temp str so we dont manipulate the word*/
-        strcpy(temp_word, wl[word_index].word);
-        
+        strcpy(temp_word, wl[*word_index].word);
+        j = 1;
         /*We then check if the abbreviation is a abbrevation of more than 1 word*/ 
-        if(abb_is_multiple_words(abb_list[i], word_index, wl_words)) {
+        if(abb_is_multiple_words(abb_list[i], *word_index, wl_words)) {
             /*If this is the case we add the next words from the tweet so we can compare them with 
               the abbrevation*/
             for(j = 1; j < abb_list[i].n_words; j++) {
                 str_len = strlen(temp_word);
                 strcpy(temp_word + str_len, " ");
-                strcpy(temp_word + str_len + 1, wl[word_index + j].word);
+                strcpy(temp_word + str_len + 1, wl[*word_index + j].word);
             }
         }
         /*Then we check if the word or set of words is the same*/
         if ((strcmp(temp_word, abb_list[i].word) == 0)) {
+            /*In case it is more than one word we move the pointer forward to remove the other words*/
+            *word_index += (j-1);
             return i;
         }
     }

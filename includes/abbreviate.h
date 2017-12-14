@@ -7,5 +7,5 @@ int count_words_in_string(char *str);
 
 /*Doing the Abbreviation*/ 
 int add_abbreviation_to_tweet(twitter_words_tbl *wl, int wl_words, abb_tbl *abb_list, int abb_lines, twitter_words_tbl *wlc);
-int analyse_word(twitter_words_tbl *wl, int wl_words, int word_index, abb_tbl *abb_list, int abb_words);
+int analyse_word(twitter_words_tbl *wl, int wl_words, int *word_index, abb_tbl *abb_list, int abb_words);
 int abb_is_multiple_words(abb_tbl abb_list, int word_index, int wl_words);

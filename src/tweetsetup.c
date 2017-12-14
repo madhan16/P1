@@ -81,7 +81,7 @@ int is_twitter_tag(char *str) {
     int i;
     char *twitter_tags = {"#@$-\'\""};
     
-    for(i = 0; i < 3; i++) {
+    for(i = 0; i < 5; i++) {
         if(str[0] == twitter_tags[i])
             return 1;
     }

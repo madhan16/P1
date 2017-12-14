@@ -78,15 +78,15 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
 
         case all: /*In this case we do all of the above*/
             amt_words_abb_tweet = add_abbreviation_to_tweet(full_tweet, amt_words_full_tweet, abb_list, abb_lines, compressed_tweet);
-    
+            
+            find_synonyms_to_tweet(compressed_tweet, amt_words_abb_tweet);
+
             print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, UNTAGGED_WRITE_PATH, no_space_before, no_space_after); /*untagged_tweet.txt*/
             
             /*We do this because if we dont remove the adverbs, adjectives, then the text wont get any shorter from here*/
             if (removal_choice == 2) 
                 print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, COMPRESSED_WRITE_PATH, no_space_before, no_space_after); /*../compressed.txt*/
-            
-            find_synonyms_to_tweet(compressed_tweet, amt_words_abb_tweet);
-
+        
             find_hotspots_for_tweet(removal_choice);
             break;
 
