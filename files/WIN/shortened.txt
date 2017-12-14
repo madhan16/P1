@@ -90,10 +90,6 @@ ammunition:                    ammo
 introduction:                  intro
 laboratory:                    lab
 christmas:                     Xmas
-gallon:                        gal
-gallons:                       gals
-pound:                         lb
-pounds:                        lb
 boulevard:                     blvd
 avenue:                        ave
 street:                        st
