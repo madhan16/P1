@@ -95,34 +95,45 @@ int add_abbreviation_to_tweet(twitter_words_tbl *wl, int wl_words, abb_tbl *abb_
 }
 
 int analyse_word(twitter_words_tbl *wl, int wl_words, int *word_index, abb_tbl *abb_list, int abb_words) {
-    int i, j, str_len;
+    int i, amt_abb_words;
     char temp_word[MAX_WORD_LGT * 3];
     /*We run our database through*/
     for (i = 0; i < abb_words; i++) {
         /*First we copy our word over into a temp str so we dont manipulate the word*/
         strcpy(temp_word, wl[*word_index].word);
-        j = 1;
+
         /*We then check if the abbreviation is a abbrevation of more than 1 word*/ 
-        if(abb_is_multiple_words(abb_list[i], *word_index, wl_words)) {
-            /*If this is the case we add the next words from the tweet so we can compare them with 
-              the abbrevation*/
-            for(j = 1; j < abb_list[i].n_words; j++) {
-                str_len = strlen(temp_word);
-                strcpy(temp_word + str_len, " ");
-                strcpy(temp_word + str_len + 1, wl[*word_index + j].word);
-            }
-        }
+        amt_abb_words = check_and_combine_multiple_words(abb_list[i].n_words, *word_index, wl_words, wl, temp_word);
+        
         /*Then we check if the word or set of words is the same*/
         if ((strcmp(temp_word, abb_list[i].word) == 0)) {
             /*In case it is more than one word we move the pointer forward to remove the other words*/
-            *word_index += (j-1);
+            *word_index += (amt_abb_words - 1);
             return i;
         }
     }
     return -1;
 }
 
+int check_and_combine_multiple_words (int n_abb_words, int word_index, int amt_words_tweet, twitter_words_tbl *wl, char *temp_word) {
+    int i, str_len;
+    
+    if(abb_is_multiple_words(n_abb_words, word_index, amt_words_tweet)) {
+        /*If this is the case we add the next words from the tweet so we can compare them with 
+        the abbrevation*/
+        for(i = 1; i < n_abb_words; i++) {
+            str_len = strlen(temp_word);
+            strcpy(temp_word + str_len, " ");
+            strcpy(temp_word + str_len + 1, wl[word_index + i].word);
+        }
+        return i;
+    }
+    else {
+        return 1;
+    }
+}
+
 /*Returns 1 if the abbrevation contains more than one word and makes sure we dont read outside the array elements*/
-int abb_is_multiple_words(abb_tbl abb_list, int word_index, int wl_words) {
-    return abb_list.n_words > 1 && (abb_list.n_words + word_index < wl_words);
+int abb_is_multiple_words(int n_abb_words, int word_index, int amt_words_tweet) {
+    return n_abb_words > 1 && (n_abb_words + word_index < amt_words_tweet);
 }

@@ -17,7 +17,7 @@ int main(void) {
     abb_tbl *abb_list;
     twitter_words_tbl word_list[MAX_AMT_WORDS_IN_TWEET];
     special_signs_tbl no_space_before = {")!?.,:;/", 8},
-                      no_space_after = {"(\n/", 3};
+                      no_space_after = {"(\n", 2};
     
 
     ifp = fopen(TWEET_PATH, "r");
