@@ -1,4 +1,3 @@
-you:                           u
 and:                           &
 information:                   info
 limousine:                     limo
@@ -134,3 +133,4 @@ girlfriend:                    GF
 boyfriend:                     BF
 thank you:                     ty
 thanks:                        thx
+you:                           u
