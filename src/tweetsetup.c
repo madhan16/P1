@@ -1,6 +1,40 @@
 #include "../includes/StructsAndConsts.h"
 #include "../includes/tweetsetup.h"
 
+int tweet_setup(twitter_words_tbl *full_tweet, special_signs_tbl no_space_before, special_signs_tbl no_space_after) {
+    int amt_words_tweet;
+    char full_tweet_str[MAX_AMT_SIGNS_IN_TWEET];
+
+    /*Loading the tweet from the txt file*/
+    make_tweet_str(full_tweet_str);
+
+    /*Setting up the tweet in structs*/
+    amt_words_tweet = split_to_words(full_tweet_str, full_tweet, no_space_before, no_space_after);
+
+    /*Then making the words lower case so the other functions can work with them*/
+    make_all_words_lowercase(full_tweet, amt_words_tweet);
+    return amt_words_tweet;
+}
+
+
+void make_tweet_str(char *full_tweet_str) {
+    int full_tweet_len;
+    char temp_str[MAX_AMT_SIGNS_IN_TWEET];    
+    FILE *ifp;
+
+    ifp = fopen(TWEET_PATH, "r");
+
+    /*First run where we dont move the pointer*/
+    fgets(temp_str, MAX_AMT_SIGNS_IN_TWEET, ifp);
+    strcpy(full_tweet_str, temp_str);
+
+    /*Then we move the pointer to add the rest of the tweet to the end of the tweet*/
+    while (fgets(temp_str, MAX_AMT_SIGNS_IN_TWEET, ifp)) {
+        full_tweet_len = strlen(full_tweet_str);            
+        strcpy(full_tweet_str + full_tweet_len, temp_str);
+    }
+    fclose(ifp);
+}
 
 /*This function splits the words in the tweet into indvidual structs*/
 int split_to_words(char *str, twitter_words_tbl *wl, special_signs_tbl no_space_before, special_signs_tbl no_space_after) {
@@ -105,17 +139,6 @@ void start_with_capital_agian(twitter_words_tbl *wl, int n_words) {
             wl[i].word[0] = toupper(wl[i].word[0]);
         }
     }
-}
-
-/*can only print one element of array*/
-void print_word_list(twitter_words_tbl wl) {
-    char *is_upper,
-         *is_twittertag;
-    
-    is_upper = (wl.is_capital ? "yes" : "no");
-    is_twittertag = (wl.is_twittertag ? "yes" : "no");
-
-    printf("Word: %-17s Capital: %-4s Twittertag: %s\n", wl.word, is_upper, is_twittertag);
 }
 
 /*prints abbreviated tweet to file for twitter tagger*/

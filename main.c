@@ -6,38 +6,24 @@
 
 enum functions{abbr = 1, syns, hotspots, all};
 /*Our compress tweet function that calls all the other functions*/
+int tweet_setup(twitter_words_tbl *full_tweet, special_signs_tbl no_space_before, special_signs_tbl no_space_after);
 void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb_tbl *abb_list, int abb_lines, special_signs_tbl no_space_before, special_signs_tbl no_space_after);
 void user_interaction(int *function_choice, int *remove_or_not);
 
 int main(void) {
-    int count_twitter_words, abb_tbl_lines, full_tweet_len;
-    char full_tweet_str[MAX_AMT_SIGNS_IN_TWEET];
-    char temp_str[MAX_AMT_SIGNS_IN_TWEET];
-    FILE *ifp;
-    abb_tbl *abb_list;
-    twitter_words_tbl word_list[MAX_AMT_WORDS_IN_TWEET];
+    int amt_words_tweet, abb_tbl_lines;
+    twitter_words_tbl full_tweet[MAX_AMT_WORDS_IN_TWEET];
     special_signs_tbl no_space_before = {")!?.,:;/", 8},
                       no_space_after = {"(\n", 2};
-    
+    abb_tbl *abb_list;  
 
-    ifp = fopen(TWEET_PATH, "r");
-    fgets(temp_str, MAX_AMT_SIGNS_IN_TWEET, ifp);
-    strcpy(full_tweet_str, temp_str);
-    
-    while (fgets(temp_str, MAX_AMT_SIGNS_IN_TWEET, ifp)) {
-        full_tweet_len = strlen(full_tweet_str);            
-        strcpy(full_tweet_str + full_tweet_len, temp_str);
-    }
-    fclose(ifp);
-    /*Setting up the tweet in structs*/
-    count_twitter_words = split_to_words(full_tweet_str, word_list, no_space_before, no_space_after);
-    make_all_words_lowercase(word_list, count_twitter_words);
+    amt_words_tweet = tweet_setup(full_tweet, no_space_before, no_space_after);
 
     /*Setting up (loading) the abbreviation database*/
     abb_list = abbreviation_setup(&abb_tbl_lines);
 
     /*Compressing the tweet*/
-    compress_tweet(word_list, count_twitter_words, abb_list, abb_tbl_lines, no_space_before, no_space_after);
+    compress_tweet(full_tweet, amt_words_tweet, abb_list, abb_tbl_lines, no_space_before, no_space_after);
     
     /*Freeing the allocated memory agian*/
     free(abb_list);
