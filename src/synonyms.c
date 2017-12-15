@@ -3,8 +3,7 @@
 
 /*FIND SYNONYMS FOR TWEET*/
 /*STREAMS SYNONYMS FROM FILE AND MATCHES WITH TWEET*/
-void find_synonyms_to_tweet(twitter_words_tbl* wl, int words_in_tweet)
-{
+void find_synonyms_to_tweet(twitter_words_tbl* wl, int words_in_tweet) {
     synonym_tbl shorter_synonyms[AMT_SYN];
     int i, j = 0, amt_shorter_synonyms;
     unsigned long longest_line;
@@ -28,11 +27,9 @@ void find_synonyms_to_tweet(twitter_words_tbl* wl, int words_in_tweet)
             /* printf("Word: %s Start_byte: %d\n", wl[i].word, start_byte); */
             if (start_byte > -1) {
                 amt_shorter_synonyms = get_synonyms_from_fileline(ifp, start_byte, longest_line, &shorter_synonyms[j]);
-
                 if (amt_shorter_synonyms > 0) {
                     print_shorter_synonyms(shorter_synonyms[j], amt_shorter_synonyms);
                 }
-
                 j++;
             }
         }
@@ -44,8 +41,7 @@ void find_synonyms_to_tweet(twitter_words_tbl* wl, int words_in_tweet)
     Search function for finding word in synonym database
    ======================================================*/
 
-long find_word_in_file(FILE* ifp, char* search_for, unsigned long* synonym_db_line_indecies, long number_of_lines, long longest_line)
-{
+long find_word_in_file(FILE* ifp, char* search_for, unsigned long* synonym_db_line_indecies, long number_of_lines, long longest_line) {
     fseek(ifp, 0, SEEK_SET);
     long start_byte;
 
@@ -54,14 +50,12 @@ long find_word_in_file(FILE* ifp, char* search_for, unsigned long* synonym_db_li
     start_byte = -1;
 
     if (line_number > -1) {
-        /* printf("Found \"%s\" in line %d\n", search_for, line_number); */
         start_byte = synonym_db_line_indecies[line_number];
     }
     return start_byte;
 }
 
-unsigned long* index_lines_in_file(FILE* ifp, long* out_number_of_lines, long* out_longest_line)
-{
+unsigned long* index_lines_in_file(FILE* ifp, long* out_number_of_lines, long* out_longest_line) {
     size_t position_array_size = 100;
     unsigned long* positions = malloc(position_array_size * sizeof(*positions));
 
@@ -96,15 +90,14 @@ unsigned long* index_lines_in_file(FILE* ifp, long* out_number_of_lines, long* o
     return positions;
 }
 
-void read_word_in_line(FILE* ifp, unsigned long line_start_byte, long longest_line, char* out_word)
-{
+void read_word_in_line(FILE* ifp, unsigned long line_start_byte, long longest_line, char* out_word) {
     char buffer[longest_line];
     int buffer_length = sizeof(buffer) / sizeof(buffer[0]);
 
     fseek(ifp, line_start_byte, SEEK_SET);
 
     fgets(buffer, buffer_length, ifp);
-
+    
     char* token = strtok(buffer, "\t");
     if (token == NULL) {
         strcpy(out_word, "");
@@ -113,8 +106,7 @@ void read_word_in_line(FILE* ifp, unsigned long line_start_byte, long longest_li
     }
 }
 
-long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, long left_index, long right_index, char* search_for)
-{
+long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, long left_index, long right_index, char* search_for) {
     while (left_index < right_index) {
         long mid = (left_index + right_index) / 2;
 
@@ -150,8 +142,7 @@ long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, 
    ======================================================*/
 
 /*takes a file pointer to byteindex and finds shorter synonyms in file*/
-int get_synonyms_from_fileline(FILE* ifp, int byte_index, int max_line_size, synonym_tbl* shorter_synonyms)
-{
+int get_synonyms_from_fileline(FILE* ifp, int byte_index, int max_line_size, synonym_tbl* shorter_synonyms) {
     int done = 0, i = 0, amt_shorter_synonyms, first_synonym_len;
     char synonyms[AMT_SYN][MAX_WORD_LGT];
     char temp_char, cur_word[20];
@@ -195,11 +186,8 @@ int get_synonyms_from_fileline(FILE* ifp, int byte_index, int max_line_size, syn
 }
 
 /*finds synonyms in array which are shorter than curr_word*/
-int find_synonyms_shorter_than_word(char synonyms[][MAX_WORD_LGT], synonym_tbl* ss, int amt_synonyms,
-    char* cur_word)
-{
+int find_synonyms_shorter_than_word(char synonyms[][MAX_WORD_LGT], synonym_tbl* ss, int amt_synonyms, char* cur_word) {
     int i, j = 0, len_cur_word, len_synonym;
-    double percent_reduction;
 
     len_cur_word = strlen(cur_word);
 
@@ -207,19 +195,15 @@ int find_synonyms_shorter_than_word(char synonyms[][MAX_WORD_LGT], synonym_tbl* 
     for (i = 0; i < amt_synonyms; i++) {
         len_synonym = strlen(synonyms[i]);
         if ((strlen(synonyms[i])) < len_cur_word) {
-            percent_reduction = (double)(len_cur_word - len_synonym) / len_cur_word * 100;
-            if (percent_reduction >= 25) {
-                strcpy(ss->synonym[j], synonyms[i]);
-                j++;
-            }
+            strcpy(ss->synonym[j], synonyms[i]);
+            j++;
         }
     }
     /*number of synonyms added*/
     return j;
 }
 
-void print_shorter_synonyms(synonym_tbl shorter_synonyms, int amt_shorter_synonyms)
-{
+void print_shorter_synonyms(synonym_tbl shorter_synonyms, int amt_shorter_synonyms) {
     int i;
     printf("Suggested synonyms for: %s\n", shorter_synonyms.word);
     for (i = 0; i < amt_shorter_synonyms; i++) {
