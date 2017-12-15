@@ -1,4 +1,3 @@
-you:                           u
 and:                           &
 information:                   info
 limousine:                     limo
@@ -90,10 +89,6 @@ ammunition:                    ammo
 introduction:                  intro
 laboratory:                    lab
 christmas:                     Xmas
-gallon:                        gal
-gallons:                       gals
-pound:                         lb
-pounds:                        lb
 boulevard:                     blvd
 avenue:                        ave
 street:                        st
@@ -138,3 +133,4 @@ girlfriend:                    GF
 boyfriend:                     BF
 thank you:                     ty
 thanks:                        thx
+you:                           u
