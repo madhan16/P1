@@ -1,6 +1,5 @@
 abandon	spontaneity [n]: disregard; freedom; impulse; unrestraint	desert [v]: discard; discontinue; ditch; dump; leave; quit; stop; drop	jilt [v]: reject																						
 ability	capability [n]: capacity; strength; skill; talent; faculty; might	expertise [n]: bent; craft; finesse; flair; gift; knack; know-how; savvy																							
-abortion	miscarriage [n]: misbirth																								
 above	raised [a]: high; over																								
 abroad	away [a]: overseas; traveling																								
 absence	AWOL [n]: vacancy; no show 																								
@@ -1298,7 +1297,6 @@ gruesome	ghastly [a]: grim; hideous; horrid; horrific; awful
 handsome	beautiful [a]: lovely; stylish; pretty																								
 hijack	steal [v]: carjack																								
 homo sapiens	human [n]: mankind; people																								
-homosexual	gay [a]: homoerotic																								
 horrendous	dire [a]: dreadful; gruesome; hideous; horrible; beastly																								
 important	crucial [a]: decisive; essential; influential; meaningful; necessary; relevant; significant																								
 inside	inner [a]: internal; indoors; central																								
@@ -1322,7 +1320,6 @@ lubrication	lubricating [n]: lube; oiling; grease
 luminosity	radiance [n]: glow; light; bright																								
 manipulation	guidance [n]: control; direction																								
 mankind	human [n]: man; people; society																								
-masturbation	wank [v]: jerk off																								
 minority	group [n]: the few																								
 multiplication	duplication [n]: addition; increase																								
 narrative	content [n]: story																								
