@@ -14,9 +14,9 @@
 
 /*change to path /WIN/ if windows*/
 /*change to path /MAC/ if mac*/
-#define TWEET_PATH "../long_tweet.txt"
 #define ABB_PATH "../files/WIN/shortened.txt"
 #define SYNONYM_PATH "../files/WIN/synonymdatabase.txt"
+#define TWEET_PATH "../long_tweet.txt"
 #define UNTAGGED_WRITE_PATH "untagged_tweet.txt"
 #define TAGGED_TWEET_PATH "tweet_tagged.txt" 
 #define COMPRESSED_WRITE_PATH "../compressed.txt"
