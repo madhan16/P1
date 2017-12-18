@@ -35,56 +35,6 @@ laughing out loud:             LOL
 right now:                     RN
 wait:                          w8
 estimated time of arrival:     ETA
-alabama:	                     AL
-alaska:	                       AK
-arizona:                       AZ
-arkansas:	                     AR
-california:	                   CA
-colorado:                      CO
-connecticut:	                 CT
-delaware:	                     DE
-florida:	                     FL
-georgia:	                     GA
-hawaii:	                       HI
-idaho:	                       ID
-illinois:	                     IL
-indiana:	                     IN
-iowa:	                         IA
-kansas:	                       KS
-kentucky:	                     KY
-louisiana:	                   LA
-maine:	                       ME
-maryland:                      MD
-massachusetts:	               MA
-michigan:                      MI
-minnesota:                     MN
-mississippi:                   MS
-missouri:                      MO
-montana:                       MT
-nebraska:                      NE
-nevada:	                       NV
-new Hampshire:                 NH
-new Jersey:                    NJ
-new Mexico:                    NM
-new York:                      NY
-north Carolina:                NC
-north Dakota:                  ND
-ohio:                          OH
-oklahoma:                      OK
-oregon:                        OR
-pennsylvania:                  PA
-rhode Island:                  RI
-south Carolina:                SC
-south Dakota:                  SD
-tennessee:                     TN
-texas:                         TX
-utah:                          UT
-vermont:                       VT
-virginia:                      VA
-washington:	                   WA
-west Virginia:                 WV
-wisconsin:                     WI
-wyoming:                       WY
 ammunition:                    ammo
 introduction:                  intro
 laboratory:                    lab
@@ -107,7 +57,6 @@ especially:                    esp
 family:                        Fam
 language:                      lang
 noun:                          n.
-new South Wales:               NSW
 objective:                     obj.
 original:                      orig.
 person:                        pers.
