@@ -115,7 +115,7 @@ int *find_adj_adv_hotspots(int number_of_words, tagged_word_tbl *tagged_tweet) {
     temp_array = (int*)calloc(number_of_words, sizeof(int));
 
     for(i = 0; i < number_of_words; i++){
-        temp_array[i] = check_for_same_tags(&i, tagged_tweet, number_of_words);
+        temp_array[i] = check_for_key_tags(&i, tagged_tweet, number_of_words);
     }
 
     return temp_array;
@@ -123,29 +123,48 @@ int *find_adj_adv_hotspots(int number_of_words, tagged_word_tbl *tagged_tweet) {
 
 /*Rekursive function that moves the index if it finds a adjectiv of adverb and 
   counts up a counter*/
-int check_for_same_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_words) {
+int check_for_key_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_words) {
     /* JJ is the tag for adjectives
        RB is the tag for adverbs
     */
-    if(strcmp(tagged_tweet[*index].tag, "JJ") == 0 || strcmp(tagged_tweet[*index].tag, "RB") == 0) {
+    int temp_count;
+    static int count = 0;
+    if(strcmp(tagged_tweet[*index].tag, "JJ") == 0) {
         *index += 1;
         /*We here make sure we dont look into memory after our struct*/
-        if (*index < number_of_words) 
-            return 1 + check_for_same_tags(index, tagged_tweet, number_of_words); 
+        if (*index < number_of_words) {
+            temp_count = ++count;
+            count = 0;
+            return temp_count + check_for_key_tags(index, tagged_tweet, number_of_words);
+        }            
+        else {
+            return count;
+        }
+           
+    }
+    else if (strcmp(tagged_tweet[*index].tag, "RB") == 0) {
+        *index += 1;
+        /*We here make sure we dont look into memory after our struct*/
+        if (*index < number_of_words) {
+            count++;
+            return 0 + check_for_key_tags(index, tagged_tweet, number_of_words); 
+        }
         else 
-            return 1;
+            return 0;
     }
     /*CC is word like and, or, and but that could connect more adjectives and adverbs but dont count to wards our counter*/
     else if (strcmp(tagged_tweet[*index].tag, "CC") == 0) {
         *index += 1;
         /*We here make sure we dont look into memory after our struct*/
         if (*index < number_of_words) 
-            return 0 + check_for_same_tags(index, tagged_tweet, number_of_words); 
+            return 0 + check_for_key_tags(index, tagged_tweet, number_of_words); 
         else 
             return 0;
     }
-    else 
+    else {
+        count = 0; /*Remeber to reset count*/
         return 0;
+    }
 }
 
 /*=============================
@@ -186,6 +205,7 @@ void print_hotspots(int start_index, int curr_count, tagged_word_tbl *tweet) {
         /*We print the word after the adjectives and adverbs that they describe
           for context for the user*/      
         printf("%s\n", tweet[curr_index].word);
+        printf("Curr count:%d\n", curr_count);
 }
 
 tagged_word_tbl *clean_hotspots(int *number_of_words, tagged_word_tbl *full_tweet, int count[]) {

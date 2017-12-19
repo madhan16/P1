@@ -193,7 +193,6 @@ int find_synonyms_shorter_than_word(char synonyms[][MAX_WORD_LGT], synonym_tbl* 
 
     strcpy(ss->word, cur_word);
     for (i = 0; i < amt_synonyms; i++) {
-        len_synonym = strlen(synonyms[i]);
         if ((strlen(synonyms[i])) < len_cur_word) {
             strcpy(ss->synonym[j], synonyms[i]);
             j++;

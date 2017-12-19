@@ -10,7 +10,7 @@ tagged_word_tbl split_word (char *temp);
 
 /*Functions for finding the hotspots*/
 int *find_adj_adv_hotspots(int number_of_words, tagged_word_tbl *tagged_tweet);
-int check_for_same_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_words);
+int check_for_key_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_words);
 
 /*Functions for showing the hotspots
   NOT USED ANY MORE*/
