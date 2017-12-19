@@ -19,7 +19,7 @@ void find_hotspots_for_tweet () {
 
     /*Then we remove the hotspots*/
     shorter_tweet = clean_hotspots(&number_of_words, tagged_tweet, count);
-    
+
     /*Before printing them to the file*/
     print_compressed_tweet_to_file(shorter_tweet, number_of_words);
 
@@ -146,7 +146,7 @@ int check_for_key_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_
     }
     else if(strcmp(tagged_tweet[*index].tag, "JJ") == 0 || strcmp(tagged_tweet[*index].tag, "VB") == 0) {
         temp_count = count;
-        count = 0;
+        count = 0; /*Remeber to reset count*/
         return temp_count;      
     }
     else {
