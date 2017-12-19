@@ -127,9 +127,8 @@ long binary_search(FILE* ifp, unsigned long* line_positions, long longest_line, 
     /* Check to see if the left index which is now equal to the right index has the word, we are looking for. */
     char a_left[longest_line];
     read_word_in_line(ifp, line_positions[left_index], longest_line, a_left);
-    int cmp = strcmp(search_for, a_left);
-
-    if (cmp == 0) {
+    
+    if (strcmp(search_for, a_left) == 0) {
         return left_index;
     }
 
