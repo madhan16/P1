@@ -8,7 +8,7 @@ enum functions{abbr = 1, syns, hotspots, all};
 /*Our compress tweet function that calls all the other functions*/
 int tweet_setup(twitter_words_tbl *full_tweet, special_signs_tbl no_space_before, special_signs_tbl no_space_after);
 void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb_tbl *abb_list, int abb_lines, special_signs_tbl no_space_before, special_signs_tbl no_space_after);
-void user_interaction(int *function_choice, int *remove_or_not);
+void user_interaction(int *function_choice);
 
 int main(void) {
     int amt_words_full_tweet, abb_tbl_lines;
@@ -32,10 +32,10 @@ int main(void) {
 
 /*COMPRESS TWEET*/
 void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb_tbl *abb_list, int abb_lines, special_signs_tbl no_space_before, special_signs_tbl no_space_after) {
-    int amt_words_abb_tweet, func_choice = 0, removal_choice = 0;
+    int amt_words_abb_tweet, func_choice = 0;
     twitter_words_tbl compressed_tweet[MAX_AMT_WORDS_IN_TWEET];
     
-    user_interaction(&func_choice, &removal_choice);
+    user_interaction(&func_choice);
     
     switch (func_choice) {
         case abbr:
@@ -59,7 +59,7 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
             print_tweet_to_file(full_tweet, amt_words_full_tweet, UNTAGGED_WRITE_PATH, no_space_before, no_space_after); /*untagged_tweet.txt*/
 
             /*Then we can run our program that finds the hotspots and prints it to the file if removal was on*/
-            find_hotspots_for_tweet(removal_choice);
+            find_hotspots_for_tweet();
             break;
 
         case all: /*In this case we do all of the above*/
@@ -69,11 +69,8 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
 
             print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, UNTAGGED_WRITE_PATH, no_space_before, no_space_after); /*untagged_tweet.txt*/
             
-            /*We do this because if we dont remove the adverbs, adjectives, then the text wont get any shorter from here*/
-            if (removal_choice == 2) 
-                print_tweet_to_file(compressed_tweet, amt_words_abb_tweet, COMPRESSED_WRITE_PATH, no_space_before, no_space_after); /*../compressed.txt*/
-        
-            find_hotspots_for_tweet(removal_choice);
+            find_hotspots_for_tweet();
+            /*We do this because if we dont remove the adverbs, adjectives, then the text wont get any shorter from here*/            
             break;
 
         default: printf("Something went wrong\n!"); break;
@@ -81,7 +78,7 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
     printf("\nDone!\n");
 }
 
-void user_interaction(int *function_choice, int *remove_or_not) {
+void user_interaction(int *function_choice) {
     int done = 0;
    
     printf("Which functions do you want to run:\n"
@@ -96,11 +93,4 @@ void user_interaction(int *function_choice, int *remove_or_not) {
         else 
             printf("Invalid input! Please enter another input.\n");       
     } while (!done);
-    
-    if (*function_choice == 3 || *function_choice == 4) {
-         printf("Do you want to remove the extra adverbs and adjectives\n"
-           "(1) Yes\n"
-           "(2) NO\n");
-        scanf("%d", remove_or_not);
-    }
 }

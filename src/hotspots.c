@@ -6,7 +6,7 @@
     return 0;
 }*/
 
-void find_hotspots_for_tweet (int removal_choice) {
+void find_hotspots_for_tweet () {
     int number_of_words, *count;
     tagged_word_tbl *tagged_tweet;
     tagged_word_tbl *shorter_tweet;
@@ -15,17 +15,13 @@ void find_hotspots_for_tweet (int removal_choice) {
     tagged_tweet = setup_tagged_tweet(&number_of_words);
 
     /*Then we look for the hotspots*/
-    count = find_adj_adv_hotspots(number_of_words, tagged_tweet);
+    count = find_adv_hotspots(number_of_words, tagged_tweet);
 
-    /*Then we either remove the hotspots*/
-    if (removal_choice == 1) {
-        shorter_tweet = clean_hotspots(&number_of_words, tagged_tweet, count);
-        print_compressed_tweet_to_file(shorter_tweet, number_of_words);
-    }
-    /*Or we show the hotspots*/
-    else { 
-        show_hotspots(number_of_words, tagged_tweet, count);
-    }
+    /*Then we remove the hotspots*/
+    shorter_tweet = clean_hotspots(&number_of_words, tagged_tweet, count);
+    
+    /*Before printing them to the file*/
+    print_compressed_tweet_to_file(shorter_tweet, number_of_words);
 
     /*Freeing memory again*/
     free(tagged_tweet);
@@ -109,7 +105,7 @@ tagged_word_tbl split_word (char *temp) {
   ====================================*/
 
 /*Function for finding the hot spots*/
-int *find_adj_adv_hotspots(int number_of_words, tagged_word_tbl *tagged_tweet) {
+int *find_adv_hotspots(int number_of_words, tagged_word_tbl *tagged_tweet) {
     int *temp_array, i;
     /*We use calloc here instead to fill the counts with 0 at first*/
     temp_array = (int*)calloc(number_of_words, sizeof(int));
@@ -167,18 +163,6 @@ int check_for_key_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_
     WORKING ON THE HOTSPOTS
   =============================*/
 
-/*Need to rewrite this for in cases with no hotspots er noget med at tælle op også til sidst sige, hvis den ikke er over 1 
-  så print istedet antallet af adjektiver/adverbs ialt. */
-void show_hotspots(int number_of_words, tagged_word_tbl *tweet, int count[]) {
-    int curr_index;
-    printf("You have a lot of adjectives or adverbs in the following parts of your sentence, marked by numbers:\n");
-    for (curr_index = 0; curr_index < number_of_words; curr_index++) {
-        if (count[curr_index] >= HIGH_TAG_AMOUNT) {
-            print_hotspots(curr_index, count[curr_index], tweet);
-        }
-    }
-}
-
 /*Function that prints one of the hotspots if there is found any*/
 void print_hotspots(int start_index, int curr_count, tagged_word_tbl *tweet) {
     int i = 0, amt_conector_words = 0, curr_index;
@@ -229,7 +213,7 @@ int determine_amount_words_to_remove(int curr_index, tagged_word_tbl *full_tweet
             i++;
         }
     }
-    //printf("amt_to_remove: %d\n", amt_to_remove);
+    
     return curr_count + amt_of_cc;
 }
 
@@ -238,5 +222,17 @@ void print_compressed_tweet_to_file(tagged_word_tbl *shorter_tweet, int amt_of_w
     FILE *ofp = fopen(COMPRESSED_WRITE_PATH, "w");
     for (i = 0; i < amt_of_words; i++) {
         fprintf(ofp, "%s ", shorter_tweet[i].word);
+    }
+}
+
+
+/*Ekstra function for showing the adverbs that we want to remove */
+void show_hotspots(int number_of_words, tagged_word_tbl *tweet, int count[]) {
+    int curr_index;
+    printf("You have a lot of adjectives or adverbs in the following parts of your sentence, marked by numbers:\n");
+    for (curr_index = 0; curr_index < number_of_words; curr_index++) {
+        if (count[curr_index] >= HIGH_TAG_AMOUNT) {
+            print_hotspots(curr_index, count[curr_index], tweet);
+        }
     }
 }
