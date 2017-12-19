@@ -83,3 +83,4 @@ boyfriend:                     BF
 thank you:                     ty
 thanks:                        thx
 you:                           u
+seriously:                     srsly
