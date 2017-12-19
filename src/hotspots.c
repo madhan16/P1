@@ -144,13 +144,12 @@ int check_for_key_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_
         else 
             return 0;
     }
-    else if(strcmp(tagged_tweet[*index].tag, "JJ") == 0 || strcmp(tagged_tweet[*index].tag, "VB") == 0) {
+    else {
         temp_count = count;
         count = 0; /*Remeber to reset count*/
-        return temp_count;      
-    }
-    else {
-        count = 0; /*Remeber to reset count*/
+        if (strcmp(tagged_tweet[*index].tag, "JJ") == 0 || strcmp(tagged_tweet[*index].tag, "VB") == 0) {
+            return temp_count;
+        }
         return 0;
     }
 }
