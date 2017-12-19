@@ -205,7 +205,6 @@ void print_hotspots(int start_index, int curr_count, tagged_word_tbl *tweet) {
         /*We print the word after the adjectives and adverbs that they describe
           for context for the user*/      
         printf("%s\n", tweet[curr_index].word);
-        printf("Curr count:%d\n", curr_count);
 }
 
 tagged_word_tbl *clean_hotspots(int *number_of_words, tagged_word_tbl *full_tweet, int count[]) {
