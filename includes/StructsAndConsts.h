@@ -9,7 +9,7 @@
 #define MAX_AMT_SIGNS_IN_TWEET 1000
 #define AMT_SYN 100
 #define TAG_SIZE 4
-#define HIGH_TAG_AMOUNT 2
+#define HIGH_TAG_AMOUNT 1
 #define MAX_AMT_SPECIAL_SIGNS 15
 
 /*change to path /WIN/ if windows*/

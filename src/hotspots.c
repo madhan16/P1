@@ -95,7 +95,7 @@ void load_tweet (FILE *ifp, tagged_word_tbl *tagged_tweet) {
 /*Function that splits the word and tag*/
 tagged_word_tbl split_word (char *temp) {
     tagged_word_tbl w;
-    /*The number 2 is here because we are only interessted in JJ for now not JJs*/
+    /*The number 3 is here so we scan the 3 charcs in the tag*/
     sscanf(temp," %[^_] _ %2s", w.word, w.tag);
     return w;
 }
@@ -129,37 +129,29 @@ int check_for_key_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_
     */
     int temp_count;
     static int count = 0;
-    if(strcmp(tagged_tweet[*index].tag, "JJ") == 0) {
-        *index += 1;
-        /*We here make sure we dont look into memory after our struct*/
-        if (*index < number_of_words) {
-            temp_count = ++count;
-            count = 0;
-            return temp_count + check_for_key_tags(index, tagged_tweet, number_of_words);
-        }            
-        else {
-            return count;
-        }
-           
-    }
-    else if (strcmp(tagged_tweet[*index].tag, "RB") == 0) {
+
+    if (strcmp(tagged_tweet[*index].tag, "RB") == 0) {
         *index += 1;
         /*We here make sure we dont look into memory after our struct*/
         if (*index < number_of_words) {
             count++;
-            return 0 + check_for_key_tags(index, tagged_tweet, number_of_words); 
+            return check_for_key_tags(index, tagged_tweet, number_of_words); 
+        }
+        else 
+            return 0;        
+    }
+    else if (strcmp(tagged_tweet[*index].tag, "CC") == 0) {
+        *index += 1;
+        if (*index < number_of_words) {
+            return check_for_key_tags(index, tagged_tweet, number_of_words); 
         }
         else 
             return 0;
     }
-    /*CC is word like and, or, and but that could connect more adjectives and adverbs but dont count to wards our counter*/
-    else if (strcmp(tagged_tweet[*index].tag, "CC") == 0) {
-        *index += 1;
-        /*We here make sure we dont look into memory after our struct*/
-        if (*index < number_of_words) 
-            return 0 + check_for_key_tags(index, tagged_tweet, number_of_words); 
-        else 
-            return 0;
+    else if(strcmp(tagged_tweet[*index].tag, "JJ") == 0 || strcmp(tagged_tweet[*index].tag, "VB") == 0) {
+        temp_count = count;
+        count = 0;
+        return temp_count;      
     }
     else {
         count = 0; /*Remeber to reset count*/
@@ -217,7 +209,6 @@ tagged_word_tbl *clean_hotspots(int *number_of_words, tagged_word_tbl *full_twee
         if (count[full_tweet_index] >= HIGH_TAG_AMOUNT) {
             full_tweet_index += determine_amount_words_to_remove(full_tweet_index, full_tweet, count[full_tweet_index]);
         }
-        
         shorter_tweet[shorter_tweet_index] = full_tweet[full_tweet_index];
         shorter_tweet_index++;
     }
@@ -239,7 +230,7 @@ int determine_amount_words_to_remove(int curr_index, tagged_word_tbl *full_tweet
         }
     }
     //printf("amt_to_remove: %d\n", amt_to_remove);
-    return curr_count + amt_of_cc - 1;
+    return curr_count + amt_of_cc;
 }
 
 void print_compressed_tweet_to_file(tagged_word_tbl *shorter_tweet, int amt_of_words) {

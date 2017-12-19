@@ -11,19 +11,19 @@ void compress_tweet(twitter_words_tbl *full_tweet, int amt_words_full_tweet, abb
 void user_interaction(int *function_choice, int *remove_or_not);
 
 int main(void) {
-    int amt_words_tweet, abb_tbl_lines;
+    int amt_words_full_tweet, abb_tbl_lines;
     twitter_words_tbl full_tweet[MAX_AMT_WORDS_IN_TWEET];
     special_signs_tbl no_space_before = {")!?.,:;/", 8},
                       no_space_after = {"(\n", 2};
     abb_tbl *abb_list;  
 
-    amt_words_tweet = tweet_setup(full_tweet, no_space_before, no_space_after);
+    amt_words_full_tweet = tweet_setup(full_tweet, no_space_before, no_space_after);
 
     /*Setting up (loading) the abbreviation database*/
     abb_list = abbreviation_setup(&abb_tbl_lines);
 
     /*Compressing the tweet*/
-    compress_tweet(full_tweet, amt_words_tweet, abb_list, abb_tbl_lines, no_space_before, no_space_after);
+    compress_tweet(full_tweet, amt_words_full_tweet, abb_list, abb_tbl_lines, no_space_before, no_space_after);
     
     /*Freeing the allocated memory agian*/
     free(abb_list);
@@ -98,7 +98,7 @@ void user_interaction(int *function_choice, int *remove_or_not) {
     } while (!done);
     
     if (*function_choice == 3 || *function_choice == 4) {
-         printf("Do you want to remove the extra adverbs and adjectives (BETA)\n"
+         printf("Do you want to remove the extra adverbs and adjectives\n"
            "(1) Yes\n"
            "(2) NO\n");
         scanf("%d", remove_or_not);
