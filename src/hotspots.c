@@ -111,7 +111,9 @@ int *find_adv_hotspots(int number_of_words, tagged_word_tbl *tagged_tweet) {
     temp_array = (int*)calloc(number_of_words, sizeof(int));
 
     for(i = 0; i < number_of_words; i++){
-        temp_array[i] = check_for_key_tags(&i, tagged_tweet, number_of_words);
+        if (strcmp(tagged_tweet[i].tag, "RB") == 0) {
+            temp_array[i] = check_for_key_tags(&i, tagged_tweet, number_of_words);
+        }
     }
 
     return temp_array;
