@@ -84,7 +84,7 @@ void user_interaction(int *function_choice) {
     printf("Which functions do you want to run:\n"
            "(1) Abbrevation\n"
            "(2) Find shorter synonyms\n"
-           "(3) Find many adjectives and adverbs\n"
+           "(3) Remove unnecessary adverbs\n"
            "(4) All of the above\n");
      do {
         scanf("%d", function_choice);
