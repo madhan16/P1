@@ -17,9 +17,10 @@ void find_hotspots_for_tweet () {
     /*Then we look for the hotspots*/
     count = find_adv_hotspots(number_of_words, tagged_tweet);
 
+    /*show_hotspots(number_of_words, tagged_tweet, count);*/
     /*Then we remove the hotspots*/
     shorter_tweet = clean_hotspots(&number_of_words, tagged_tweet, count);
-
+    
     /*Before printing them to the file*/
     print_compressed_tweet_to_file(shorter_tweet, number_of_words);
 
@@ -111,9 +112,7 @@ int *find_adv_hotspots(int number_of_words, tagged_word_tbl *tagged_tweet) {
     temp_array = (int*)calloc(number_of_words, sizeof(int));
 
     for(i = 0; i < number_of_words; i++){
-        if (strcmp(tagged_tweet[i].tag, "RB") == 0) {
             temp_array[i] = check_for_key_tags(&i, tagged_tweet, number_of_words);
-        }
     }
 
     return temp_array;
@@ -138,7 +137,7 @@ int check_for_key_tags(int *index, tagged_word_tbl *tagged_tweet, int number_of_
         else 
             return 0;        
     }
-    else if (strcmp(tagged_tweet[*index].tag, "CC") == 0) {
+    else if (strcmp(tagged_tweet[*index].tag, "CC") == 0 && count > 0) {
         *index += 1;
         if (*index < number_of_words) {
             return check_for_key_tags(index, tagged_tweet, number_of_words); 
